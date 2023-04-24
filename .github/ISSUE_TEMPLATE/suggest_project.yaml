@@ -21,9 +21,228 @@ body:
       multiple: true
       options:
         - "Safe Apps"
-        - "Network"
         - "Interface"
+        - "Module"
+        - "Guard"
         - "Connection provider"
         - "Core SDK Integration"
+        - "Network"
     validations:
       required: true
+  - type: dropdown
+    id: primary_category
+    attributes:
+      label: Select a primary category of your project.
+      options:
+        - "DeFi"
+        - "DAO Tooling"
+        - "Payments"
+        - "Collectibles / NFT"
+        - "Infrastructure"
+    validations:
+      required: true
+  - type: dropdown
+    id: secondary_categories
+    attributes:
+      label: Select secondary categories of your project.
+      multiple: true
+      options:
+        - "Collectibles"
+        - "Marketplace"
+        - "Governance"
+        - "DEX"
+        - "DeFi"
+        - "Dashboard"
+        - "SAFE"
+        - "DAO Tooling"
+        - "Fundraising"
+        - "Lending / Borrowing"
+        - "CeFi"
+        - "Institutional"
+        - "Stablecoin"
+        - "Insurance"
+        - "Accounting"
+        - "Payments"
+        - "Tooling"
+        - "Bridge"
+        - "Infrastructure"
+        - "Aggregator"
+        - "Staking"
+        - "Donation"
+        - "Yield"
+        - "Automation"
+        - "Derivatives"
+        - "Wallet"
+        - "Mobile App"
+        - "Messaging"
+        - "Gaming"
+        - "Privacy"
+    validations:
+      required: true
+  - type: textarea
+    id: project_logo
+    attributes:
+      label: Project logo
+      description: |
+        Please provide an SVG or hi-res transparent PNG
+        Tip: You can attach images by clicking this area to highlight it and then dragging files in.
+    validations:
+      required: true
+  - type: textarea
+    id: value_prop
+    attributes:
+      label: Value proposition
+      description: Please provide a brief description of the project's value proposition.
+    validations:
+      required: false
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Please provide contact information for the project.
+    validations:
+      required: false
+  - type: input
+    id: project_website
+    attributes:
+      label: Project URL
+      description: Please provide the URL of the project's website.
+    validations:
+      required: false
+  - type: input
+    id: github_dev_docs
+    attributes:
+      label: Github / Dev Docs
+      description: Please provide the URL of the project's Github / Documentation for developers.
+    validations:
+      required: false
+  - type: input
+    id: twitter
+    attributes:
+      label: Twitter
+      description: Please provide the project's Twitter handle.
+    validations:
+      required: false
+  - type: dropdown
+    id: primary_integration
+    attributes:
+      label: Primary integration
+      description: Please provide the primary integration of the project.
+      multiple: true
+      options:
+        - "Safe Apps SDK"
+        - "Core SDK"
+        - "Transaction Service API"
+        - "Unsure"
+        - "Safe Contracts"
+    validations:
+      required: false
+  - type: dropdown
+    id: packages
+    attributes:
+      label: Packages
+      description: Please provide a list of the packages used by the project
+      multiple: true
+      options:
+        - "Safe Core SDK"
+        - "Safe Service Client"
+        - "Transaction Service API"
+        - "Unsure"
+        - "Safe Deployments"
+        - "Safe Ethers Lib"
+        - "Safe Ethers Adapter"
+        - "web3-onboard"
+        - "web3-react"
+        - "safe-apps-wagmi"
+        - "safe-apps-web3modal"
+    validations:
+      required: false
+  - type: textarea
+    id: modules_guards
+    attributes:
+      label: Modules / Guards
+      description: Please provide a list of modules / guards (if any) you are using in your project.
+    validations:
+      required: false
+  - type: dropdown
+    id: ownership
+    attributes:
+      label: Ownership
+      description: Ownership of the project.
+      multiple: true
+      options:
+        - "External"
+        - "Internal"
+        - "Unsure"
+    validations:
+      required: false
+  - type: textarea
+    id: safe_apps_smart
+    attributes:
+      label: Safe Apps Smart
+      description: TODO
+    validations:
+      required: false
+  - type: dropdown
+    id: safe_apps_status
+    attributes:
+      label: Safe Apps Status
+      description: TODO
+      options:
+        - "Online"
+        - "Removed"
+        - "Disabled"
+        - "Offline"
+    validations:
+      required: false
+  - type: dropdown
+    id: networks
+    attributes:
+      label: Networks
+      description: Please provide a list of supported networks.
+      multiple: true
+      options:
+        - "Ethereum"
+        - "BNB"
+        - "Gnosis Chain"
+        - "Polygon"
+        - "Optimism"
+        - "Avalanche"
+        - "Arbitrum"
+        - "Aurora"
+    validations:
+      required: false
+  - type: input
+    id: safe_app_url
+    attributes:
+      label: Safe App URL
+      description: Please provide the URL of the project's safe app.
+    validations:
+      required: false
+  - type: dropdown
+    id: interface_can_you_create_a_safe
+    attributes:
+      label: Can you create a Safe via the interface?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
+  - type: dropdown
+    id: interface_can_you_import_an_existing_safe
+    attributes:
+      label: Can you import an existing Safe via the interface?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
+  - type: dropdown
+    id: interface_does_it_only_use_safe_as_their_account
+    attributes:
+      label: Does it only use Safe as their account?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: false
