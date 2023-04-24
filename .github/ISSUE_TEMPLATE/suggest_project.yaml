@@ -1,0 +1,29 @@
+name: Suggest a project
+description: Suggest a new project to list on safe.global
+title: Suggest a project
+labels: ["project :game_die:"]
+body:
+  - type: markdown
+    id: project_info
+    attributes:
+      value: "## Project info"
+  - type: input
+    id: project_name
+    attributes:
+      label: Project
+      description: Please provide the official name of the project.
+    validations:
+      required: true
+  - type: dropdown
+    id: project_scope
+    attributes:
+      label: Please provide the project scope.
+      multiple: true
+      options:
+        - "Safe Apps"
+        - "Network"
+        - "Interface"
+        - "Connection provider"
+        - "Core SDK Integration"
+    validations:
+      required: true
