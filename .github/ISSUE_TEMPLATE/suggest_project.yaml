@@ -164,35 +164,11 @@ body:
       description: Please provide a list of modules / guards (if any) you are using in your project.
     validations:
       required: false
-  - type: dropdown
-    id: ownership
-    attributes:
-      label: Ownership
-      description: Ownership of the project.
-      multiple: true
-      options:
-        - "External"
-        - "Internal"
-        - "Unsure"
-    validations:
-      required: false
   - type: textarea
     id: safe_apps_smart
     attributes:
-      label: Safe Apps Smart
-      description: TODO
-    validations:
-      required: false
-  - type: dropdown
-    id: safe_apps_status
-    attributes:
-      label: Safe Apps Status
-      description: TODO
-      options:
-        - "Online"
-        - "Removed"
-        - "Disabled"
-        - "Offline"
+      label: Smart Accounts
+      description: How are you leveraging the benefits of Smart Accounts?
     validations:
       required: false
   - type: dropdown
@@ -212,13 +188,6 @@ body:
         - "Aurora"
     validations:
       required: false
-  - type: input
-    id: safe_app_url
-    attributes:
-      label: Safe App URL
-      description: Please provide the URL of the project's safe app.
-    validations:
-      required: false
   - type: dropdown
     id: interface_can_you_create_a_safe
     attributes:
@@ -232,15 +201,6 @@ body:
     id: interface_can_you_import_an_existing_safe
     attributes:
       label: Can you import an existing Safe via the interface?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: false
-  - type: dropdown
-    id: interface_does_it_only_use_safe_as_their_account
-    attributes:
-      label: Does it only use Safe as their account?
       options:
         - "Yes"
         - "No"
