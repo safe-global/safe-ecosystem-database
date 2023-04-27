@@ -45,6 +45,7 @@ body:
     id: secondary_categories
     attributes:
       label: Select secondary categories of your project.
+      description: Please select up to 3 categories.
       multiple: true
       options:
         - "Collectibles"
