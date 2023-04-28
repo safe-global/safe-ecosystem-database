@@ -4,7 +4,7 @@
     "project_scope": "Safe Apps",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/castle.png",
+    "logo": "./logos/castle.png",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -16,14 +16,14 @@
     "safe_apps_smart": "Basket experience, transaction batching, transaction queue native UI",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "0xPlasma Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Dashboard",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/plasma.png",
+    "logo": "./logos/plasma.png",
     "value_prop": "",
     "project_website": "https://plasma.finance/",
     "github_dev_docs": "",
@@ -35,14 +35,14 @@
     "safe_apps_smart": "Batch transactions No need to approve token swaps: cheaper transactions",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "0xSplits",
     "project_scope": "",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/splits.svg",
+    "logo": "./logos/splits.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -54,14 +54,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "0xSplits",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DAO Tooling, Infrastructure",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/splitz0x.jpeg",
+    "logo": "./logos/splitz0x.jpeg",
     "value_prop": "",
     "project_website": "https://www.0xsplits.xyz/",
     "github_dev_docs": "https://github.com/0xSplits",
@@ -73,7 +73,7 @@
     "safe_apps_smart": "",
     "networks": "Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "1inch Network",
@@ -92,7 +92,7 @@
     "safe_apps_smart": "Batch transactions. No need to approve token swaps. No need to approve token swaps: cheaper transactions",
     "networks": "BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Aave v3",
@@ -111,14 +111,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Aelin",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Fundraising",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/aelin.png",
+    "logo": "./logos/aelin.png",
     "value_prop": "",
     "project_website": "https://aelin.xyz/",
     "github_dev_docs": "https://github.com/AelinXYZ",
@@ -130,14 +130,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Optimism",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Alkemi Earn",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/alkemi.png",
+    "logo": "./logos/alkemi.png",
     "value_prop": "",
     "project_website": "https://alkemi.network/",
     "github_dev_docs": "https://github.com/AlkemiNetwork",
@@ -149,14 +149,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Angle Protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/angle.svg",
+    "logo": "./logos/angle.svg",
     "value_prop": "",
     "project_website": "https://www.angle.money/",
     "github_dev_docs": "https://github.com/AngleProtocol/",
@@ -168,14 +168,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Arbitrum",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DEX, DeFi, Institutional, Payments, Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/arbi.jpeg",
+    "logo": "./logos/arbi.jpeg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -187,14 +187,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "http://Armor.Fi (ease.org)",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Insurance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/oaoxHxuz_400x400.jpeg",
+    "logo": "./logos/oaoxHxuz_400x400.jpeg",
     "value_prop": "After rebranding to Ease.org they removed Safe compatibility",
     "project_website": "https://ease.org/",
     "github_dev_docs": "https://github.com/easeDeFi",
@@ -206,7 +206,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "ATA Netwok",
@@ -225,14 +225,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Atomic0",
     "project_scope": "Safe Apps",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/favicon.png",
+    "logo": "./logos/favicon.png",
     "value_prop": "Stopped operations. Ethereum NFT marketplace for collectibles.",
     "project_website": "https://atomic0.com/",
     "github_dev_docs": "https://docs.atomic0.com/",
@@ -244,14 +244,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Aura Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/aura.svg",
+    "logo": "./logos/aura.svg",
     "value_prop": "",
     "project_website": "https://aura.finance/",
     "github_dev_docs": "https://github.com/aurafinance",
@@ -263,14 +263,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Aurora",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, Dashboard, Gaming, Marketplace, Messaging",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/aurora.jpeg",
+    "logo": "./logos/aurora.jpeg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -282,7 +282,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Autonolas",
@@ -301,14 +301,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Avalanche",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Bridge, CeFi, DeFi, Gaming, Mobile App, Privacy, Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/avax.svg",
+    "logo": "./logos/avax.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -320,7 +320,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Balancer",
@@ -339,14 +339,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Bancor",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/bancor.png",
+    "logo": "./logos/bancor.png",
     "value_prop": "",
     "project_website": "https://home.bancor.network/",
     "github_dev_docs": "https://github.com/bancorprotocol",
@@ -358,14 +358,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Barnbridge",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/download.jpeg",
+    "logo": "./logos/download.jpeg",
     "value_prop": "Jan 2023 they applied a big refactor removing Safe integration",
     "project_website": "https://barnbridge.com/",
     "github_dev_docs": "https://github.com/barnbridge",
@@ -377,14 +377,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Base",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DEX, DeFi, Institutional, Stablecoin, Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Base.png",
+    "logo": "./logos/Base.png",
     "value_prop": "L2 Network built on OP Stack",
     "project_website": "https://base.org/",
     "github_dev_docs": "",
@@ -396,14 +396,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Binance Smart Chain",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DEX, DeFi, Gaming, Lending/Borrowing, Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/bnb.png",
+    "logo": "./logos/bnb.png",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -415,14 +415,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Bitbond Token Tool",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Fundraising",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/download.png",
+    "logo": "./logos/download.png",
     "value_prop": "",
     "project_website": "https://www.bitbond.com/",
     "github_dev_docs": "https://github.com/bitbond",
@@ -434,7 +434,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Block Terminal",
@@ -453,14 +453,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Blocknative",
     "project_scope": "Connection provider",
     "primary_category": "",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/blocknatice.jpeg",
+    "logo": "./logos/blocknatice.jpeg",
     "value_prop": "Blocknative provides and maintain web3onboard library",
     "project_website": "https://www.blocknative.com/",
     "github_dev_docs": "https://github.com/blocknative",
@@ -472,14 +472,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Brahma",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, DeFi, Derivatives, Lending/Borrowing, Payments, Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/brahma.jpeg",
+    "logo": "./logos/brahma.jpeg",
     "value_prop": "Earn, hedge, and deploy capital across DeFi with Brahma",
     "project_website": "https://console.brahma.fi",
     "github_dev_docs": "",
@@ -498,7 +498,7 @@
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Accounting, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/bulla.png",
+    "logo": "./logos/bulla.png",
     "value_prop": "",
     "project_website": "https://bulla.network/",
     "github_dev_docs": "https://github.com/bulla-network/bulla-contracts",
@@ -510,7 +510,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Bunni",
@@ -529,14 +529,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Candide Wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/candide.jpeg",
+    "logo": "./logos/candide.jpeg",
     "value_prop": "Candide is an Ethereum wallet build as a public good",
     "project_website": "https://www.candidewallet.com/",
     "github_dev_docs": "https://github.com/candidelabs",
@@ -548,14 +548,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Cardstack",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DeFi, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/cardstack.jpeg",
+    "logo": "./logos/cardstack.jpeg",
     "value_prop": "Web 3 Tool Box",
     "project_website": "https://cardstack.com/",
     "github_dev_docs": "https://github.com/cardstack",
@@ -567,14 +567,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Casa",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Institutional, Mobile App, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/casa.png",
+    "logo": "./logos/casa.png",
     "value_prop": "Casa Multisig protects your bitcoin / ether with multiple keys, so losing one key doesn't mean losing funds",
     "project_website": "https://keys.casa/how-it-works",
     "github_dev_docs": "https://github.com/Casa",
@@ -586,7 +586,7 @@
     "safe_apps_smart": "",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Casa",
@@ -605,14 +605,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Cask Protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Cask.png",
+    "logo": "./logos/Cask.png",
     "value_prop": "",
     "project_website": "https://www.cask.fi/",
     "github_dev_docs": "https://github.com/CaskProtocol/",
@@ -624,14 +624,14 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Castle",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/castle.jpeg",
+    "logo": "./logos/castle.jpeg",
     "value_prop": "The smart and safe way to manage your NFTs",
     "project_website": "https://castle.link/",
     "github_dev_docs": "",
@@ -643,14 +643,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "CharmVerse",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/charmverse.jpeg",
+    "logo": "./logos/charmverse.jpeg",
     "value_prop": "CharmVerse is a Web3 operations platform handling docs, tasks, bounties, proposals, and votes",
     "project_website": "https://app.charmverse.io/",
     "github_dev_docs": "https://github.com/charmverse",
@@ -662,14 +662,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Circles UBI",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Donation, Mobile App",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/circles.jpeg",
+    "logo": "./logos/circles.jpeg",
     "value_prop": "Circles is a decentralised Universal Basic Income platform based on personal cryptocurrencies",
     "project_website": "https://circles.garden/welcome",
     "github_dev_docs": "https://github.com/CirclesUBI",
@@ -681,14 +681,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Cobo Safe",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Institutional",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/cobo.svg",
+    "logo": "./logos/cobo.svg",
     "value_prop": "",
     "project_website": "https://www.cobo.com/",
     "github_dev_docs": "-",
@@ -700,14 +700,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Coinshift",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Coinshift.jpeg",
+    "logo": "./logos/Coinshift.jpeg",
     "value_prop": "Smart Treasury Management for DAOs and Companies",
     "project_website": "https://coinshift.xyz/",
     "github_dev_docs": "",
@@ -719,14 +719,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Collabland",
     "project_scope": "Interface",
     "primary_category": "",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/collab.jpeg",
+    "logo": "./logos/collab.jpeg",
     "value_prop": "Collab.Land leverages the power of identity through crypto currency to create a social space unique to a specific network of humans.",
     "project_website": "https://www.collab.land/",
     "github_dev_docs": "https://github.com/collabland",
@@ -738,7 +738,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Connext",
@@ -757,14 +757,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "CoW Swap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/cow.png",
+    "logo": "./logos/cow.png",
     "value_prop": "",
     "project_website": "https://cow.fi/",
     "github_dev_docs": "https://github.com/cowprotocol/",
@@ -776,14 +776,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Ethereum, Gnosis Chain",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Cryptio",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/cryptio.jpeg",
+    "logo": "./logos/cryptio.jpeg",
     "value_prop": "Enterprise-grade accounting, audit and tax software for your digital assets",
     "project_website": "https://cryptio.co/",
     "github_dev_docs": "",
@@ -795,7 +795,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "CSV Airdrop",
@@ -814,14 +814,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Curve Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Curve.png",
+    "logo": "./logos/Curve.png",
     "value_prop": "",
     "project_website": "https://curve.fi",
     "github_dev_docs": "https://github.com/curvefi/curve-contract",
@@ -833,14 +833,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "DAA Finance",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "DAO Tooling, Institutional",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/daa.jpg",
+    "logo": "./logos/daa.jpg",
     "value_prop": "",
     "project_website": "https://github.com/DAA-Finance",
     "github_dev_docs": "https://github.com/DAA-Finance",
@@ -852,14 +852,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "DAOHaus",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/daohaus.png",
+    "logo": "./logos/daohaus.png",
     "value_prop": "",
     "project_website": "https://daohaus.club/",
     "github_dev_docs": "https://github.com/HausDAO/daohaus-app",
@@ -871,7 +871,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "DeFi Saver",
@@ -890,14 +890,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Dework.xyz",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Dework.jpeg",
+    "logo": "./logos/Dework.jpeg",
     "value_prop": "Web3-native project management with token payments, credentialing, bounties",
     "project_website": "https://dework.xyz/",
     "github_dev_docs": "https://github.com/deworkxyz",
@@ -909,7 +909,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "dHEDGE",
@@ -928,14 +928,14 @@
     "safe_apps_smart": "—",
     "networks": "Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "DODO",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/dodo.png",
+    "logo": "./logos/dodo.png",
     "value_prop": "",
     "project_website": "https://dodoex.io/",
     "github_dev_docs": "https://github.com/DODOEX",
@@ -947,14 +947,14 @@
     "safe_apps_smart": "No",
     "networks": "BNB, Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Drain Account",
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/drain.svg",
+    "logo": "./logos/drain.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -966,14 +966,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "DustSweeper",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/dust.png",
+    "logo": "./logos/dust.png",
     "value_prop": "",
     "project_website": "https://www.dustsweeper.xyz/",
     "github_dev_docs": "https://serious-sage-f34.notion.site/Taker-Bot-Integration-DustSweeper-v2-ff65b53a9c344701a46131a2b254642d",
@@ -985,7 +985,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "ENS - Ethereum Name Service",
@@ -1004,14 +1004,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Palmera",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Palmera.jpeg",
+    "logo": "./logos/Palmera.jpeg",
     "value_prop": "",
     "project_website": "https://www.palmeradao.xyz/",
     "github_dev_docs": "",
@@ -1023,14 +1023,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Enzyme Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Dashboard",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/melon.svg",
+    "logo": "./logos/melon.svg",
     "value_prop": "",
     "project_website": "https://enzyme.finance/",
     "github_dev_docs": "",
@@ -1042,7 +1042,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "ETHA Lend = The DeFi Yield Optimizer",
@@ -1061,7 +1061,7 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Exactly",
@@ -1080,14 +1080,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Exponent",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "DeFi, Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/exponent.jpeg",
+    "logo": "./logos/exponent.jpeg",
     "value_prop": "Exponent is your decentralized community’s risk and treasury management partner.",
     "project_website": "https://exponent.cx/",
     "github_dev_docs": "https://github.com/exponent-cx",
@@ -1099,7 +1099,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Fileverse",
@@ -1118,14 +1118,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Firm",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Governance, Institutional, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/firm.jpeg",
+    "logo": "./logos/firm.jpeg",
     "value_prop": "Building internet-native companies",
     "project_website": "https://firm.org/",
     "github_dev_docs": "",
@@ -1137,7 +1137,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Forum DAOs",
@@ -1156,14 +1156,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Fractal",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Fractal.jpeg",
+    "logo": "./logos/Fractal.jpeg",
     "value_prop": "We built our DAO framework with Safe's at every SubDAO level.",
     "project_website": "https://www.fractalframework.xyz/",
     "github_dev_docs": "",
@@ -1175,7 +1175,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Fractal",
@@ -1194,7 +1194,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Furucombo",
@@ -1213,14 +1213,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Gelato Network",
     "project_scope": "Core SDK Integration",
     "primary_category": "Infrastructure",
     "secondary_categories": "Automation, Infrastructure, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Gelato_brand_mark.png",
+    "logo": "./logos/Gelato_brand_mark.png",
     "value_prop": "Enables developers to create augmented smart contracts\nthat are automated, gasless & off-chain aware",
     "project_website": "https://www.gelato.network/",
     "github_dev_docs": "https://github.com/gelatodigital",
@@ -1232,7 +1232,7 @@
     "safe_apps_smart": "",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Giveth",
@@ -1251,7 +1251,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Gnosis Chain",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Gnosis Auction Starter",
@@ -1270,14 +1270,14 @@
     "safe_apps_smart": "Yes (token launches can only take place through the safe apps interface)",
     "networks": "Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Gnosis Chain",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, Collectibles, DAO Tooling, DEX, DeFi, Governance, Marketplace, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/gno.jpeg",
+    "logo": "./logos/gno.jpeg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -1289,14 +1289,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Gnosis Guild aka Zodiac",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Infrastructure",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/zodiac.jpeg",
+    "logo": "./logos/zodiac.jpeg",
     "value_prop": "A composable design philosophy for DAOs, Zodiac is a collection of tools built according to an open standard",
     "project_website": "https://www.gnosisguild.org/",
     "github_dev_docs": "https://github.com/gnosis/zodiac (and others)",
@@ -1308,14 +1308,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Grindery",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Automation, Infrastructure, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/grindery.jpeg",
+    "logo": "./logos/grindery.jpeg",
     "value_prop": "The easiest way for people and organizations to connect Apps and dApps across chains and protocols",
     "project_website": "https://www.grindery.io/",
     "github_dev_docs": "https://github.com/grindery-io",
@@ -1327,7 +1327,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Hedgey Escrowless Token Swaps",
@@ -1346,7 +1346,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Hedgey Time-Locked Token Distribution",
@@ -1365,7 +1365,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Hedgey Token Distributions to Investors",
@@ -1384,14 +1384,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Hop Protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/hop.jpeg",
+    "logo": "./logos/hop.jpeg",
     "value_prop": "",
     "project_website": "https://hop.exchange/",
     "github_dev_docs": "https://github.com/hop-protocol",
@@ -1403,7 +1403,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Idle v4",
@@ -1422,7 +1422,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "IHELP Protocol",
@@ -1441,14 +1441,14 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Instadapp",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Automation",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/insta.webp",
+    "logo": "./logos/insta.webp",
     "value_prop": "",
     "project_website": "https://instadapp.io/",
     "github_dev_docs": "https://github.com/instadapp",
@@ -1460,14 +1460,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "InsurAce",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, Insurance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/insure.png",
+    "logo": "./logos/insure.png",
     "value_prop": "",
     "project_website": "https://www.insurace.io/",
     "github_dev_docs": "https://github.com/InsurAce-Protocol",
@@ -1479,14 +1479,14 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche, BNB, Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Integral",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/integral.svg",
+    "logo": "./logos/integral.svg",
     "value_prop": "",
     "project_website": "https://integral.link/",
     "github_dev_docs": "https://github.com/IntegralHQ",
@@ -1498,14 +1498,14 @@
     "safe_apps_smart": "—",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Juicebox",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Fundraising, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/juicebox.png",
+    "logo": "./logos/juicebox.png",
     "value_prop": "",
     "project_website": "https://juicebox.money/",
     "github_dev_docs": "https://github.com/jbx-protocol/juice-interface",
@@ -1517,14 +1517,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Kairos",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/kairos.jpeg",
+    "logo": "./logos/kairos.jpeg",
     "value_prop": "Unlock the value of your NFTs instantly with the best terms",
     "project_website": "https://www.kairos.loan/",
     "github_dev_docs": "https://github.com/kairos-loan",
@@ -1536,14 +1536,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Kwenta",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Derivatives",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/kwenta.svg",
+    "logo": "./logos/kwenta.svg",
     "value_prop": "",
     "project_website": "https://kwenta.io/",
     "github_dev_docs": "https://github.com/Kwenta/kwenta",
@@ -1555,7 +1555,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Optimism",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Laser",
@@ -1574,7 +1574,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Lido Staking",
@@ -1593,14 +1593,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Liminal",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, Dashboard, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/liminal.png",
+    "logo": "./logos/liminal.png",
     "value_prop": "Enterprise-grade platform that offers a robust infrastructure for managing digital assets",
     "project_website": "https://www.lmnl.app/",
     "github_dev_docs": "https://github.com/Liminalhq",
@@ -1612,14 +1612,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Linen Wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Mobile App, Payments, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Linen.jpeg",
+    "logo": "./logos/Linen.jpeg",
     "value_prop": "Linen is the most simple and secure self-custody wallet",
     "project_website": "https://linen.app/",
     "github_dev_docs": "https://github.com/linen-app",
@@ -1631,7 +1631,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Linkdrop",
@@ -1650,7 +1650,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Liquity Frontend",
@@ -1669,14 +1669,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "LlamaPay",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/llama.svg",
+    "logo": "./logos/llama.svg",
     "value_prop": "",
     "project_website": "https://llamapay.io/",
     "github_dev_docs": "https://github.com/LlamaPay",
@@ -1688,14 +1688,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Lomads",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Dashboard, Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/lomads.jpeg",
+    "logo": "./logos/lomads.jpeg",
     "value_prop": "Ultimate finance and operations dashboard for DAOs",
     "project_website": "https://www.lomads.xyz/",
     "github_dev_docs": "",
@@ -1707,14 +1707,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Maker Governance Portal",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/maker.svg",
+    "logo": "./logos/maker.svg",
     "value_prop": "",
     "project_website": "https://vote.makerdao.com/",
     "github_dev_docs": "https://github.com/makerdao/governance-portal-v2",
@@ -1726,14 +1726,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Mean Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, Automation",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/226932695-a3a657a9-2c6a-4daa-801a-e18526b9303b.svg",
+    "logo": "./logos/226932695-a3a657a9-2c6a-4daa-801a-e18526b9303b.svg",
     "value_prop": "",
     "project_website": "https://mean.finance/create",
     "github_dev_docs": "https://github.com/Mean-Finance",
@@ -1745,14 +1745,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Mesha Club",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Automation, CeFi, DeFi, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/mesha.jpeg",
+    "logo": "./logos/mesha.jpeg",
     "value_prop": "Corporate cards and expense management for web3 projects",
     "project_website": "https://www.mesha.club/",
     "github_dev_docs": "",
@@ -1764,14 +1764,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Metropolis",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Infrastructure, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/orca.jpeg",
+    "logo": "./logos/orca.jpeg",
     "value_prop": "On-chain permissions for DAO working groups",
     "project_website": "https://www.metropolis.space/",
     "github_dev_docs": "https://github.com/orcaprotocol",
@@ -1783,14 +1783,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Minerva Wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Mobile App, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Minerva.jpeg",
+    "logo": "./logos/Minerva.jpeg",
     "value_prop": "Minerva Wallet is a user friendly app for",
     "project_website": "https://minerva.digital/",
     "github_dev_docs": "https://github.com/lab10-coop",
@@ -1802,7 +1802,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Morpho",
@@ -1821,7 +1821,7 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Motherboard",
@@ -1840,7 +1840,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Motherboard",
@@ -1859,14 +1859,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "mStable",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/mstable.png",
+    "logo": "./logos/mstable.png",
     "value_prop": "",
     "project_website": "https://mstable.org/",
     "github_dev_docs": "https://github.com/mstable",
@@ -1878,14 +1878,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Multis",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, CeFi, Payments, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/multis.jpeg",
+    "logo": "./logos/multis.jpeg",
     "value_prop": "Corporate cards and financial software for web3",
     "project_website": "https://multis.co/",
     "github_dev_docs": "https://github.com/multis",
@@ -1897,14 +1897,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Mural",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/mural.png",
+    "logo": "./logos/mural.png",
     "value_prop": "Web3 full stack agency",
     "project_website": "https://www.mural.xyz/",
     "github_dev_docs": "",
@@ -1916,7 +1916,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Narval",
@@ -1935,14 +1935,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Nest.xyz",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Nest.jpeg",
+    "logo": "./logos/Nest.jpeg",
     "value_prop": "Nest Wallet is a browser extension for your Gnosis Safe. The friendliest way to use a multisig wallet",
     "project_website": "https://nestwallet.xyz/",
     "github_dev_docs": "",
@@ -1954,14 +1954,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Nexus Mutual",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Insurance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/nuxus.svg",
+    "logo": "./logos/nuxus.svg",
     "value_prop": "",
     "project_website": "https://nexusmutual.io/",
     "github_dev_docs": "https://github.com/NexusMutual",
@@ -1973,14 +1973,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "NFT.fi",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/nftfi.jpeg",
+    "logo": "./logos/nftfi.jpeg",
     "value_prop": "Use the NFTs you own to access the liquidity you need",
     "project_website": "https://www.nftfi.com/",
     "github_dev_docs": "https://github.com/NFTfi-Genesis",
@@ -1992,14 +1992,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "NinDAO",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance, Messaging, Mobile App",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/nindao.jpeg",
+    "logo": "./logos/nindao.jpeg",
     "value_prop": "Convert group chats into DAOs",
     "project_website": "https://nindao.xyz/",
     "github_dev_docs": "https://github.com/nindao",
@@ -2011,14 +2011,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Oasis",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/logomark_gradient.png",
+    "logo": "./logos/logomark_gradient.png",
     "value_prop": "",
     "project_website": "https://oasis.app/#earn",
     "github_dev_docs": "https://github.com/OasisDEX/oasis-borrow/",
@@ -2030,14 +2030,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "https://www.notion.so/Join-Den-Catalyze-The-Economy-s-Transition-To-Web3-65762ed68b0246c3aa6893eb87231626",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Den.jpeg",
+    "logo": "./logos/Den.jpeg",
     "value_prop": "Get your transactions built & signed fast",
     "project_website": "https://www.onchainden.com/",
     "github_dev_docs": "https://github.com/OnChainDen",
@@ -2049,14 +2049,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Open Zeppelin Defender",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/OZ.jpeg",
+    "logo": "./logos/OZ.jpeg",
     "value_prop": "The first secure operations platform for smart contracts",
     "project_website": "https://www.openzeppelin.com/defender",
     "github_dev_docs": "https://github.com/openzeppelin",
@@ -2068,14 +2068,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Openfort.xyz",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/openfort.jpeg",
+    "logo": "./logos/openfort.jpeg",
     "value_prop": "Gives developers the tools to use the blockchain without disrupting UX. Players benefit from true ownership while having full immersion in your game.",
     "project_website": "https://www.openfort.xyz/",
     "github_dev_docs": "",
@@ -2087,14 +2087,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "OpenOcean",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/openocean.png",
+    "logo": "./logos/openocean.png",
     "value_prop": "",
     "project_website": "https://openocean.finance/",
     "github_dev_docs": "https://github.com/openocean-finance/",
@@ -2106,7 +2106,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "OpenZeppelin (unmaintained)",
@@ -2125,7 +2125,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Opium Pools",
@@ -2144,14 +2144,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Optimism",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DAO Tooling, DEX, Dashboard, DeFi, Fundraising, Governance, Stablecoin, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/op.png",
+    "logo": "./logos/op.png",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -2163,14 +2163,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Origin Dollar",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/oirgin.svg",
+    "logo": "./logos/oirgin.svg",
     "value_prop": "",
     "project_website": "https://www.ousd.com/",
     "github_dev_docs": "https://github.com/OriginProtocol/origin-dollar",
@@ -2182,14 +2182,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "OtoCo",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/otoco.png",
+    "logo": "./logos/otoco.png",
     "value_prop": "",
     "project_website": "https://otoco.io/",
     "github_dev_docs": "https://github.com/otoco-io",
@@ -2201,7 +2201,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Outcome Finance",
@@ -2220,14 +2220,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "PancakeSwap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/pancake.png",
+    "logo": "./logos/pancake.png",
     "value_prop": "",
     "project_website": "https://pancakeswap.finance/",
     "github_dev_docs": "https://github.com/pancakeswap/",
@@ -2239,14 +2239,14 @@
     "safe_apps_smart": "No",
     "networks": "BNB, Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Pangolin",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/pangolin1623161687777.png",
+    "logo": "./logos/pangolin1623161687777.png",
     "value_prop": "",
     "project_website": "https://www.pangolin.exchange/",
     "github_dev_docs": "https://github.com/pangolindex",
@@ -2258,14 +2258,14 @@
     "safe_apps_smart": "—",
     "networks": "Avalanche",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "ParaSwap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Logo_dark_colors.svg",
+    "logo": "./logos/Logo_dark_colors.svg",
     "value_prop": "",
     "project_website": "https://www.paraswap.io/",
     "github_dev_docs": "https://github.com/paraswap",
@@ -2277,14 +2277,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Avalanche, BNB, Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Parcel Inc",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Parcel.jpeg",
+    "logo": "./logos/Parcel.jpeg",
     "value_prop": "A suite of tools to scale DAO financial operations and empower DAO contributors",
     "project_website": "https://parcel.money/",
     "github_dev_docs": "https://github.com/ParcelHQ",
@@ -2296,14 +2296,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Patch",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Messaging, Payments, Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/patch.jpeg",
+    "logo": "./logos/patch.jpeg",
     "value_prop": "",
     "project_website": "https://app.patchwallet.com/",
     "github_dev_docs": "",
@@ -2315,14 +2315,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Paymagic",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Automation, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/paymagic.jpeg",
+    "logo": "./logos/paymagic.jpeg",
     "value_prop": "Automate DAO rewards and payments",
     "project_website": "https://www.paymagic.xyz/",
     "github_dev_docs": "https://github.com/PaymagicXYZ",
@@ -2334,7 +2334,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Peaze",
@@ -2353,14 +2353,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Polygon",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DEX, DeFi, Gaming, Governance, Marketplace, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/poly.jpeg",
+    "logo": "./logos/poly.jpeg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -2372,7 +2372,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Polynomial Earn Vaults",
@@ -2391,7 +2391,7 @@
     "safe_apps_smart": "No",
     "networks": "Optimism",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "PoolTogether",
@@ -2410,7 +2410,7 @@
     "safe_apps_smart": "—",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Prime Deals",
@@ -2429,14 +2429,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Prysm",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, DAO Tooling, Fundraising, Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/prysm.jpeg",
+    "logo": "./logos/prysm.jpeg",
     "value_prop": "Prysm supercharges your community with the power to pool andmanage capital to turn your mission into a collective movement.Enter SquadsGet Access NFT",
     "project_website": "https://www.prysm.xyz/",
     "github_dev_docs": "",
@@ -2448,14 +2448,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "PWN",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/pwn.jpeg",
+    "logo": "./logos/pwn.jpeg",
     "value_prop": "Peer to peer lending using any token as collateral",
     "project_website": "https://pwn.xyz/",
     "github_dev_docs": "https://github.com/PWNFinance",
@@ -2467,14 +2467,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Quickswap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/quickswap.jpeg",
+    "logo": "./logos/quickswap.jpeg",
     "value_prop": "",
     "project_website": "https://quickswap.exchange/#/",
     "github_dev_docs": "https://github.com/QuickSwap",
@@ -2486,14 +2486,14 @@
     "safe_apps_smart": "—",
     "networks": "Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Rabby.io",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Rabby.jpeg",
+    "logo": "./logos/Rabby.jpeg",
     "value_prop": "Multi-chain wallet",
     "project_website": "https://rabby.io/",
     "github_dev_docs": "https://github.com/RabbyHub",
@@ -2505,14 +2505,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Radicle",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Radicle.jpeg",
+    "logo": "./logos/Radicle.jpeg",
     "value_prop": "Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git",
     "project_website": "https://radicle.xyz/",
     "github_dev_docs": "https://github.com/radicle-dev",
@@ -2524,7 +2524,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "",
@@ -2543,14 +2543,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Ramp",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/ramp.svg",
+    "logo": "./logos/ramp.svg",
     "value_prop": "",
     "project_website": "https://rampdefi.com/",
     "github_dev_docs": "https://github.com/RAMP-DEFI/RAMP_SECURITY_AUDITS",
@@ -2562,7 +2562,7 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche, BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Reflexer",
@@ -2581,7 +2581,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Request Finance",
@@ -2600,14 +2600,14 @@
     "safe_apps_smart": "Batch transactions",
     "networks": "Arbitrum, BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Revoke.cash",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/revovke.png",
+    "logo": "./logos/revovke.png",
     "value_prop": "",
     "project_website": "https://revoke.cash/",
     "github_dev_docs": "https://github.com/rkalis/revoke.cash",
@@ -2619,14 +2619,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Rocket Pool",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/rocket.png",
+    "logo": "./logos/rocket.png",
     "value_prop": "",
     "project_website": "https://rocketpool.net/",
     "github_dev_docs": "https://github.com/rocket-pool",
@@ -2638,14 +2638,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Sablier",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Accounting, DAO Tooling, Governance, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Sablier.svg",
+    "logo": "./logos/Sablier.svg",
     "value_prop": "",
     "project_website": "https://sablier.finance/",
     "github_dev_docs": "https://github.com/sablierhq",
@@ -2657,14 +2657,14 @@
     "safe_apps_smart": "Batch - approve and deploy",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Safe{DAO} Governance",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/safe_token.svg",
+    "logo": "./logos/safe_token.svg",
     "value_prop": "",
     "project_website": "https://safe.global",
     "github_dev_docs": "",
@@ -2676,7 +2676,7 @@
     "safe_apps_smart": "Transaction batch: claim and delegate in one tx",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "SekerDAO",
@@ -2695,14 +2695,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "SenseiStake",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/sensei_node_iso-black.webp",
+    "logo": "./logos/sensei_node_iso-black.webp",
     "value_prop": "SenseiStake is a non-custodial staking platform to Ethereum 2.0",
     "project_website": "https://www.senseinode.com/",
     "github_dev_docs": "https://github.com/Sensei-Node",
@@ -2714,7 +2714,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Silo Finance",
@@ -2733,14 +2733,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Snapshot",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/snapshot.svg",
+    "logo": "./logos/snapshot.svg",
     "value_prop": "",
     "project_website": "https://snapshot.org/#/",
     "github_dev_docs": "https://github.com/snapshot-labs",
@@ -2752,14 +2752,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Snapshot X",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/snapshot%201.svg",
+    "logo": "./logos/snapshot%201.svg",
     "value_prop": "Programmable governance on StarkNet",
     "project_website": "",
     "github_dev_docs": "https://github.com/snapshot-labs/sx-core",
@@ -2771,14 +2771,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Sorbet Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/gelaot.webp",
+    "logo": "./logos/gelaot.webp",
     "value_prop": "",
     "project_website": "https://www.sorbet.finance/#/limit-order",
     "github_dev_docs": "https://github.com/gelatodigital/sorbet-finance-v3",
@@ -2790,14 +2790,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Spool App",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Spool.png",
+    "logo": "./logos/Spool.png",
     "value_prop": "",
     "project_website": "https://www.spool.fi/",
     "github_dev_docs": "https://github.com/SpoolFi/spool-dao-token",
@@ -2809,14 +2809,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "StakeDAO",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Staking, Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/stakedao.png",
+    "logo": "./logos/stakedao.png",
     "value_prop": "",
     "project_website": "https://stakedao.org/",
     "github_dev_docs": "https://github.com/StakeDAO",
@@ -2828,14 +2828,14 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche, Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Staker",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Mobile App",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/staker.jpeg",
+    "logo": "./logos/staker.jpeg",
     "value_prop": "DeFI saving app",
     "project_website": "https://staker.app/",
     "github_dev_docs": "https://github.com/StakerApp",
@@ -2847,14 +2847,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Stakewise",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/stakewise.png",
+    "logo": "./logos/stakewise.png",
     "value_prop": "",
     "project_website": "https://stakewise.io/",
     "github_dev_docs": "https://github.com/stakewise",
@@ -2866,14 +2866,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Gnosis Chain",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Station X",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/stationx.jpeg",
+    "logo": "./logos/stationx.jpeg",
     "value_prop": "An ever-expanding ecosystem of DAOs, pools & digital communities that govern assets together",
     "project_website": "https://www.stationx.network/",
     "github_dev_docs": "https://github.com/StationX-Network",
@@ -2885,14 +2885,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Streams.xyz",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing, Mobile App",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Streams.jpeg",
+    "logo": "./logos/Streams.jpeg",
     "value_prop": "http://Streams.xyz provides one of the easiest and most effective ways to lend digital assets",
     "project_website": "https://streams.xyz/",
     "github_dev_docs": "https://github.com/StreamsXYZ",
@@ -2904,7 +2904,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Stripe",
@@ -2923,14 +2923,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Superfluid",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/super.gif",
+    "logo": "./logos/super.gif",
     "value_prop": "",
     "project_website": "https://www.superfluid.finance/",
     "github_dev_docs": "https://github.com/superfluid-finance",
@@ -2942,14 +2942,14 @@
     "safe_apps_smart": "—",
     "networks": "Arbitrum, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Sushi",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/sushi.png",
+    "logo": "./logos/sushi.png",
     "value_prop": "",
     "project_website": "https://www.sushi.com/",
     "github_dev_docs": "https://github.com/sushiswap",
@@ -2961,14 +2961,14 @@
     "safe_apps_smart": "No",
     "networks": "BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Symphony Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Sym.png",
+    "logo": "./logos/Sym.png",
     "value_prop": "",
     "project_website": "https://www.symphony.finance/",
     "github_dev_docs": "https://github.com/symphony-finance",
@@ -2980,14 +2980,14 @@
     "safe_apps_smart": "—",
     "networks": "Avalanche, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Synthetix",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Derivatives",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/synthetix.png",
+    "logo": "./logos/synthetix.png",
     "value_prop": "",
     "project_website": "https://synthetix.io/",
     "github_dev_docs": "https://github.com/synthetixio",
@@ -2999,14 +2999,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "SZNS",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "DeFi, Governance",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/szns.jpeg",
+    "logo": "./logos/szns.jpeg",
     "value_prop": "SZNS transforms a collection of NFTs into tradeable tokens. Collect, fractionalize, and share ownership of your NFTs",
     "project_website": "https://www.szns.io/",
     "github_dev_docs": "https://github.com/SZNS",
@@ -3018,7 +3018,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "http://Tally.xyz",
@@ -3037,14 +3037,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Tellor",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "DAO Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/tellor.png",
+    "logo": "./logos/tellor.png",
     "value_prop": "Decentralised oracle",
     "project_website": "https://tellor.io/",
     "github_dev_docs": "https://github.com/tellor-io/",
@@ -3056,14 +3056,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Tenderize",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/tenderize.svg",
+    "logo": "./logos/tenderize.svg",
     "value_prop": "",
     "project_website": "https://www.tenderize.me/",
     "github_dev_docs": "https://github.com/Tenderize/",
@@ -3075,14 +3075,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Timeless Finance",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/timeless.png",
+    "logo": "./logos/timeless.png",
     "value_prop": "Not connecting to the Safe. Disabled until the devs take action",
     "project_website": "https://timelessfi.com/",
     "github_dev_docs": "https://github.com/timeless-fi",
@@ -3094,14 +3094,14 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Token Approval Manager",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/tac.svg",
+    "logo": "./logos/tac.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -3113,14 +3113,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum, Gnosis Chain",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "TokenPocket",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Wallet",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/tokenpocket.jpeg",
+    "logo": "./logos/tokenpocket.jpeg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -3132,7 +3132,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Toros",
@@ -3151,14 +3151,14 @@
     "safe_apps_smart": "No",
     "networks": "Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Trader Joe",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Lending/Borrowing",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/joe.png",
+    "logo": "./logos/joe.png",
     "value_prop": "",
     "project_website": "https://traderjoexyz.com/home#/",
     "github_dev_docs": "https://github.com/traderjoe-xyz/",
@@ -3170,7 +3170,7 @@
     "safe_apps_smart": "No",
     "networks": "Avalanche",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Transaction Builder",
@@ -3189,7 +3189,7 @@
     "safe_apps_smart": "Batch transactions and draft transactions",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Tribes",
@@ -3208,7 +3208,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Tribes",
@@ -3227,14 +3227,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Uniswap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/uni.svg",
+    "logo": "./logos/uni.svg",
     "value_prop": "",
     "project_website": "https://uniswap.org/",
     "github_dev_docs": "https://github.com/Uniswap",
@@ -3246,7 +3246,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Usepropeller",
@@ -3265,14 +3265,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Utopia Labs",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Utopia.jpeg",
+    "logo": "./logos/Utopia.jpeg",
     "value_prop": "Collaborative payroll and expense management for DAOs",
     "project_website": "https://app.utopialabs.com/login",
     "github_dev_docs": "https://github.com/Utopia-Labs-DAO",
@@ -3284,7 +3284,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "WalletConnect",
@@ -3303,7 +3303,7 @@
     "safe_apps_smart": "No",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Waymont",
@@ -3322,7 +3322,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Web3auth",
@@ -3341,14 +3341,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Wombat Exchange",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/wombat.svg",
+    "logo": "./logos/wombat.svg",
     "value_prop": "Multi-chain stableswap",
     "project_website": "https://www.wombat.exchange/",
     "github_dev_docs": "https://github.com/wombat-exchange",
@@ -3360,7 +3360,7 @@
     "safe_apps_smart": "",
     "networks": "BNB",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Worldcoin",
@@ -3379,14 +3379,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "WrappedPunks",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/wrappedpunks.png",
+    "logo": "./logos/wrappedpunks.png",
     "value_prop": "",
     "project_website": "https://www.wrappedpunks.com",
     "github_dev_docs": "",
@@ -3398,14 +3398,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "xDai Bridge",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, Stablecoin",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/xdai_bridge.svg",
+    "logo": "./logos/xdai_bridge.svg",
     "value_prop": "",
     "project_website": "https://www.gnosis.io",
     "github_dev_docs": "",
@@ -3417,14 +3417,14 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Yearn Finance",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, Yield",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/yearn.jpeg",
+    "logo": "./logos/yearn.jpeg",
     "value_prop": "Yearn is a platform for DeFi",
     "project_website": "https://yearn.finance/",
     "github_dev_docs": "https://github.com/yearn",
@@ -3436,7 +3436,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "yearn.finance",
@@ -3455,7 +3455,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Zerion",
@@ -3474,7 +3474,7 @@
     "safe_apps_smart": "No",
     "networks": "Arbitrum, Aurora, Avalanche, BNB, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Zerodev",
@@ -3493,14 +3493,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Zodiac",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/zodiac.png",
+    "logo": "./logos/zodiac.png",
     "value_prop": "",
     "project_website": "https://gnosisguild.org",
     "github_dev_docs": "",
@@ -3512,14 +3512,14 @@
     "safe_apps_smart": "Modules, batch transactions, custom UI",
     "networks": "BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Zodiac Exit App",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Payments",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/zodiac%201.png",
+    "logo": "./logos/zodiac%201.png",
     "value_prop": "",
     "project_website": "https://gnosisguild.org",
     "github_dev_docs": "",
@@ -3531,14 +3531,14 @@
     "safe_apps_smart": "No",
     "networks": "BNB, Ethereum, Gnosis Chain, Polygon",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Zyield Finance",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Dashboard",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/zyield.jpeg",
+    "logo": "./logos/zyield.jpeg",
     "value_prop": "Zyield is making investing in DeFi simple by abstracting away the complexities associated with managing a smart contract wallet.",
     "project_website": "https://zyield.fi/",
     "github_dev_docs": "https://github.com/zyield",
@@ -3550,7 +3550,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Base",
@@ -3569,7 +3569,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "",
@@ -3588,7 +3588,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "",
@@ -3607,14 +3607,14 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Velvet Finance",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, Automation, Dashboard",
-    "logo": "Safe%20Ecosystem%20Database%20fd65ff5fe6414ae59a54b87a475929c1/Velvet.png",
+    "logo": "./logos/Velvet.png",
     "value_prop": "Create and manage on-chain funds with Defi OS",
     "project_website": "",
     "github_dev_docs": "",
@@ -3626,7 +3626,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Brahma",
@@ -3645,7 +3645,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "",
@@ -3664,7 +3664,7 @@
     "safe_apps_smart": "",
     "networks": "",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "LSD Deployer",
@@ -3683,7 +3683,7 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "LSD Networks dApp",
@@ -3702,6 +3702,6 @@
     "safe_apps_smart": "No",
     "networks": "Ethereum",
     "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
     }
 ]
