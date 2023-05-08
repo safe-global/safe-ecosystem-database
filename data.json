@@ -1,6 +1,7 @@
 [
   {
     "project": "0xNFT by Castle",
+    "description": "NFT Marketplace Aggregator: Buy, list and transfer NFTs across OpenSea and all major markets",
     "project_scope": "Safe Apps",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
@@ -20,6 +21,7 @@
   },
   {
     "project": "0xPlasma Finance",
+    "description": "Your Web3 dashboard for all things DeFi and NFT",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Dashboard",
@@ -39,6 +41,7 @@
   },
   {
     "project": "0xSplits",
+    "description": "Secure & efficient onchain payments for teams",
     "project_scope": "",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -58,6 +61,7 @@
   },
   {
     "project": "0xSplits",
+    "description": "Decentralized protocol for trustlessly sharing onchain income",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DAO Tooling, Infrastructure",
@@ -77,10 +81,11 @@
   },
   {
     "project": "1inch Network",
+    "description": "The most efficient DeFi aggregator",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
-    "logo": "https://app.1inch.io/assets/images/1inch-token.svg",
+    "logo": "/logos/1inch-token.svg",
     "value_prop": "",
     "project_website": "https://1inch.io/",
     "github_dev_docs": "https://github.com/1inch",
@@ -96,6 +101,7 @@
   },
   {
     "project": "Aave v3",
+    "description": "Non-custodial liquidity protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing",
@@ -115,6 +121,7 @@
   },
   {
     "project": "Aelin",
+    "description": "Permissionless multi-chain protocol for capital raises and OTC deals. Aelin decentralizes fundraising without a need for VC’s",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Fundraising",
@@ -134,6 +141,7 @@
   },
   {
     "project": "Alkemi Earn",
+    "description": "Lend and borrow your crypto and earn yields through professional DeFi",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Lending/Borrowing",
@@ -153,6 +161,7 @@
   },
   {
     "project": "Angle Protocol",
+    "description": "Decentralized stablecoin protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
@@ -172,6 +181,7 @@
   },
   {
     "project": "Arbitrum",
+    "description": "L2 suite of solutions that provides faster speeds at a significantly lower cost, with the same level of security as Ethereum",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DEX, DeFi, Institutional, Payments, Stablecoin",
@@ -191,6 +201,7 @@
   },
   {
     "project": "http://Armor.Fi (ease.org)",
+    "description": "NA - no longer Safe compatible (?)",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Insurance",
@@ -209,7 +220,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "ATA Netwok",
+    "project": "ATA Network",
+    "description": "A decentralized middleware service protocol, ATA network protects fairness & privacy in web3",
     "project_scope": "",
     "primary_category": "Infrastructure",
     "secondary_categories": "Privacy, Wallet",
@@ -229,6 +241,7 @@
   },
   {
     "project": "Atomic0",
+    "description": "NA - sunsetted",
     "project_scope": "Safe Apps",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
@@ -248,6 +261,7 @@
   },
   {
     "project": "Aura Finance",
+    "description": "Boosting DeFi yield potential and governance power",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -267,6 +281,7 @@
   },
   {
     "project": "Aurora",
+    "description": "Aurora is an EVM-compatible L2 built on the NEAR protocol",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, Dashboard, Gaming, Marketplace, Messaging",
@@ -286,6 +301,7 @@
   },
   {
     "project": "Autonolas",
+    "description": "Own & decentralize off-chain processes with an open-source software stack",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -305,6 +321,7 @@
   },
   {
     "project": "Avalanche",
+    "description": "Avalanche is an open-source smart contracts platform for decentralized applications",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Bridge, CeFi, DeFi, Gaming, Mobile App, Privacy, Staking",
@@ -324,10 +341,11 @@
   },
   {
     "project": "Balancer",
+    "description": "Swap tokens and manage your assets on Balancer Protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Fundraising",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmREcCtsynyrfa4H5bJUJH6sVV1QKygt8M9NNB6dH4Rcm1/logo512.png, https://cloudflare-ipfs.com/ipfs/QmREcCtsynyrfa4H5bJUJH6sVV1QKygt8M9NNB6dH4Rcm1/logo512.png",
+    "logo": "/logos/balancer.png",
     "value_prop": "",
     "project_website": "https://balancer.fi/",
     "github_dev_docs": "https://github.com/balancer-labs/",
@@ -343,6 +361,7 @@
   },
   {
     "project": "Bancor",
+    "description": "An ecosystem of decentralized, open-source DeFi protocols that foster on-chain trading and liquidity",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -362,6 +381,7 @@
   },
   {
     "project": "Barnbridge",
+    "description": "DeFi-native solutions for credit and yield\n\nSafe integration removed?",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -381,6 +401,7 @@
   },
   {
     "project": "Base",
+    "description": "Ethereum L2, incubated by Coinbase and built on the open-source OP Stack",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DEX, DeFi, Institutional, Stablecoin, Staking",
@@ -399,7 +420,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Binance Smart Chain",
+    "project": "BNB Smart Chain",
+    "description": "EVM-compatible L1 smart contracts network of the Binance ecosystem",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DEX, DeFi, Gaming, Lending/Borrowing, Stablecoin",
@@ -419,6 +441,7 @@
   },
   {
     "project": "Bitbond Token Tool",
+    "description": "Bitbond supports hundreds of customers with leading tokenization infrastructure and expertise",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Fundraising",
@@ -438,6 +461,7 @@
   },
   {
     "project": "Block Terminal",
+    "description": "NA - nothing found",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Institutional, Wallet",
@@ -457,6 +481,7 @@
   },
   {
     "project": "Blocknative",
+    "description": "Programmable web3 infrastructure for builders and searchers",
     "project_scope": "Connection provider",
     "primary_category": "",
     "secondary_categories": "",
@@ -476,6 +501,7 @@
   },
   {
     "project": "Brahma",
+    "description": "Earn, hedge, and deploy capital across DeFi with powerful automations",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, DeFi, Derivatives, Lending/Borrowing, Payments, Stablecoin",
@@ -495,6 +521,7 @@
   },
   {
     "project": "Bulla Banker",
+    "description": "A bankless web3 accounting protocol for invoices and payments",
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Accounting, Tooling",
@@ -514,10 +541,11 @@
   },
   {
     "project": "Bunni",
+    "description": "Bunni is a liquidity engine for Uniswap v3",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "https://github.com/ZeframLou/bunni",
+    "logo": "/logos/bunni-logo.png",
     "value_prop": "",
     "project_website": "https://bunni.pro/",
     "github_dev_docs": "https://github.com/ZeframLou/bunni",
@@ -533,11 +561,12 @@
   },
   {
     "project": "Candide Wallet",
+    "description": "Unleash the true power of Account Abstraction with a Smart Account wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
     "logo": "/logos/candide.jpeg",
-    "value_prop": "Candide is an Ethereum wallet build as a public good",
+    "value_prop": "Candide is an Ethereum wallet built as a public good",
     "project_website": "https://www.candidewallet.com/",
     "github_dev_docs": "https://github.com/candidelabs",
     "team_contact": "",
@@ -552,6 +581,7 @@
   },
   {
     "project": "Cardstack",
+    "description": "Collaborative OS for web3 with no coding required",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, DeFi, Payments",
@@ -571,6 +601,7 @@
   },
   {
     "project": "Casa",
+    "description": "Hold your own keys and safely take self-custody with a Casa multisig wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Institutional, Mobile App, Wallet",
@@ -590,6 +621,7 @@
   },
   {
     "project": "Cask Protocol",
+    "description": "Automate money flows on web3",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Payments",
@@ -609,6 +641,7 @@
   },
   {
     "project": "Castle",
+    "description": "A unified interface to vault, track and trade your coins and NFTs with ease",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Marketplace",
@@ -628,6 +661,7 @@
   },
   {
     "project": "CharmVerse",
+    "description": "Web3 operations platform for token communities to build relationships, work together and vote",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -647,6 +681,7 @@
   },
   {
     "project": "Circles UBI",
+    "description": "Decentralized Universal Basic Income platform based on personal cryptocurrencies",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Donation, Mobile App",
@@ -666,6 +701,7 @@
   },
   {
     "project": "Cobo Safe",
+    "description": "All-in-one custody solutions provider to safeguard and manage all your digital assets",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Institutional",
@@ -685,6 +721,7 @@
   },
   {
     "project": "Coinshift",
+    "description": "Smart treasury management for DAOs and crypto organizations",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -704,6 +741,7 @@
   },
   {
     "project": "Collabland",
+    "description": "Automated community management tool that curates membership based on token ownership",
     "project_scope": "Interface",
     "primary_category": "",
     "secondary_categories": "",
@@ -723,10 +761,11 @@
   },
   {
     "project": "Connext",
+    "description": "Connext is a modular interoperability protocol that lets you build secure crosschain apps (xApps)",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "https://connextscan.io/favicon.png",
+    "logo": "/logos/connext.png",
     "value_prop": "",
     "project_website": "https://www.connext.network/",
     "github_dev_docs": "",
@@ -742,6 +781,7 @@
   },
   {
     "project": "CoW Swap",
+    "description": "CoW Swap finds the lowest prices from all decentralized exchanges and DEX aggregators & saves you more with p2p trading and protection from MEV",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
@@ -761,6 +801,7 @@
   },
   {
     "project": "Cryptio",
+    "description": "Enterprise-grade accounting, audit and tax software for your digital assets",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Tooling",
@@ -780,10 +821,11 @@
   },
   {
     "project": "CSV Airdrop",
+    "description": "Upload your CSV transfer file to send arbitrarily many tokens of various amounts to a list of recipients",
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Accounting, Tooling",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmdFyTuzHnzj6Z1pRRLqjWXEbH56TBNKo3M1an21zKWCXt/logo.svg",
+    "logo": "/logos/csv-airdrop.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -799,6 +841,7 @@
   },
   {
     "project": "Curve Finance",
+    "description": "Creating deep on-chain liquidity using advanced bonding curves",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Stablecoin",
@@ -818,6 +861,7 @@
   },
   {
     "project": "DAA Finance",
+    "description": "Non-custodial tools to conduct investment activities without the risks, complexity, and costs associated with outsourcing custody to 3rd parties",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "DAO Tooling, Institutional",
@@ -837,6 +881,7 @@
   },
   {
     "project": "DAOHaus",
+    "description": "DAOhaus is a no code platform for Moloch DAOs",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -856,10 +901,11 @@
   },
   {
     "project": "DeFi Saver",
+    "description": "One-stop dashboard for creating, managing and tracking your DeFi positions",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, Dashboard",
-    "logo": "https://app.defisaver.com//assets/icons/icon-transparent.svg",
+    "logo": "/logos/defi-saver.svg",
     "value_prop": "",
     "project_website": "https://defisaver.com/",
     "github_dev_docs": "https://github.com/defisaver/defisaver-v3-contracts",
@@ -875,6 +921,7 @@
   },
   {
     "project": "Dework.xyz",
+    "description": "Web3-native project management with token payments, credentialing and bounties",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -894,10 +941,11 @@
   },
   {
     "project": "dHEDGE",
+    "description": "Decentralized social asset management—find the best managers and automated strategies in DeFi",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Dashboard",
-    "logo": "https://app.dhedge.org/logo.svg",
+    "logo": "/logos/dhedge.svg",
     "value_prop": "",
     "project_website": "https://www.dhedge.org/",
     "github_dev_docs": "",
@@ -913,6 +961,7 @@
   },
   {
     "project": "DODO",
+    "description": "Your on-chain liquidity provider",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, DEX",
@@ -932,6 +981,7 @@
   },
   {
     "project": "Drain Account",
+    "description": "Transfer all your Safe assets in a single transaction\n\n- Nothing found",
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Tooling",
@@ -951,6 +1001,7 @@
   },
   {
     "project": "DustSweeper",
+    "description": "Swap small token balances for ETH with minimal gas",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
@@ -970,10 +1021,11 @@
   },
   {
     "project": "ENS - Ethereum Name Service",
+    "description": "Decentralized naming for wallets, websites and more",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "",
-    "logo": "https://app.ens.domains/android-chrome-144x144.png",
+    "logo": "/logos/ens.svg",
     "value_prop": "",
     "project_website": "https://ens.domains/",
     "github_dev_docs": "https://github.com/ensdomains",
@@ -988,26 +1040,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Palmera",
-    "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "",
-    "logo": "/logos/Palmera.jpeg",
-    "value_prop": "",
-    "project_website": "https://www.palmeradao.xyz/",
-    "github_dev_docs": "",
-    "team_contact": "",
-    "twitter": "https://twitter.com/palmera_dao",
-    "primary_integration": "",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
-  },
-  {
     "project": "Enzyme Finance",
+    "description": "Onchain asset management. Build, scale and monetize an investment strategy that suits your needs",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Dashboard",
@@ -1026,7 +1060,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "ETHA Lend = The DeFi Yield Optimizer",
+    "project": "ETHA Lend",
+    "description": "The DeFi Yield Optimizer: Deposit liquidity and DCA your favorite digital assets",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -1046,6 +1081,7 @@
   },
   {
     "project": "Exactly",
+    "description": "Decentralizing the credit market, today",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -1065,6 +1101,7 @@
   },
   {
     "project": "Exponent",
+    "description": "Decentralized community’s risk and treasury management partner with expertise in protocol and treasury risk management",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "DeFi, Governance",
@@ -1084,6 +1121,7 @@
   },
   {
     "project": "Fileverse",
+    "description": "Tool for file sharing and collaboration between addresses. Private, easy-to-use, and on-chain\n\nNeeds verification that it is the right Fileverse",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -1103,6 +1141,7 @@
   },
   {
     "project": "Firm",
+    "description": "Start an internet-native company, issue shares and handle payments. All onchain, no paperwork",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Governance, Institutional, Payments",
@@ -1122,6 +1161,7 @@
   },
   {
     "project": "Forum DAOs",
+    "description": "DAO tooling platform for investment DAOs. Start a group chat, invite your friends & invest together",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Wallet",
@@ -1141,6 +1181,7 @@
   },
   {
     "project": "Fractal",
+    "description": "A DAO governance framework that allows any organization to unleash the power of human coordination through all stages of the DAO lifecycle",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -1160,6 +1201,7 @@
   },
   {
     "project": "Fractal",
+    "description": "Duplicate (see above row)",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -1179,11 +1221,12 @@
   },
   {
     "project": "Furucombo",
+    "description": "Multi-chain DeFi aggregator designed to simplify, optimize, and automate DeFi trading for everyone",
     "project_scope": "Safe Apps",
-    "primary_category": "DeFi",
-    "secondary_categories": "Automation",
-    "logo": "https://furucombo.app/apple-touch-icon.png",
-    "value_prop": "",
+    "primary_category": "Payments",
+    "secondary_categories": "Aggregator, Tooling",
+    "logo": "/logos/furucombo.png",
+    "value_prop": "You can (1) multi-send token airdrop with CSV upload; (2) bridge and trade multiple tokens at once; (3) manage lending positions with flashloan; (4) create all kinds of DeFi combo as you wish!",
     "project_website": "https://furucombo.app/",
     "github_dev_docs": "-",
     "team_contact": "https://discord.com/invite/JuamDaq",
@@ -1198,6 +1241,7 @@
   },
   {
     "project": "Gelato Network",
+    "description": "Enables developers to create augmented smart contracts\nthat are automated, gasless & off-chain aware",
     "project_scope": "Core SDK Integration",
     "primary_category": "Infrastructure",
     "secondary_categories": "Automation, Infrastructure, Tooling",
@@ -1217,6 +1261,7 @@
   },
   {
     "project": "Giveth",
+    "description": "Get rewarded for giving to for-good projects with zero added fees",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Donation",
@@ -1236,10 +1281,11 @@
   },
   {
     "project": "Gnosis Auction Starter",
+    "description": "Safe app to start new auctions on Gnosis Auction",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Fundraising",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmdCwUutYH8GXXNgTShB4cKJ8YJq4PqZ55QxMznKc9DbeS/logo.svg",
+    "logo": "/logos/gnosis-auction-starter.svg",
     "value_prop": "",
     "project_website": "https://www.gnosis.io/",
     "github_dev_docs": "https://github.com/gnosis/ido-starter",
@@ -1255,6 +1301,7 @@
   },
   {
     "project": "Gnosis Chain",
+    "description": "Gnosis Chain is an EVM compatible, community-owned network and one of Ethereum’s first side chains",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "CeFi, Collectibles, DAO Tooling, DEX, DeFi, Governance, Marketplace, Payments",
@@ -1274,6 +1321,7 @@
   },
   {
     "project": "Gnosis Guild aka Zodiac",
+    "description": "A composable design philosophy for DAOs, Zodiac is a collection of tools built according to the Zodiac open standard",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Infrastructure",
@@ -1293,6 +1341,7 @@
   },
   {
     "project": "Grindery",
+    "description": "The easiest way for people and organizations to connect apps and dApps across chains and protocols",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Automation, Infrastructure, Tooling",
@@ -1312,6 +1361,7 @@
   },
   {
     "project": "Hedgey Escrowless Token Swaps",
+    "description": "Token vesting, distributions, lockups and core infrastructure as public goods for onchain teams",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -1331,6 +1381,7 @@
   },
   {
     "project": "Hedgey Time-Locked Token Distribution",
+    "description": "Duplicate (see above row)\n\nRecommend to combine as Hedgey",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -1350,6 +1401,7 @@
   },
   {
     "project": "Hedgey Token Distributions to Investors",
+    "description": "Duplicate (see above row)\n\nRecommend to combine as Hedgey",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -1369,6 +1421,7 @@
   },
   {
     "project": "Hop Protocol",
+    "description": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge",
@@ -1388,10 +1441,11 @@
   },
   {
     "project": "Idle v4",
+    "description": "Always the best yield, with no effort\n\n- To rename project as Idle Finance?",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmTvrLwJtyjG8QFHgvqdPhcV5DBMQ7oZceSU4uvPw9vQaj/logo.svg",
+    "logo": "/logos/idle-v4.svg",
     "value_prop": "",
     "project_website": "https://idle.finance/",
     "github_dev_docs": "https://github.com/Idle-Finance/",
@@ -1407,6 +1461,7 @@
   },
   {
     "project": "IHELP Protocol",
+    "description": "Decentralized donation protocol where anyone can participate and easily contribute to charitable causes worldwide",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Donation",
@@ -1426,6 +1481,7 @@
   },
   {
     "project": "Instadapp",
+    "description": "The world's most advanced platform to start leveraging the full potential of DeFi",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Automation",
@@ -1445,6 +1501,7 @@
   },
   {
     "project": "InsurAce",
+    "description": "Entry to the products and services InsurAce provides to secure your DeFi journey",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, Insurance",
@@ -1464,6 +1521,7 @@
   },
   {
     "project": "Integral",
+    "description": "TWAP based DEX with MEV-protected zero price impact swaps on Ethereum and Arbitrum",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -1483,6 +1541,7 @@
   },
   {
     "project": "Juicebox",
+    "description": "A programmable treasury for community-owned Ethereum projects",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Fundraising, Tooling",
@@ -1502,6 +1561,7 @@
   },
   {
     "project": "Kairos",
+    "description": "Get an instant loan using your NFTs as collateral",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
@@ -1521,6 +1581,7 @@
   },
   {
     "project": "Kwenta",
+    "description": "Gain exposure to cryptocurrencies, forex, equities, indices, and commodities on Ethereum with zero slippage",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Derivatives",
@@ -1540,6 +1601,7 @@
   },
   {
     "project": "Laser",
+    "description": "Seems dead",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
@@ -1559,10 +1621,11 @@
   },
   {
     "project": "Lido Staking",
+    "description": "Lido is the liquid staking solution for Ethereum",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "https://cloudflare-ipfs.com/ipfs/Qmde8dsa9r8bB59CNGww6LRiaZABuKaJfuzvu94hFkatJC/logo.svg",
+    "logo": "/logos/lido.svg",
     "value_prop": "",
     "project_website": "https://lido.fi/",
     "github_dev_docs": "https://github.com/lidofinance",
@@ -1578,6 +1641,7 @@
   },
   {
     "project": "Liminal",
+    "description": "Enterprise-grade platform that offers a robust infrastructure for managing digital assets",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, Dashboard, Wallet",
@@ -1597,6 +1661,7 @@
   },
   {
     "project": "Linen Wallet",
+    "description": "Linen is the most simple and secure self-custody wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Mobile App, Payments, Wallet",
@@ -1616,6 +1681,7 @@
   },
   {
     "project": "Linkdrop",
+    "description": "Send Ether, ERC20 and ERC721 tokens via shareable links and QR-codes",
     "project_scope": "Interface",
     "primary_category": "Payments",
     "secondary_categories": "DeFi",
@@ -1635,10 +1701,11 @@
   },
   {
     "project": "Liquity Frontend",
+    "description": "Simple frontend with high kickback rate, hosted on Arweave and ENS for maximal decentralization",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Lending/Borrowing",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmWZDNujzAHeALnzAvmT975TejAmwWmYTpVqgZrexBAVrt/logo256.png",
+    "logo": "/logos/liquity.png",
     "value_prop": "",
     "project_website": "https://www.liquity.org/",
     "github_dev_docs": "https://github.com/liquity/frontend-registry",
@@ -1654,6 +1721,7 @@
   },
   {
     "project": "LlamaPay",
+    "description": "Automate transactions and stream them by the second",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -1673,6 +1741,7 @@
   },
   {
     "project": "Lomads",
+    "description": "The ultimate operations and finance management dashboard for web3 organizations, DAOs and beyond",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Dashboard, Governance",
@@ -1692,6 +1761,7 @@
   },
   {
     "project": "Maker Governance Portal",
+    "description": "Vote with or delegate your MKR tokens to help protect the integrity of the Maker protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -1711,10 +1781,11 @@
   },
   {
     "project": "Mean Finance",
+    "description": "DCA from any ERC-20 into any ERC-20 token",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, Automation",
-    "logo": "/logos/226932695-a3a657a9-2c6a-4daa-801a-e18526b9303b.svg",
+    "logo": "/logos/mean-finance.svg",
     "value_prop": "",
     "project_website": "https://mean.finance/create",
     "github_dev_docs": "https://github.com/Mean-Finance",
@@ -1730,6 +1801,7 @@
   },
   {
     "project": "Mesha Club",
+    "description": "Corporate cards and expense management for web3 projects",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Automation, CeFi, DeFi, Payments",
@@ -1749,6 +1821,7 @@
   },
   {
     "project": "Metropolis",
+    "description": "On-chain permissions for DAO working groups",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Infrastructure, Tooling",
@@ -1768,6 +1841,7 @@
   },
   {
     "project": "Minerva Wallet",
+    "description": "A user friendly app for sovereign identities, data and money",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Mobile App, Wallet",
@@ -1787,6 +1861,7 @@
   },
   {
     "project": "Morpho",
+    "description": "A dApp to manage your positions on Morpho-Compound and Morpho-Aave",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing",
@@ -1806,13 +1881,14 @@
   },
   {
     "project": "Motherboard",
+    "description": "All-in-one platform that helps you run your DAO. Easily manage contributors, track finances, and engage with your community",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance, Infrastructure, Payments",
     "logo": "",
     "value_prop": "The premier platform for DAO operations",
     "project_website": "",
-    "github_dev_docs": "",
+    "github_dev_docs": "https://www.motherboard.fi/",
     "team_contact": "",
     "twitter": "",
     "primary_integration": "",
@@ -1825,6 +1901,7 @@
   },
   {
     "project": "Motherboard",
+    "description": "Duplicate (see above row)\n\nRecommend to delete",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -1844,6 +1921,7 @@
   },
   {
     "project": "mStable",
+    "description": "mStable unites stablecoins, lending and swapping into one standard",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
@@ -1863,6 +1941,7 @@
   },
   {
     "project": "Multis",
+    "description": "Corporate cards and financial software for web3",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, CeFi, Payments, Tooling",
@@ -1882,6 +1961,7 @@
   },
   {
     "project": "Mural",
+    "description": "The fastest crypto payouts platform, built for the global workforce",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "",
@@ -1901,6 +1981,7 @@
   },
   {
     "project": "Narval",
+    "description": "Multi-player web3 wallets for organizations",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Institutional, Wallet",
@@ -1920,6 +2001,7 @@
   },
   {
     "project": "Nest.xyz",
+    "description": "Nest Wallet is a browser extension for your Gnosis Safe and the friendliest way to use a multisig wallet",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
@@ -1939,6 +2021,7 @@
   },
   {
     "project": "Nexus Mutual",
+    "description": "The insurance alternative for crypto and more, providing industry leading on-chain protection",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Insurance",
@@ -1958,6 +2041,7 @@
   },
   {
     "project": "NFT.fi",
+    "description": "Use the NFTs you own to access the liquidity you need",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
@@ -1977,6 +2061,7 @@
   },
   {
     "project": "NinDAO",
+    "description": "Convert group chats into DAOs",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance, Messaging, Mobile App",
@@ -1996,6 +2081,7 @@
   },
   {
     "project": "Oasis",
+    "description": "Borrow, multiply and earn on the assets you hold across multiple protocols",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing",
@@ -2015,6 +2101,7 @@
   },
   {
     "project": "OnChainDen",
+    "description": "Get your multisig transactions signed and executed fast",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -2033,7 +2120,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Open Zeppelin Defender",
+    "project": "OpenZeppelin Defender",
+    "description": "Automate smart contract operations to deliver high-quality products with lower risk",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
@@ -2053,6 +2141,7 @@
   },
   {
     "project": "Openfort.xyz",
+    "description": "The seamless and easy way to offer blockchain accounts to your players. The perfect solution for games and gamified experiences that doesn't compromise on UX",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
@@ -2072,6 +2161,7 @@
   },
   {
     "project": "OpenOcean",
+    "description": "The leading DEX Aggregator, offering the best swap returns across 17 chains",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
@@ -2091,10 +2181,11 @@
   },
   {
     "project": "OpenZeppelin (unmaintained)",
+    "description": "OpenZeppelin performs security audits and provides security products to build, automate, and operate decentralized applications\n\nUnmaintained? Also see OpenZeppelin Defender",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmQovvfYYMUXjZfNbysQDUEXR8nr55iJRwcYgJQGJR7KEA/openzeppelin.png",
+    "logo": "/logos/openzeppelin.png",
     "value_prop": "",
     "project_website": "https://www.openzeppelin.com/",
     "github_dev_docs": "https://github.com/openzeppelin",
@@ -2110,6 +2201,7 @@
   },
   {
     "project": "Opium Pools",
+    "description": "NA - nothing found",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Lending/Borrowing",
@@ -2129,6 +2221,7 @@
   },
   {
     "project": "Optimism",
+    "description": "Optimism is a low-cost and lightning-fast Ethereum L2 blockchain",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DAO Tooling, DEX, Dashboard, DeFi, Fundraising, Governance, Stablecoin, Wallet",
@@ -2148,6 +2241,7 @@
   },
   {
     "project": "Origin Dollar",
+    "description": "Origin Dollar is a self-custodial, yield-generating stablecoin",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Stablecoin",
@@ -2167,6 +2261,7 @@
   },
   {
     "project": "OtoCo",
+    "description": "OtoCo builds tools to help you form, fund and govern legal entities on blockchain",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -2186,6 +2281,7 @@
   },
   {
     "project": "Outcome Finance",
+    "description": "Align your DAO community around a common goal through KPI Options",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "DAO Tooling, Lending/Borrowing",
@@ -2204,7 +2300,28 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Palmera",
+    "description": "Flexibly manage organizations on-chain using a simple framework to create, utilize, and visualize Safe integrations, DAO tools, modules, and hierarchies",
+    "project_scope": "Interface",
+    "primary_category": "DAO Tooling",
+    "secondary_categories": "",
+    "logo": "/logos/Palmera.jpeg",
+    "value_prop": "",
+    "project_website": "https://www.palmeradao.xyz/",
+    "github_dev_docs": "",
+    "team_contact": "",
+    "twitter": "https://twitter.com/palmera_dao",
+    "primary_integration": "",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "",
+    "interface_can_you_create_a_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
+  },
+  {
     "project": "PancakeSwap",
+    "description": "Trade, earn, and win crypto on the most popular decentralized platform",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -2224,6 +2341,7 @@
   },
   {
     "project": "Pangolin",
+    "description": "Pangolin is a multichain decentralized digital assets exchange (DEX)",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -2243,6 +2361,7 @@
   },
   {
     "project": "ParaSwap",
+    "description": "ParaSwap allows dApps and traders to get the best DEX liquidity by aggregating multiple markets and offering the best rates",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, DEX",
@@ -2262,6 +2381,7 @@
   },
   {
     "project": "Parcel Inc",
+    "description": "A suite of tools to scale DAO financial operations and empower DAO contributors",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -2281,6 +2401,7 @@
   },
   {
     "project": "Patch",
+    "description": "Let anyone send you tokens via your social handle such as Twitter, email or phone",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Messaging, Payments, Wallet",
@@ -2299,7 +2420,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Paymagic",
+    "project": "Paymagic Labs",
+    "description": "Automate DAO rewards and payments with Paymagic",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Automation, Payments",
@@ -2319,6 +2441,7 @@
   },
   {
     "project": "Peaze",
+    "description": "Allow your users to use your dApp with just an email and credit card",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -2338,6 +2461,7 @@
   },
   {
     "project": "Polygon",
+    "description": "",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "Collectibles, DEX, DeFi, Gaming, Governance, Marketplace, Payments",
@@ -2357,9 +2481,10 @@
   },
   {
     "project": "Polynomial Earn Vaults",
+    "description": "Polynomial automates financial derivative strategies to create products that deliver passive yield on various assets",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
-    "secondary_categories": "Automation, Derivatives, Yield",
+    "secondary_categories": "Derivatives, Yield",
     "logo": "",
     "value_prop": "",
     "project_website": "https://earn.polynomial.fi/",
@@ -2376,10 +2501,11 @@
   },
   {
     "project": "PoolTogether",
+    "description": "No-loss lotteries on your Gnosis Safe",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmTa21pi77hiT1sLCGy5BeVwcyzExUSp2z7byxZukye8hr/pool-together.png",
+    "logo": "/logos/pool-together.png",
     "value_prop": "",
     "project_website": "https://pooltogether.com/",
     "github_dev_docs": "https://github.com/pooltogether",
@@ -2395,6 +2521,7 @@
   },
   {
     "project": "Prime Deals",
+    "description": "An interface for DAO to DAO interactions, such as token swaps, co-liquidity provision, and joint venture formation",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -2414,6 +2541,7 @@
   },
   {
     "project": "Prysm",
+    "description": "Prysm supercharges your community with the power to pool and manage capital to turn your mission into a collective movement\n\n- Rebranded to Lore? See below new entry",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, DAO Tooling, Fundraising, Governance",
@@ -2432,7 +2560,28 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Lore",
+    "description": "Lore helps collectives spin up a shared vault, pool resources and own NFTs together",
+    "project_scope": "",
+    "primary_category": "",
+    "secondary_categories": "",
+    "logo": "",
+    "value_prop": "",
+    "project_website": "",
+    "github_dev_docs": "",
+    "team_contact": "",
+    "twitter": "",
+    "primary_integration": "",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "",
+    "interface_can_you_create_a_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
+  },
+  {
     "project": "PWN",
+    "description": "Peer to peer lending using any token as collateral",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles, Lending/Borrowing",
@@ -2452,6 +2601,7 @@
   },
   {
     "project": "Quickswap",
+    "description": "Top decentralized exchange on the Polygon Network",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -2471,6 +2621,7 @@
   },
   {
     "project": "Rabby.io",
+    "description": "Game-changing wallet for Ethereum and all EVM chains",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
@@ -2490,6 +2641,7 @@
   },
   {
     "project": "Radicle",
+    "description": "Radicle enables developers to securely collaborate on software over a peer-to-peer network built on Git",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
@@ -2509,6 +2661,7 @@
   },
   {
     "project": "Ramp",
+    "description": "The multi-chain DeFi lending platform that maximizes capital efficiency on your assets",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "CeFi, Payments",
@@ -2528,10 +2681,11 @@
   },
   {
     "project": "Reflexer",
+    "description": "Use your crypto collateral to mint stablecoins. Home to RAI, an ETH-backed stablecoin",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Insurance, Stablecoin",
-    "logo": "https://app.reflexer.finance/logo512.png",
+    "logo": "/logos/reflexer.png",
     "value_prop": "",
     "project_website": "https://reflexer.finance/",
     "github_dev_docs": "https://github.com/reflexer-labs",
@@ -2547,10 +2701,11 @@
   },
   {
     "project": "Request Finance",
+    "description": "The easiest way to get your invoices paid in crypto",
     "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "Accounting",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmTBBaiDQyGa17DJ7DdviyHbc51fTVgf6Z5PW5w2YUTkgR/request_icon_green.svg",
+    "logo": "/logos/request-finance.svg",
     "value_prop": "",
     "project_website": "https://www.request.finance/",
     "github_dev_docs": "https://github.com/RequestNetwork/",
@@ -2560,12 +2715,13 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, BNB, Ethereum, Gnosis Chain, Polygon",
+    "networks": "Arbitrum, Avalanche, BNB, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
     "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Revoke.cash",
+    "description": "Manage and revoke your token allowances with Revoke.cash",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
@@ -2585,6 +2741,7 @@
   },
   {
     "project": "Rocket Pool",
+    "description": "Decentralized Ethereum staking protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
@@ -2604,9 +2761,10 @@
   },
   {
     "project": "Sablier",
+    "description": "Stream money in real-time with Sablier",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
-    "secondary_categories": "Accounting, DAO Tooling, Governance, Payments",
+    "secondary_categories": "Accounting, Payments",
     "logo": "/logos/Sablier.svg",
     "value_prop": "",
     "project_website": "https://sablier.finance/",
@@ -2623,6 +2781,7 @@
   },
   {
     "project": "Safe{DAO} Governance",
+    "description": "The portal to Safe{DAO} governance, voting power delegation and allocation claiming",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -2642,6 +2801,7 @@
   },
   {
     "project": "SekerDAO",
+    "description": "Seker Factory DAO is a bridge between our tangible reality, web3, and the metaverse where creators gather to connect, learn, and build together",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "DAO Tooling",
@@ -2661,6 +2821,7 @@
   },
   {
     "project": "SenseiStake",
+    "description": "Connect and build with the leading node infrastructure in Latin America",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
@@ -2680,6 +2841,7 @@
   },
   {
     "project": "Silo Finance",
+    "description": "Risk-isolating money markets on Ethereum & Arbitrum enabling the lending and borrowing of any asset",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "",
@@ -2699,6 +2861,7 @@
   },
   {
     "project": "Snapshot",
+    "description": "Decentralized governance platform that makes it easy to create and vote on proposals",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -2718,6 +2881,7 @@
   },
   {
     "project": "Snapshot X",
+    "description": "Snapshot X is a fully on-chain voting protocol on Starknet",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
@@ -2737,6 +2901,7 @@
   },
   {
     "project": "Sorbet Finance",
+    "description": "NA - sunsetted",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, DEX",
@@ -2756,6 +2921,7 @@
   },
   {
     "project": "Spool App",
+    "description": "DeFi middleware that connects capital aggregators with DeFi yield generators to dynamically, automatically, and efficiently allocate funds and ensure optimized yields",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -2775,9 +2941,10 @@
   },
   {
     "project": "StakeDAO",
+    "description": "Stake DAO is a non-custodial platform where you can easily grow, track, and control your assets right from your wallet",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
-    "secondary_categories": "DEX, Staking, Yield",
+    "secondary_categories": "Staking, Yield",
     "logo": "/logos/stakedao.png",
     "value_prop": "",
     "project_website": "https://stakedao.org/",
@@ -2794,6 +2961,7 @@
   },
   {
     "project": "Staker",
+    "description": "Staker is a DeFi saving app that allows you to save for your future",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Mobile App",
@@ -2813,6 +2981,7 @@
   },
   {
     "project": "Stakewise",
+    "description": "Deposit ETH into StakeWise, to participate in Ethereum's Proof-of-Stake consensus mechanism (staking) and receive ETH rewards in return",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
@@ -2832,6 +3001,7 @@
   },
   {
     "project": "Station X",
+    "description": "Create, govern & engage DAOs for any use-case with Stations",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "",
@@ -2851,6 +3021,7 @@
   },
   {
     "project": "Streams.xyz",
+    "description": "Streams is a mobile app—the easiest and most secure way to earn passive income",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing, Mobile App",
@@ -2870,6 +3041,7 @@
   },
   {
     "project": "Stripe",
+    "description": "Stripe is a global leader in payments infrastructure for the internet",
     "project_scope": "Core SDK Integration",
     "primary_category": "Payments",
     "secondary_categories": "",
@@ -2889,6 +3061,7 @@
   },
   {
     "project": "Superfluid",
+    "description": "Asset streaming protocol that brings subscriptions, salaries, vesting, and rewards to DAOs and crypto-native businesses worldwide",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -2908,6 +3081,7 @@
   },
   {
     "project": "Sushi",
+    "description": "A community-built open-source ecosystem of all the DeFi tools you need",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Lending/Borrowing",
@@ -2927,6 +3101,7 @@
   },
   {
     "project": "Symphony Finance",
+    "description": "Yield-optimized trading protocol that allows you to buy or sell tokens more capital efficiently than ever. Your trades keep earning yield on safe protocols till they execute",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -2946,6 +3121,7 @@
   },
   {
     "project": "Synthetix",
+    "description": "A dApp for SNX holders to earn rewards through staking",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Derivatives",
@@ -2965,6 +3141,7 @@
   },
   {
     "project": "SZNS",
+    "description": "SZNS transforms a collection of NFTs into tradeable tokens. Collect, fractionalize, and share ownership of your NFTs",
     "project_scope": "Interface",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "DeFi, Governance",
@@ -2984,12 +3161,13 @@
   },
   {
     "project": "http://Tally.xyz",
+    "description": "Run DAOs on-chain: Tally powers protocols, treasuries and public goods",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
     "logo": "",
     "value_prop": "",
-    "project_website": "",
+    "project_website": "https://www.tally.xyz/",
     "github_dev_docs": "https://zodiac.wiki/index.php/Category:Governor_Module",
     "team_contact": "Slack",
     "twitter": "https://twitter.com/tallyxyz",
@@ -3003,6 +3181,7 @@
   },
   {
     "project": "Tellor",
+    "description": "Transparent and permissionless decentralized oracle protocol for your smart contract to easily get any data whenever it needs it",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "DAO Tooling",
@@ -3022,6 +3201,7 @@
   },
   {
     "project": "Tenderize",
+    "description": "Liquid staking for web3 assets. Make staking tender again 🥩 🔨",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Staking",
@@ -3041,6 +3221,7 @@
   },
   {
     "project": "Timeless Finance",
+    "description": "Timeless is a yield market protocol that lets you boost, hedge, and trade yield\n\nNot connected to Safe?",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
@@ -3060,6 +3241,7 @@
   },
   {
     "project": "Token Approval Manager",
+    "description": "View and revoke all your token approvals",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
@@ -3079,12 +3261,13 @@
   },
   {
     "project": "TokenPocket",
+    "description": "Multichain crypto and DeFi wallet",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Wallet",
     "logo": "/logos/tokenpocket.jpeg",
     "value_prop": "",
-    "project_website": "",
+    "project_website": "https://www.tokenpocket.pro/",
     "github_dev_docs": "",
     "team_contact": "",
     "twitter": "",
@@ -3098,6 +3281,7 @@
   },
   {
     "project": "Toros",
+    "description": "Automated strategies on Polygon and Optimism to help you maximize your returns",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "",
@@ -3117,12 +3301,13 @@
   },
   {
     "project": "Trader Joe",
+    "description": "One-stop decentralized trading on Avalanche",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Lending/Borrowing",
     "logo": "/logos/joe.png",
     "value_prop": "",
-    "project_website": "https://traderjoexyz.com/home#/",
+    "project_website": "https://traderjoexyz.com",
     "github_dev_docs": "https://github.com/traderjoe-xyz/",
     "team_contact": "https://discord.gg/GHZceZhbZU",
     "twitter": "https://twitter.com/traderjoe_xyz",
@@ -3136,10 +3321,11 @@
   },
   {
     "project": "Transaction Builder",
+    "description": "Compose custom contract interactions and batch them into a single transaction",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Tooling",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmTJMCBZHX56z36aTUaL2QZ3rKTkzaq1CG3zhPSKb1Su3a/tx-builder.png",
+    "logo": "/logos/tx-builder.png",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -3155,6 +3341,7 @@
   },
   {
     "project": "Tribes",
+    "description": "Message any wallet with a consumer-grade, crypto-native app for 1:1 convos, group chats, and token-gated timelines",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Messaging, Mobile App, Wallet",
@@ -3174,6 +3361,7 @@
   },
   {
     "project": "Tribes",
+    "description": "Duplicate (see above row)\n\nRecommend to delete",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3193,6 +3381,7 @@
   },
   {
     "project": "Uniswap",
+    "description": "Swap, earn, and build on the leading decentralized crypto trading protocol",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -3212,6 +3401,7 @@
   },
   {
     "project": "Usepropeller",
+    "description": "NA - nothing found",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3231,6 +3421,7 @@
   },
   {
     "project": "Utopia Labs",
+    "description": "Collaborative payroll and expense management for DAOs",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Accounting, Payments",
@@ -3250,10 +3441,11 @@
   },
   {
     "project": "WalletConnect",
+    "description": "Connect your Safe to any dApp that supports WalletConnect",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmX9B982ZAaBzbm6yBoZUS3uLgcizYA6wW65RCXVRZkG6f/wallet-connect.svg",
+    "logo": "/logos/wallet-connect.svg",
     "value_prop": "",
     "project_website": "",
     "github_dev_docs": "",
@@ -3269,6 +3461,7 @@
   },
   {
     "project": "Waymont",
+    "description": "A digital asset management platform built for crypto-natives, empowering HNWIs with self-custody technology",
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
@@ -3288,12 +3481,13 @@
   },
   {
     "project": "Web3auth",
+    "description": "Passwordless auth meets Multi-Party Computation (MPC), a self-custodial Wallet-as-a-service (WaaS) infrastructure for dApps and wallets",
     "project_scope": "Core SDK Integration",
     "primary_category": "Infrastructure",
     "secondary_categories": "",
     "logo": "",
     "value_prop": "",
-    "project_website": "",
+    "project_website": "https://web3auth.io/",
     "github_dev_docs": "",
     "team_contact": "",
     "twitter": "",
@@ -3307,6 +3501,7 @@
   },
   {
     "project": "Wombat Exchange",
+    "description": "Hyper-efficient multichain stableswap",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX",
@@ -3326,12 +3521,13 @@
   },
   {
     "project": "Worldcoin",
+    "description": "Building the world’s largest identity and financial network to serve as a public utility, giving ownership to everyone",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
     "logo": "",
     "value_prop": "",
-    "project_website": "",
+    "project_website": "https://worldcoin.org/",
     "github_dev_docs": "",
     "team_contact": "",
     "twitter": "",
@@ -3345,6 +3541,7 @@
   },
   {
     "project": "WrappedPunks",
+    "description": "Turn your CryptoPunks into ERC721",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles",
@@ -3364,6 +3561,7 @@
   },
   {
     "project": "xDai Bridge",
+    "description": "Bridge DAI to xDAI and vice versa",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Bridge, Stablecoin",
@@ -3383,6 +3581,7 @@
   },
   {
     "project": "Yearn Finance",
+    "description": "Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Automation, Yield",
@@ -3402,10 +3601,11 @@
   },
   {
     "project": "yearn.finance",
+    "description": "The yield protocol for digital assets\n\nDuplicate (see above row) interface vs. app",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "https://cloudflare-ipfs.com/ipfs/Qme9HuPPhgCtgfj1CktvaDKhTesMueGCV2Kui1Sqna3Xs9/logo.svg",
+    "logo": "/logos/yearn-finance.svg",
     "value_prop": "",
     "project_website": "https://yearn.finance",
     "github_dev_docs": "",
@@ -3421,10 +3621,11 @@
   },
   {
     "project": "Zerion",
+    "description": "Manage your DeFi and NFT portfolios, trade across 10+ networks and connect to any decentralized application with one wallet",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "DEX, Dashboard",
-    "logo": "https://app.zerion.io//logo.svg",
+    "logo": "/logos/zerion.svg",
     "value_prop": "",
     "project_website": "https://zerion.io",
     "github_dev_docs": "https://github.com/zeriontech",
@@ -3440,6 +3641,7 @@
   },
   {
     "project": "Zerodev",
+    "description": "Create web3 wallets and dApps with amazing UX, using Account Abstraction",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3459,6 +3661,7 @@
   },
   {
     "project": "Zodiac",
+    "description": "Zodiac is a collection of tools built according to the Zodiac open standard—enabling DAOs to act more like constellations, connecting protocols, platforms, and chains\n\nDuplicate with Gnosis Guild (see above)",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Governance, Tooling",
@@ -3478,6 +3681,7 @@
   },
   {
     "project": "Zodiac Exit App",
+    "description": "Redeem a designated token for a proportional share of a Safe's assets",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Payments",
@@ -3497,6 +3701,7 @@
   },
   {
     "project": "Zyield Finance",
+    "description": "Zyield is making investing in DeFi simple by abstracting away the complexities associated with managing a smart contract wallet",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Dashboard",
@@ -3516,6 +3721,7 @@
   },
   {
     "project": "Base",
+    "description": "Duplicate - see above alphabetized entry under ‘B’",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3535,6 +3741,7 @@
   },
   {
     "project": "Velvet Finance",
+    "description": "DeFi Operating System that helps launch & manage on-chain funds & structured products\n\nNeeds to be alphabetized",
     "project_scope": "Interface",
     "primary_category": "DeFi",
     "secondary_categories": "Aggregator, Automation, Dashboard",
@@ -3554,16 +3761,17 @@
   },
   {
     "project": "Brahma",
-    "project_scope": "",
-    "primary_category": "",
-    "secondary_categories": "",
+    "description": "Duplicate - see above alphabetized entry under ‘B’",
+    "project_scope": "Interface",
+    "primary_category": "DeFi",
+    "secondary_categories": "Automation, Institutional",
     "logo": "",
-    "value_prop": "",
+    "value_prop": "Automated strategies for curated protocols",
     "project_website": "https://www.brahma.fi/",
     "github_dev_docs": "",
     "team_contact": "",
-    "twitter": "",
-    "primary_integration": "",
+    "twitter": "https://twitter.com/BrahmaFi?s=20",
+    "primary_integration": "Core SDK, Safe Contracts",
     "packages": "",
     "modules_guards": "Modules and guards",
     "safe_apps_smart": "",
@@ -3572,7 +3780,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "LSD Deployer",
+    "project": "LSD Networks dApp",
+    "description": "Permissionless web3 toolings for Ethereum. Stake a validator with 4 ETH and earn unique yield with fungible derivatives\n\nNeeds to be alphabetized",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Staking",
@@ -3591,7 +3800,8 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "LSD Networks dApp",
+    "project": "LSD Deployer",
+    "description": "Create your own liquid staking derivatives (LSD) network in 60 seconds. Set your own commissions and build your business\n\nNeeds to be alphabetized",
     "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Staking",
@@ -3606,6 +3816,26 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum",
+    "interface_can_you_create_a_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
+  },
+  {
+    "project": "Squid",
+    "description": "Swap tokens across EVM and Cosmos blockchains, and access apps across chains in a single click\n\nNeeds to be alphabetized",
+    "project_scope": "Safe Apps",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Bridge",
+    "logo": "https://app.squidrouter.com/squid.svg",
+    "value_prop": "",
+    "project_website": "https://squidrouter.com",
+    "github_dev_docs": "https://github.com/0xsquid/",
+    "team_contact": "",
+    "twitter": "https://twitter.com/squidrouter",
+    "primary_integration": "Safe Apps SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Avalanche, BNB, Ethereum, Polygon",
     "interface_can_you_create_a_safe": "",
     "interface_can_you_import_an_existing_safe": ""
     }
