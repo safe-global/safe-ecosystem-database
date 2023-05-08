@@ -105,7 +105,7 @@
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Lending/Borrowing",
-    "logo": "https://cloudflare-ipfs.com/ipfs/QmQ3w2ezp2zx3u2LYQHyuNzMrLDJFjyL1rjAFTjNMcQ4cK/aave.svg",
+    "logo": "/logos/aave.svg",
     "value_prop": "",
     "project_website": "https://aave.com/",
     "github_dev_docs": "https://github.com/aave",
