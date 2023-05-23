@@ -1,4 +1,4 @@
-name: Deploy Data
+name: Deploy Data to Staging
 
 on:
   # Launches when manually triggered with the new workflow_dispatch event
