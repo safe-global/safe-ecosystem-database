@@ -30,7 +30,7 @@ This database maintains a list of confirmed internal and external integrations t
 - Networks
 - And more!
 
-## How do I use it?
+## Adding projects
 
 If you have:
 

@@ -4,6 +4,10 @@ title: Suggest a project
 labels: ["project :game_die:"]
 body:
   - type: markdown
+    attributes:
+      value: |
+        Before suggesting a project, make sure you've read [our listing policy](https://github.com/safe-global/safe-ecosystem-database#adding-projects). Only continue with the issue if the wallet meets the criteria listed there.
+  - type: markdown
     id: project_info
     attributes:
       value: "## Project info"
@@ -12,6 +16,15 @@ body:
     attributes:
       label: Project
       description: Please provide the official name of the project.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        Please provide a brief description of the project.
+        Maximum 100 characters.
     validations:
       required: true
   - type: dropdown
@@ -85,7 +98,7 @@ body:
     attributes:
       label: Project logo
       description: |
-        Please provide an SVG or hi-res transparent PNG
+        Please provide an SVG or a transparent PNG. Minimum 100 x 100 Pixel. We recommend 500 x 500 Pixel.
         Tip: You can attach images by clicking this area to highlight it and then dragging files in.
     validations:
       required: true

@@ -1,16 +1,13 @@
-name: Deploy Data to Staging
+name: Release
 
 on:
-  # Launches when manually triggered with the new workflow_dispatch event
-  workflow_dispatch:
-    branches:
-      - main
+  release:
+    types: [published]
 
 jobs:
-  deploy:
-    name: Deployment
+  release:
     runs-on: ubuntu-latest
-
+    name: Deploy release
     steps:
       - name: Cancel Previous Runs
         uses: styfle/cancel-workflow-action@0.8.0
@@ -26,14 +23,20 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
-      # Script to deploy to staging environment
-      - name: 'Deploy to S3: Staging'
-        if: github.ref == 'refs/heads/main'
+      # Script to upload release files
+      - name: 'Upload release build files for production'
         run: |
           cd ${{ github.workspace }}
-          aws s3 sync . s3://${{ secrets.AWS_STAGING_BUCKET_NAME }}/current \
+          aws s3 sync . s3://${{ secrets.AWS_STAGING_BUCKET_NAME }}/releases/${{ github.event.release.tag_name }} \
           --exclude='*' \
           --include='data.json' \
           --include='logos/*' \
           --include='index.html'
-        working-directory: ${{ github.workspace }}
+          working-directory: ${{ github.workspace }}
+
+      # Script to prepare production deployments
+      - run: bash ./scripts/github/prepare_production_deployment.sh
+        env:
+          PROD_DEPLOYMENT_HOOK_TOKEN: ${{ secrets.PROD_DEPLOYMENT_HOOK_TOKEN }}
+          PROD_DEPLOYMENT_HOOK_URL: ${{ secrets.PROD_DEPLOYMENT_HOOK_URL }}
+          VERSION_TAG: ${{ github.event.release.tag_name }}
