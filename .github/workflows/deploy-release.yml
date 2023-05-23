@@ -27,7 +27,7 @@ jobs:
       - name: 'Upload release build files for production'
         run: |
           cd ${{ github.workspace }}
-          aws s3 sync . s3://${{ secrets.AWS_STAGING_BUCKET_NAME }}/releases/${{ github.event.release.tag_name }}/current \
+          aws s3 sync . s3://${{ secrets.AWS_STAGING_BUCKET_NAME }}/releases/${{ github.event.release.tag_name }} \
           --exclude='*' \
           --include='data.json' \
           --include='logos/*' \
