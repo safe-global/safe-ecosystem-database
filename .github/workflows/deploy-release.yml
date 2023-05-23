@@ -1,0 +1,42 @@
+name: Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    name: Deploy release
+    steps:
+      - name: Cancel Previous Runs
+          uses: styfle/cancel-workflow-action@0.8.0
+          with:
+            access_token: ${{ github.token }}
+
+      - uses: actions/checkout@v3
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
+
+      # Script to upload release files
+      - name: 'Upload release build files for production'
+        run: |
+          cd ${{ github.workspace }}
+          aws s3 sync . s3://${{ secrets.AWS_STAGING_BUCKET_NAME }}/releases/${{ github.event.release.tag_name }}/current \
+          --exclude='*' \
+          --include='data.json' \
+          --include='logos/*' \
+          --include='index.html'
+          working-directory: ${{ github.workspace }}
+
+      # Script to prepare production deployments
+      - run: bash ./scripts/github/prepare_production_deployment.sh
+        env:
+          PROD_DEPLOYMENT_HOOK_TOKEN: ${{ secrets.PROD_DEPLOYMENT_HOOK_TOKEN }}
+          PROD_DEPLOYMENT_HOOK_URL: ${{ secrets.PROD_DEPLOYMENT_HOOK_URL }}
+          VERSION_TAG: ${{ github.event.release.tag_name }}
