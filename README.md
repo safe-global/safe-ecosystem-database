@@ -6,29 +6,15 @@
 
 This database maintains a list of confirmed internal and external integrations to the safe services. Internal integrations, e.g. blocknative or tenderly and external integrations e.g. Metropolis or Onchain Den.
 
-**This is useful to:**
+## Benefits
 
-- Get a holistic picture and understanding of the ecosystem
-- Allow Safe stakeholders to quickly navigate the ecosystem
-- Identify opportunities for the Safe ecosystem
-- Understanding which safe services are most in use
-- Understanding the level of integrations
+The ecosystem database is used to:
 
-**The database keeps track of the following integrations:**
-
-- Core SDK
-    - Core AA SDK
-    - Safe Apps SDK
-- Core Protocol
-    - Modules
-    - Guards
-    - Contracts
-- Core API
-    - Transaction Service
-    - Client Gateway
-    - …
-- Networks
-- And more!
+- Get a holistic picture and understanding of the Safe ecosystem
+- Allow stakeholders to quickly navigate the Safe ecosystem
+- Identify opportunities within the Safe ecosystem
+- Understand which Safe services are in use
+- Understand the level of Safe integrations
 
 ## Adding projects
 
@@ -37,11 +23,34 @@ If you have:
 - Integrated with a project making use of Safe services
 - Discovered a project making use of Safe services
 
-You can add it to the ecosystem database. 
+You can add it to the ecosystem database. **Make sure to check for duplicates to avoid double entries.**
 
-**Make sure to check for duplicates to avoid double entries.**
+The Safe team will ad hoc review the created submissions and ensure they meet the below qualifications.
+
+## Which projects qualify?
+
+Here are example integrations that are in scope to be listed:
+
+- Core SDK
+  - Core AA SDK
+  - Safe Apps SDK
+- Core Protocol
+  - Modules
+  - Guards
+  - Contracts
+- Core API
+  - Transaction Service
+  - Client Gateway
+- Supported Networks
+- + more.
 
 ## Which projects don’t qualify?
 
 - Hackathon projects that are non-maintained
 - Projects that have a non-technical collaboration
+
+## How to add projects?
+
+If you want to add a project to the database and [ecosystem.safe.global](http://ecosystem.safe.global), and it meets the criteria, create an issue on GitHub using the following [Template](https://github.com/safe-global/safe-ecosystem-database/issues/new?assignees=&labels=project+:game_die:&projects=&template=suggest_project.yaml&title=Suggest+a+project).
+
+It is at our sole discretion to list or delist projects from the ecosystem database. Projects are not official endorsements, and are provided for informational purposes only.
