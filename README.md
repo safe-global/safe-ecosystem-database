@@ -4,7 +4,9 @@
 
 ## What is it?
 
-This database maintains a list of confirmed internal and external integrations to the safe services. Internal integrations, e.g. blocknative or tenderly and external integrations e.g. Metropolis or Onchain Den.
+This database maintains a list of confirmed integrations to the Safe services. Anyone is free to suggest new projects that have integrated to the Safe services to the ecosystem database.
+
+Database projects and their associated content are currently listed on: [ecosystem.safe.global](https://ecosystem.safe.global)
 
 ## Benefits
 
