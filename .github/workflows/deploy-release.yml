@@ -32,7 +32,7 @@ jobs:
           --include='data.json' \
           --include='logos/*' \
           --include='index.html'
-          working-directory: ${{ github.workspace }}
+        working-directory: ${{ github.workspace }}
 
       # Script to prepare production deployments
       - run: bash ./scripts/github/prepare_production_deployment.sh
