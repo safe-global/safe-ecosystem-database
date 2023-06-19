@@ -31,7 +31,6 @@ body:
     id: project_scope
     attributes:
       label: Please provide the project scope.
-      multiple: true
       options:
         - "Safe Apps"
         - "Interface"
@@ -192,6 +191,7 @@ body:
       description: Please provide a list of supported networks.
       multiple: true
       options:
+        - "Base"
         - "Ethereum"
         - "BNB"
         - "Gnosis Chain"
@@ -200,6 +200,7 @@ body:
         - "Avalanche"
         - "Arbitrum"
         - "Aurora"
+        - "Celo"
     validations:
       required: false
   - type: dropdown
