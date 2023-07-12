@@ -2520,6 +2520,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Remox",
+    "description": "Simplified and collaborative measury management for onchain organizations",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DAO Tooling",
+    "secondary_categories": "Governance, Accounting, Payments",
+    "logo": "/logos/remox.png",
+    "value_prop": "We help onchain organizations manage their multiple Safe addresses on multiple networks in one place. They can check their organization's historical portfolio value over time and see where their funds go and come from. They can manage their contributors, payroll, and reimbursements on Remox. We also let the communities run different simulated scenarios against their organization's treasury and see how proposed decisions will impact the treasury",
+    "project_website": "https://remox.io/",
+    "github_dev_docs": "https://github.com/remoxhq",
+    "team_contact": "orkhan@remox.io",
+    "twitter": "https://twitter.com/useremox",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK, Safe Service Client, Safe Transaction Service, Safe Deployments, Safe Ethers Lib, Safe Ethers Adapter, web3-react",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Avalanche, BNB, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
+    "interface_can_you_create_a_safe": "Yes",
+    "interface_can_you_import_an_existing_safe": "Yes"
+  },
+  {
     "project": "Revoke.cash",
     "description": "Manage and revoke your token allowances with Revoke.cash",
     "project_scope": "Safe Apps",
