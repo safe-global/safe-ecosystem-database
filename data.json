@@ -1560,6 +1560,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "LlamaNodes",
+    "description": "LlamaNodes provides fast and secure access to RPC infrastructure designed for Web3",
+    "project_scope": "Safe Apps",
+    "primary_category": "DeFi",
+    "secondary_categories": "Infrastructure",
+    "logo": "/logos/LlamaNodes.jpg",
+    "value_prop": "LlamaNodes is a low-latency privacy first RPC provider - with dynamic load-balancing, autoscaling, and globally redundant infrastructure. We provide your project with industry-leading features, crypto payments, and all with no contracts",
+    "project_website": "https://llamanodes.com/",
+    "github_dev_docs": "https://github.com/llamanodes",
+    "team_contact": "info@llamanodes.com",
+    "twitter": "https://twitter.com/LlamaNodes",
+    "primary_integration": "Safe Apps SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "Yes",
+    "networks": "Ethereum",
+    "interface_can_you_create_a_safe": "No",
+    "interface_can_you_import_an_existing_safe": "No"
+  },
+  {
     "project": "LlamaPay",
     "description": "Automate transactions and stream them by the second",
     "project_scope": "Safe Apps",
