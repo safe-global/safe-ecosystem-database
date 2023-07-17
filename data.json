@@ -3590,7 +3590,7 @@
     "project_website": "https://partitura.io",
     "github_dev_docs": "https://github.com/Partituraio",
     "team_contact": "hello@partitura.io",
-    "twitter": "@partitura_io",
+    "twitter": "https://twitter.com/partitura_io",
     "primary_integration": "Safe Apps SDK, Core SDK, Transaction Service API, Safe Contracts",
     "packages": "Safe Core SDK, Safe Service Client, Safe Ethers Adapter",
     "modules_guards": "GelatoSafeModule",
