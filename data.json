@@ -3593,7 +3593,7 @@
     "twitter": "https://twitter.com/partitura_io",
     "primary_integration": "Safe Apps SDK, Core SDK, Transaction Service API, Safe Contracts",
     "packages": "Safe Core SDK, Safe Service Client, Safe Ethers Adapter",
-    "modules_guards": "GelatoSafeModule",
+    "modules_guards": "https://github.com/gelatodigital/gelato-safe-module",
     "safe_apps_smart": "We leverage batch execution of transactions and allow to users create, execute and automate their usual web3 action.",
     "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
     "interface_can_you_create_a_safe": "Yes",
