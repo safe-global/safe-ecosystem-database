@@ -3580,6 +3580,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Partitura",
+    "description": "Partitura is the infrastructure for building composable smart transactions. With Partitura you can easily compose any action into one flow, set up an automated flow like DCA strategy, and manage your web3 routine with the power of smart accounts.",
+    "project_scope": "Safe Interface",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Tooling",
+    "logo": "/logos/partitura.png",
+    "value_prop": "Partitura makes your web3 life easier with the power of smart accounts.",
+    "project_website": "https://partitura.io",
+    "github_dev_docs": "https://github.com/Partituraio",
+    "team_contact": "hello@partitura.io",
+    "twitter": "https://twitter.com/partitura_io",
+    "primary_integration": "Safe Apps SDK, Core SDK, Transaction Service API, Safe Contracts",
+    "packages": "Safe Core SDK, Safe Service Client, Safe Ethers Adapter",
+    "modules_guards": "https://github.com/gelatodigital/gelato-safe-module",
+    "safe_apps_smart": "We leverage batch execution of transactions and allow to users create, execute and automate their usual web3 action.",
+    "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
+    "interface_can_you_create_a_safe": "Yes",
+    "interface_can_you_import_an_existing_safe": "Yes"
+  },
+  {
     "project": "Pluser",
     "description": "Pluser is a single decentralized account for all web3 applications, with authorization via email, strong security, and hack protection.",
     "project_scope": "Interface",
