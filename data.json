@@ -2440,6 +2440,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "qubit wallet",
+    "description": "A non-custodial smart contract wallet leveraging Account Abstraction and designed for web3 gamers. Qubit provides an SDK for games to easily integrate qubit's wallet and provide a smooth experience for users (Social Login & easy recovery, Alert & Notifications, Session keys, Multisig, Fee Sponsorship, NFT Gallery)",
+    "project_scope": "Safe Interface",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Collectibles, Wallet, Gaming",
+    "logo": "/logos/qubit.png",
+    "value_prop": "Simplified Wallet Management: Leveraging Account Abstraction, qubit wallet addresses wallet management, one of the major pain points in gaming. It promises a smooth and secure wallet experience for gamers. Easy Setup and User-Friendly Interface: qubit wallet allows users to create a non-custodial wallet using their Gmail credentials or phone number within seconds. Users won't have to risk losing their seed phrase or access to their wallet. Multi-Chain Support: qubit wallet supports multiple networks including Ethereum, Polygon, Optimism, and Arbitrum. It offers seamless integration with games for a hassle-free gaming experience. Gas Fee Sponsoring: Users can pay transaction fees with other ERC-20 tokens besides ETH, eliminating the need to maintain an ETH balance for transaction costs. If desired, games can cover players fees. Enhanced Asset Control: qubit wallet allows users to view all their NFTs per game in their wallet, providing more control over their gaming assets. Advanced Security Measures: qubit wallet is non-custodial and uses a multi-sig approach, where three separate keys are created and at least two are needed for transaction approval. If one key is compromised, the other two can be used to regain access and regenerate the compromised key. Wallet protection: Users can customize access levels for games using session keys.",
+    "project_website": "https://qubitwallet.xyz",
+    "github_dev_docs": "https://docs.qubitwallet.xyz",
+    "team_contact": "hello@qubitwallet.xyz",
+    "twitter": "https://twitter.com/qubitwallet",
+    "primary_integration": "Safe Contracts",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Ethereum, Optimism, Polygon",
+    "interface_can_you_create_a_safe": "Yes",
+    "interface_can_you_import_an_existing_safe": "No"
+  },
+  {
     "project": "Quickswap",
     "description": "Top decentralized exchange on the Polygon Network",
     "project_scope": "Safe Apps",
