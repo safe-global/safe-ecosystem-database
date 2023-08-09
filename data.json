@@ -1940,6 +1940,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Neutra Finance",
+    "description": "Neutra Finance is a decentralized finance (DeFi) platform that aims to simplify yield farming and mitigate its associated risks by providing automated strategy vaults. It offers users the ability to earn yield on their idle assets, regardless of market volatility. Neutra Finance leverages advanced investment strategies typically used by experienced investors to balance positions and protect against adverse price movements. Upon depositing assets into Neutra's vaults, the platform manages optimization of returns, rebalancing, and liquidation risk, allowing users to earn above-market standard APY on high-performing DeFi products. The goal of Neutra Finance is to make these advanced, risk-hedged investment strategies accessible to anyone, anywhere.",
+    "project_scope": "Safe Apps",
+    "primary_category": "DeFi",
+    "secondary_categories": "DeFi, Staking, Yieldneu",
+    "logo": "/logos/neutra_finance.png",
+    "value_prop": "Neutra Finance's value proposition lies in its ability to democratize access to advanced yield farming strategies, allowing users to earn yield on their idle assets while mitigating market volatility. Here are key aspects of its value proposition. Risk-Mitigation: Neutra Finance employs advanced investment strategies typically utilized by experienced investors, helping to balance positions and protect users against adverse price movements. This makes it a suitable choice for those looking for safer investment options in the DeFi space. Simplicity: By providing automated strategy vaults, Neutra Finance simplifies the complexities of yield farming, making it easier for users to earn profits without needing an in-depth understanding of the intricate processes involved. Accessibility: Neutra Finance aims to make risk-hedged, sustainable investment strategies easily accessible for anyone, anywhere, regardless of their level of experience in DeFi. Optimized Returns: Upon depositing their assets into Neutra's vaults, users can earn APY above market standards on high-performing DeFi products, while the platform takes care of optimizing returns, rebalancing, and managing liquidation risk. In summary, Neutra Finance provides a safer, simpler, and more accessible way to earn stable returns in the DeFi space.",
+    "project_website": "https://neutra.finance",
+    "github_dev_docs": "https://github.com/NeutraFinance",
+    "team_contact": "marketing@neutra.finance",
+    "twitter": "https://twitter.com/Neutrafinance",
+    "primary_integration": "Safe Apps SDK",
+    "packages": "Unsure",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum",
+    "interface_can_you_create_a_safe": "No",
+    "interface_can_you_import_an_existing_safe": "No"
+  },
+  {
     "project": "Nexus Mutual",
     "description": "The insurance alternative for crypto and more, providing industry leading on-chain protection",
     "project_scope": "Safe Apps",
