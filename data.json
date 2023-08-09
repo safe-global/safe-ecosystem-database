@@ -1880,6 +1880,26 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Multisight",
+    "description": "An analytics tool for evaluating the response activity of multisignature wallets.",
+    "project_scope": "Interface",
+    "primary_category": "DAO Tooling",
+    "secondary_categories": "Governance, Dashboard, Tooling",
+    "logo": "/logos/multisight.svg",
+    "value_prop": "The platform offers a display of activity details for any supported multisig wallet during a specified time range through a set of different views. Response table, where each signer is represented by a row and each transaction by a column. The table cells contain the response and duration of individual signers to transactions. Transactions list, where each transaction offers detailed information about its submission, confirmation, and execution, including a list of signers and their response times. Signers list, where summary statistics of individual signers are available, together with a list of transactions they have interacted with. Supports Safe wallets across 10+ networks.",
+    "project_website": "https://multisight.app",
+    "github_dev_docs": "",
+    "team_contact": "https://twitter.com/bartosjiri_/status/1681306553704673280",
+    "twitter": "https://twitter.com/bartosjiri_/status/1681306553704673280",
+    "primary_integration": "Transaction Service API",
+    "packages": "Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Aurora, Avalanche, Base, BNB, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
+    "interface_can_you_create_a_safe": "No",
+    "interface_can_you_import_an_existing_safe": "Yes"
+  },
+  {
     "project": "Mural",
     "description": "The fastest crypto payouts platform, built for the global workforce",
     "project_scope": "Interface",
