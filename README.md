@@ -33,14 +33,14 @@ The Safe team will ad hoc review the created submissions and ensure they meet th
 
 Here are example integrations that are in scope to be listed:
 
-- Core SDK
-  - Core AA SDK
+- Safe{Core} SDK
+  - Safe{Core} AA SDK
   - Safe Apps SDK
-- Core Protocol
+- Safe{Core} Protocol
   - Modules
   - Guards
   - Contracts
-- Core API
+- Safe{Core} API
   - Transaction Service
   - Client Gateway
 - Supported Networks
