@@ -1525,7 +1525,7 @@
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Governance",
-    "logo": "/logos/hidden-hand.png",
+    "logo": "/logos/hiddenhand.jpg",
     "value_prop": "",
     "project_website": "https://hiddenhand.finance/",
     "github_dev_docs": "https://github.com/redactedcartel",
@@ -1600,7 +1600,7 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Index",
+    "project": "Index Coop",
     "description": "Swap or FlashMint all products of the Index Coop",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
@@ -2985,7 +2985,7 @@
     "project_scope": "Interface",
     "primary_category": "Infrastructure",
     "secondary_categories": "DeFi, Institutional, Tooling",
-    "logo": "/logos/redefine.svg",
+    "logo": "/logos/redefine.jpg",
     "value_prop": "",
     "project_website": "https://redefine.net/",
     "github_dev_docs": "",
@@ -4004,7 +4004,7 @@
     "description": "Building the world’s largest identity and financial network to serve as a public utility, giving ownership to everyone",
     "project_scope": "Interface",
     "primary_category": "DeFi",
-    "secondary_categories": "",
+    "secondary_categories": "Identity, Wallet, Mobile App",
     "logo": "/logos/worldcoin.svg",
     "value_prop": "",
     "project_website": "https://worldcoin.org/",
@@ -4040,7 +4040,7 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Yearn Finance",
+    "project": "Yearn Guard",
     "description": "Yearn is a decentralized suite of products helping individuals, DAOs, and other protocols earn yield on their digital assets",
     "project_scope": "Interface",
     "primary_category": "DeFi",
@@ -4060,12 +4060,12 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "yearn.finance",
+    "project": "Yearn",
     "description": "The yield protocol for digital assets",
     "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Yield",
-    "logo": "/logos/yearn-finance.svg",
+    "logo": "/logos/yearn.jpeg",
     "value_prop": "",
     "project_website": "https://yearn.finance",
     "github_dev_docs": "https://github.com/yearn",
