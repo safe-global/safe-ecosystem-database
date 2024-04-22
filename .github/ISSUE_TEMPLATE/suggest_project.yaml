@@ -184,6 +184,13 @@ body:
       description: How are you leveraging the benefits of Smart Accounts?
     validations:
       required: false
+  - type: textarea
+    id: safe_exclusive
+    attributes:
+      label: Smart Accounts Providers
+      description: Is Safe the only Smart Account provider you are using in your project?
+    validations:
+      required: true
   - type: dropdown
     id: networks
     attributes:
