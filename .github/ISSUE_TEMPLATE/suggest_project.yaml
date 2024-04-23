@@ -216,7 +216,9 @@ body:
         - "Optimism"
         - "Polygon PoS"
         - "Polygon zkEVM"
+        - "Scroll"
         - "Torus"  
+        - "X Layer"
     validations:
       required: false
   - type: dropdown
