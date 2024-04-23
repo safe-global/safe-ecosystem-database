@@ -184,11 +184,13 @@ body:
       description: How are you leveraging the benefits of Smart Accounts?
     validations:
       required: false
-  - type: textarea
+  - type: dropdown
     id: safe_exclusive
     attributes:
-      label: Smart Accounts Providers
-      description: Is Safe the only Smart Account provider you are using in your project?
+      label: Is Safe the only Smart Account provider you are using in your project?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
   - type: dropdown
@@ -198,16 +200,23 @@ body:
       description: Please provide a list of supported networks.
       multiple: true
       options:
-        - "Base"
-        - "Ethereum"
-        - "BNB"
-        - "Gnosis Chain"
-        - "Polygon"
-        - "Optimism"
-        - "Avalanche"
         - "Arbitrum"
+        - "Arthera"
         - "Aurora"
+        - "Avalanche"
+        - "Base"
+        - "Beam"
+        - "Blast"
+        - "BNB"
         - "Celo"
+        - "Conflux"
+        - "Ethereum"
+        - "Gnosis Chain"
+        - "Haqq"
+        - "Optimism"
+        - "Polygon PoS"
+        - "Polygon zkEVM"
+        - "Torus"  
     validations:
       required: false
   - type: dropdown
