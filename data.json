@@ -2375,25 +2375,6 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
-    "project": "Onchainification Labs",
-    "description": "Automating treasury pipelines using smart accounts",
-    "project_scope": "",
-    "primary_category": "",
-    "secondary_categories": "",
-    "logo": "",
-    "value_prop": "Base x Safe Gas Credit Recipient",
-    "project_website": "https://linktr.ee/onchainification",
-    "github_dev_docs": "https://github.com/onchainification",
-    "twitter": "https://twitter.com/onchain_xyz",
-    "primary_integration": "",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
-  },
-  {
     "project": "Openfort.xyz",
     "description": "The seamless and easy way to offer blockchain accounts to your players",
     "project_scope": "Interface",
@@ -2734,25 +2715,6 @@
     "networks": "Polygon",
     "interface_can_you_create_a_safe": "Yes",
     "interface_can_you_import_an_existing_safe": "No"
-  },
-  {
-    "project": "Pimlico",
-    "description": "Bundler/Paymaster Tooling",
-    "project_scope": "",
-    "primary_category": "",
-    "secondary_categories": "",
-    "logo": "",
-    "value_prop": "",
-    "project_website": "",
-    "github_dev_docs": "",
-    "twitter": "",
-    "primary_integration": "Safe Contracts",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
   },
   {
     "project": "Pirex",
