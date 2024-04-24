@@ -741,6 +741,25 @@
     "interface_can_you_import_an_existing_safe": ""
   },
   {
+    "project": "Cometh Connect",
+    "description": "Cometh Connect is an SDK (Web & Unity) that enables applications to provide to their users a smart wallet (Safe) controlled with a biometric signer (passkey)",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "Collectibles / NFT",
+    "secondary_categories": "Wallet",
+    "logo": "/logos/cometh.png",
+    "value_prop": "",
+    "project_website": "https://www.cometh.io/",
+    "github_dev_docs": "https://docs.cometh.io",
+    "twitter": "https://twitter.com/cometh",
+    "primary_integration": "Core SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Optimism",
+    "interface_can_you_create_a_safe": "",
+    "interface_can_you_import_an_existing_safe": ""
+  },
+  {
     "project": "Connext",
     "description": "Connext is a modular interoperability protocol that lets you build secure crosschain apps (xApps)",
     "project_scope": "Module",
