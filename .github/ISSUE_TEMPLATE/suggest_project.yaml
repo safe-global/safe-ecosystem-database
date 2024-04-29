@@ -185,22 +185,40 @@ body:
     validations:
       required: false
   - type: dropdown
+    id: safe_exclusive
+    attributes:
+      label: Is Safe the only Smart Account provider you are using in your project?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: dropdown
     id: networks
     attributes:
       label: Networks
       description: Please provide a list of supported networks.
       multiple: true
       options:
-        - "Base"
-        - "Ethereum"
-        - "BNB"
-        - "Gnosis Chain"
-        - "Polygon"
-        - "Optimism"
-        - "Avalanche"
         - "Arbitrum"
+        - "Arthera"
         - "Aurora"
+        - "Avalanche"
+        - "Base"
+        - "Beam"
+        - "Blast"
+        - "BNB"
         - "Celo"
+        - "Conflux"
+        - "Ethereum"
+        - "Gnosis Chain"
+        - "Haqq"
+        - "Optimism"
+        - "Polygon PoS"
+        - "Polygon zkEVM"
+        - "Scroll"
+        - "Torus"  
+        - "X Layer"
     validations:
       required: false
   - type: dropdown
