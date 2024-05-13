@@ -4042,7 +4042,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
+    "networks": "Arbitrum, Base, Ethereum, Optimism, Polygon",
     "interface_can_you_create_a_safe": "",
     "interface_can_you_import_an_existing_safe": ""
   },
