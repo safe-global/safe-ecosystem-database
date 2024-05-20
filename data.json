@@ -831,7 +831,7 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon, Sepolia",
     "interface_can_you_create_a_safe": "",
     "interface_can_you_import_an_existing_safe": ""
   },
