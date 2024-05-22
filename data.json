@@ -1889,23 +1889,6 @@
     "networks": ""
   },
   {
-    "project": "Mest",
-    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections. It aims to enrich the blockchain community by allowing users to contribute content that serves the public good. Mest aspires to be a central hub for valuable blockchain insights and a collective effort to navigate the blockchain landscape.",
-    "project_scope": "Core SDK Integration",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "Tooling",
-    "logo": "/logos/mest.png",
-    "value_prop": "Mest's value proposition for Safe revolves around enhancing the visibility and understanding of transactions performed through Gnosis Safe. The core issue addressed by Mest is the difficulty in understanding transaction details due to the way Gnosis Safe executes transactions, often making it hard to discern the actual actions taken and the asset changes involved.\nMest offers a solution by parsing the execTransaction method calls within Gnosis Safe contracts to extract actionable data, counterparties, and even signer information from signatures. This allows for a deeper analysis and transformation of transaction data into human-readable forms, covering a wide range of scenarios like DEX swaps, NFT trades, bridging, lending, and more. Unlike other platforms that may not correctly interpret Safe transactions, leading to a lack of clarity on what was done and which assets were affected, Mest aims to provide a comprehensive breakdown.\nKey improvements Mest brings to the table include:\n• The ability to understand who the counterparties in a transaction are, even when they are Gnosis Safe wallets.\n• Enhanced readability by parsing and displaying the actual method called instead of a generic execTransaction.\n• Deeper transaction analysis that covers various scenarios beyond basic transfers, such as trades, liquidity actions, and more.\n• Richer counterparty metadata, including logos and identities, to better understand transaction contexts.\n• Accurate asset change analysis, as opposed to missing or incorrect information on other platforms.",
-    "project_website": "https://mest.io/",
-    "github_dev_docs": "https://github.com/mest-io",
-    "twitter": "https://x.com/mest_io",
-    "primary_integration": "Core SDK",
-    "packages": "Safe Core SDK",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
-  },
-  {
     "project": "Metropolis",
     "description": "On-chain permissions for DAO working groups",
     "project_scope": "Interface",
