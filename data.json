@@ -14,9 +14,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Basket experience, transaction batching, transaction queue native UI",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "0xPlasma Finance",
@@ -33,9 +31,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions No need to approve token swaps: cheaper transactions",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon"
   },
   {
     "project": "0xSplits",
@@ -52,9 +48,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "1inch Network",
@@ -71,9 +65,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions. No need to approve token swaps. No need to approve token swaps: cheaper transactions",
-    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Aave v3",
@@ -90,9 +82,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Acctual",
@@ -109,9 +99,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "No",
-    "interface_can_you_import_an_existing_safe": "Yes"
+    "networks": "Arbitrum, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Aerodrome",
@@ -128,9 +116,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Base",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Base"
   },
   {
     "project": "Alkemi Earn",
@@ -147,9 +133,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Alloc8",
@@ -166,9 +150,7 @@
     "packages": "Safe Core SDK, Safe Deployments, Safe Ethers Adapter, Transaction Service API, safe-apps-wagmi, safe-apps-web3modal, web3-react",
     "modules_guards": "Created our own modules for the liquidation of funds on the sub-account using Gelato as the caller.",
     "safe_apps_smart": "Using the security and safety of Safe, for every new user on Alloc8, a new Safe smart account is deployed to be used as a sub-account. Users use the Safe-powered smart sub-accounts to leverage borrow and interact with the whitelisted protocols on Alloc8.",
-    "networks": "Arbitrum, Ethereum, Gnosis Chain",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "Yes"
+    "networks": "Arbitrum, Ethereum, Gnosis Chain"
   },
   {
     "project": "Arbitrum",
@@ -185,9 +167,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "ATA Network",
@@ -204,9 +184,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Attest Fest",
@@ -223,9 +201,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Optimism"
   },
   {
     "project": "Aura Finance",
@@ -242,9 +218,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Aurora",
@@ -261,9 +235,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Avalanche",
@@ -280,9 +252,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Balancer",
@@ -299,9 +269,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Bancor",
@@ -318,9 +286,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Base",
@@ -337,9 +303,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "BasedApp",
@@ -356,9 +320,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Polygon"
   },
   {
     "project": "Beamer Bridge",
@@ -375,9 +337,24 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Ethereum, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Optimism"
+  },
+  {
+    "project": "BIM Finance",
+    "description": "More Than An Exchange, buy, swap, bridge and stake your cryptocurrencies from a single interface.",
+    "project_scope": "Connection provider",
+    "primary_category": "DeFi",
+    "secondary_categories": "Bridge, DeFi, Staking",
+    "logo": "/logos/bim_finance.png",
+    "value_prop": "Why BIM Protocol?\nBIM Protocol has been audited and secured. The protocol is completely open source, which allows anyone to interact with a user interface client, API or directly with the smart contracts on the Polygon network and other EVM blockchain. Being open source means that you are able to build any third-party service or application to interact with the protocol and enrich your product.\nHow do I use the BIM protocol?\nHow to use the BIM protocol? To Buy Sell, Bridge, Provide Liquidity, Swap Tokens, or Vote on Governance Proposals, go to the https://exchange.bim.finance/ interface and connect a Web3 wallet.",
+    "project_website": "https://bim.finance/",
+    "github_dev_docs": "https://docs.bim.finance/faq",
+    "twitter": "https://twitter.com/BIM_Finance",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Service Client",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Bitbond Token Tool",
@@ -394,9 +371,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Blocknative",
@@ -413,9 +388,24 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
+  },
+  {
+    "project": "Blockpeer",
+    "description": "An integrated digital asset and fiat accounting platform for institutions!",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "Payments",
+    "secondary_categories": "Accounting, Institutional, Payments",
+    "logo": "/logos/blockpeer.svg",
+    "value_prop": "BlockPeer is a blockchain wallet integrated accounting platform. Safe multisig wallets are natively integrated into BlockPeer. Finance teams from web3 and web2 can seamlessly create and operate Safe multisig wallets from our integrated digital asset and fiat accounting platform.\n\nCoupled with in-built MPC wallets, BlockPeer just needs an email to create an EOA wallet and Safe multisig wallets. A simple login flow resembles a typical web2 accounting platform login process, a web2-like UI.\n\nSafe multisig is deeply integrated into the Accounts Payable (AP) workflows in BlockPeer. Accounting context for signers to understand the underlying payment transaction and automatic accounting for bills paid through BlockPeer's Safe interface adds significant value to finance teams!",
+    "project_website": "https://www.blockpeer.finance",
+    "github_dev_docs": "",
+    "twitter": "https://x.com/blockpeerfin",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK, Safe Deployments, Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "Smart accounts eliminate the risk of EOA's single point of control/failure. With BlockPeer's integrated Safe Smart accounts, institutions can seamlessly manage digital asset payment flows among their team members right within our integrated accounting platform!",
+    "networks": ""
   },
   {
     "project": "BNB Smart Chain",
@@ -432,9 +422,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Brahma",
@@ -451,9 +439,7 @@
     "packages": "",
     "modules_guards": "Guards - Yes\nModules - Yes",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "Yes"
+    "networks": ""
   },
   {
     "project": "Bulla Banker",
@@ -470,9 +456,7 @@
     "packages": "",
     "modules_guards": "https://github.com/bulla-network/bulla-contracts/blob/master/contracts/BullaBankerModule.sol",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Bungee Exchange",
@@ -489,9 +473,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "Cross chain swaps",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Bunni",
@@ -508,9 +490,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Candide Wallet",
@@ -527,9 +507,7 @@
     "packages": "",
     "modules_guards": "https://github.com/candidelabs/CandideWalletContracts/blob/main/contracts/gnosisWallet/EIP4337Fallback.sol#L22",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Carbon",
@@ -546,9 +524,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Cardstack",
@@ -565,9 +541,7 @@
     "packages": "",
     "modules_guards": "https://github.com/cardstack/cardstack-meta-guard",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Casa",
@@ -584,9 +558,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Censo",
@@ -603,9 +575,7 @@
     "packages": "",
     "modules_guards": "https://docs.google.com/document/d/1kYfMtlHLIXVyfdey3vhPEhORBc7bKnghvyNgsZOBk-Y/edit#heading=h.6h3zkw4gg1kf",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Centrifuge",
@@ -622,9 +592,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Chamber",
@@ -641,9 +609,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "CharmVerse",
@@ -660,9 +626,7 @@
     "packages": "Safe Core SDK, Safe Service Client",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Circles UBI",
@@ -679,9 +643,7 @@
     "packages": "Safe Core SDK, Transaction Service API, Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Cobo Safe",
@@ -698,9 +660,7 @@
     "packages": "",
     "modules_guards": "https://etherscan.io/address/0x7893405d9d968a4e3637897f4fd734ca59f338f6#code",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Coinshift",
@@ -717,9 +677,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Collabland",
@@ -736,9 +694,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Cometh Connect",
@@ -746,18 +702,16 @@
     "project_scope": "Core SDK Integration",
     "primary_category": "Collectibles / NFT",
     "secondary_categories": "Wallet",
-    "logo": "/logos/cometh.png",
+    "logo": "/logos/288149260-4cb19dc4-73cc-49d0-8aac-b0bf5c703668.png",
     "value_prop": "",
-    "project_website": "https://www.cometh.io/",
+    "project_website": "https://cometh.io",
     "github_dev_docs": "https://docs.cometh.io",
-    "twitter": "https://twitter.com/cometh",
+    "twitter": "twitter.com/cometh",
     "primary_integration": "Core SDK",
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Optimism"
   },
   {
     "project": "Connext",
@@ -774,9 +728,7 @@
     "packages": "",
     "modules_guards": "https://github.com/gnosis/zodiac-module-connext/",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "CoW Swap",
@@ -793,9 +745,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum, Gnosis Chain",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain"
   },
   {
     "project": "Cryptio",
@@ -812,9 +762,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "CSV Airdrop",
@@ -831,9 +779,7 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Curve Finance",
@@ -850,9 +796,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "DAA Finance",
@@ -869,9 +813,7 @@
     "packages": "Unsure",
     "modules_guards": "https://github.com/DAA-Finance/evm-development/tree/master/gnosis-withdrawal-module\n\nhttps://github.com/DAA-Finance/evm-development/tree/master/gnosis-dsa-module\n\nhttps://github.com/DAA-Finance/evm-development/tree/master/gnosis-tokenizer-module",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "DAOHaus",
@@ -888,9 +830,7 @@
     "packages": "",
     "modules_guards": "https://github.com/HausDAO/MinionSummonerV2/blob/main/contracts/SafeMinion.sol",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "DeFi Saver",
@@ -907,16 +847,14 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Den",
     "description": "The Fastest Multisig for Onchain Teams",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
-    "secondary_categories": "Accounting, Payments",
+    "secondary_categories": "Accounting, Infrastructure, Payments",
     "logo": "/logos/Den.jpeg",
     "value_prop": "Get your transactions built & signed fast",
     "project_website": "https://www.onchainden.com/",
@@ -926,9 +864,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Dework.xyz",
@@ -945,9 +881,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "dHEDGE",
@@ -964,9 +898,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Optimism, Polygon"
   },
   {
     "project": "DODO",
@@ -983,9 +915,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Drain Account",
@@ -1002,9 +932,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Drips",
@@ -1021,9 +949,7 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "dump.services",
@@ -1040,9 +966,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "DustSweeper",
@@ -1059,9 +983,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "ENS - Ethereum Name Service",
@@ -1078,9 +1000,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Envelop",
@@ -1097,9 +1017,7 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, BNB Chain, Ethereum, Goerli, Polygon",
-    "interface_can_you_create_a_safe": "no",
-    "interface_can_you_import_an_existing_safe": "no"
+    "networks": "Arbitrum, BNB Chain, Ethereum, Goerli, Polygon"
   },
   {
     "project": "Enzyme Finance",
@@ -1116,9 +1034,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Epoch Protocol",
@@ -1135,9 +1051,7 @@
     "packages": "Safe Core SDK, Safe Deployments, safe-apps-wagmi, safe-apps-web3modal, web3-onboard, web3-react",
     "modules_guards": "SAFE ERC4337 Module,\nEpoch Module",
     "safe_apps_smart": "",
-    "networks": "Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "Yes"
+    "networks": "Ethereum, Optimism, Polygon"
   },
   {
     "project": "ETH Staking by P2P.org",
@@ -1154,9 +1068,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "ETHA Lend",
@@ -1173,9 +1085,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, Polygon"
   },
   {
     "project": "Eulith",
@@ -1192,9 +1102,7 @@
     "packages": "Safe Deployments",
     "modules_guards": "Currently non, but we will probably upgrade to use a guard later. At the moment, we have our own Safe module which enables us to separate trading and withdrawal keys.",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Celo, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "Yes"
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Celo, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Everlasting",
@@ -1211,9 +1119,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Base",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Base"
   },
   {
     "project": "Exactly",
@@ -1230,9 +1136,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Exponent",
@@ -1249,9 +1153,24 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
+  },
+  {
+    "project": "FailSafe",
+    "description": "FailSafe became generally available in September of 2023. It is part of the overall defense-in-depth product lineup originally envisioned in our https://arxiv.org/abs/2304.03387. FailSafe is designed to deal with what to date has been regarded as game-over scenarios: an attacker learns the victim wallet's private key or seed phrase, or gains an unlimited token allowance via phishing or smart contract compromise. On enrollment of an Externally Owned Address (EOA) or a wallet contract (i.e., Gnosis Safe), the FailSafe Interceptor service monitors globally pending transactions across public, private, and internal transaction streams. Once an attacker's pending transaction is detected, FailSafe submits a just-in-time counter transaction that moves the protected wallet's assets to a recovery vault before the attacker's transaction is executed. This interception is triggered via safe mode (the equivalent of a virtual transaction lock) or smart mode, which uses threat intel to intercept only if the transaction counterparty is flagged as fraudulent.",
+    "project_scope": "Safe Apps",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Infrastructure",
+    "logo": "/logos/failsafe.png",
+    "value_prop": "People who use Safe could face big risks if someone discovers their owner's private keys or tricks them into giving access to their wallets. These risks can lead to losing all their money in the wallet, which can be really bad.\nFailSafe works with Gnosis Safe to add an extra layer of protection. It keeps an eye on all transactions that try to move money out of the wallet. If it sees something suspicious, it steps in quickly to move the money to a safe place.",
+    "project_website": "https://app.getfailsafe.com/",
+    "github_dev_docs": "https://doc.getfailsafe.com/",
+    "twitter": "https://twitter.com/protectmywallet",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK, safe-apps-wagmi",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Fileverse",
@@ -1268,9 +1187,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Gnosis Chain",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Gnosis Chain"
   },
   {
     "project": "Firm",
@@ -1287,28 +1204,24 @@
     "packages": "Unsure",
     "modules_guards": "Using spending limits module",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
-    "project": "Fluidkey (prev Sefu)",
-    "description": "Sefu enables privacy-preserving payments on Ethereum and EVM chains from any account or wallet",
+    "project": "Fluidkey",
+    "description": "Fluidkey protects your privacy. Receive and manage funds onchain without publicly linking them to you.",
     "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "DAO Tooling",
-    "logo": "/logos/sefu.svg",
-    "value_prop": "",
-    "project_website": "https://sefu.co/",
-    "github_dev_docs": "",
-    "twitter": "",
-    "primary_integration": "Core SDK, Core Tx Service API, Safe Apps SDK, Safe Contracts",
+    "primary_category": "Payments",
+    "secondary_categories": "Privacy, Wallet",
+    "logo": "/logos/fluidkey.png",
+    "value_prop": "Fluidkey gives users better privacy defaults on public EVM chains by allowing them to receive funds in a fresh address for every transaction.",
+    "project_website": "https://fluidkey.com",
+    "github_dev_docs": "https://docs.fluidkey.com",
+    "twitter": "https://x.com/fluidkey",
+    "primary_integration": "Safe Contracts",
     "packages": "",
     "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "safe_apps_smart": "Every stealth account generated by Fluidkey is a Safe smart account.",
+    "networks": "Arbitrum, Base, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Forum DAOs",
@@ -1325,9 +1238,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Fractal",
@@ -1344,9 +1255,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Furucombo",
@@ -1363,9 +1272,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Gelato",
@@ -1401,9 +1308,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Yes (token launches can only take place through the safe apps interface)",
-    "networks": "Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Gnosis Chain",
@@ -1420,9 +1325,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Gnosis Guild aka Zodiac",
@@ -1439,9 +1342,7 @@
     "packages": "",
     "modules_guards": "https://github.com/gnosis/zodiac/tree/master/contracts",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "GnosisPay",
@@ -1458,9 +1359,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Grindery",
@@ -1477,9 +1376,7 @@
     "packages": "Safe Deployments",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Guild.xyz",
@@ -1496,9 +1393,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Harvest Finance",
@@ -1515,9 +1410,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Polygon"
   },
   {
     "project": "Headquarters (HQ.xyz)",
@@ -1534,9 +1427,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Hedgey",
@@ -1553,9 +1444,7 @@
     "packages": "safe-apps-web3modal",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Hedgey Treasury Lockups",
@@ -1572,9 +1461,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, Celo, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Hidden Hand",
@@ -1591,9 +1478,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Optimism"
   },
   {
     "project": "Hop Protocol",
@@ -1610,9 +1495,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Idle Finance",
@@ -1629,9 +1512,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "IHELP Protocol",
@@ -1648,9 +1529,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche"
   },
   {
     "project": "Index Coop",
@@ -1667,9 +1546,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Instadapp",
@@ -1686,9 +1563,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "InsurAce",
@@ -1705,9 +1580,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche, BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Integral",
@@ -1724,9 +1597,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Arbitrum, Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum"
   },
   {
     "project": "Juicebox",
@@ -1743,9 +1614,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Jumper Exchange",
@@ -1762,9 +1631,7 @@
     "packages": "safe-apps-sdk",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon, Polygon zkEVM, zkSync",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon, Polygon zkEVM, zkSync"
   },
   {
     "project": "Kairos",
@@ -1781,9 +1648,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Klaster",
@@ -1800,9 +1665,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, BNB Chain, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, BNB Chain, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Kwenta",
@@ -1819,9 +1682,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Optimism"
   },
   {
     "project": "Lido Staking",
@@ -1838,9 +1699,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Liminal",
@@ -1857,9 +1716,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Linkdrop",
@@ -1876,9 +1733,7 @@
     "packages": "",
     "modules_guards": "https://github.com/LinkdropHQ/linkdrop-safe-module",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Liquity Frontend",
@@ -1895,9 +1750,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "LlamaPay",
@@ -1914,9 +1767,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Lomads",
@@ -1933,9 +1784,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Lore (Formerly Prysm)",
@@ -1952,9 +1801,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Lucidity Finance",
@@ -1971,9 +1818,7 @@
     "packages": "Safe Core SDK",
     "modules_guards": "We have developed our own Module for a Safe. The module features functionalities like Batch Exec transactions, facilitate flashloans, security checks. Also will be extended to manage cross-chain communication between the safes for smooth multichain experience.",
     "safe_apps_smart": "",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "No"
+    "networks": "Ethereum"
   },
   {
     "project": "Maker Governance Portal",
@@ -1990,9 +1835,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Maple Finance",
@@ -2009,9 +1852,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Goerli",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Goerli"
   },
   {
     "project": "Mean Finance",
@@ -2028,9 +1869,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Mesha Club",
@@ -2047,9 +1886,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Metropolis",
@@ -2066,9 +1903,7 @@
     "packages": "Safe Core SDK, Safe Deployments, Safe Ethers Lib, Transaction Service API",
     "modules_guards": "https://docs.orcaprotocol.org/docs/getting-started-pods/podify-your-safe",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Migratooor",
@@ -2085,9 +1920,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Minerva Wallet",
@@ -2104,9 +1937,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Monerium",
@@ -2123,9 +1954,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Chiado, Ethereum, Gnosis Chain, Goerli, Mumbai, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Chiado, Ethereum, Gnosis Chain, Goerli, Mumbai, Polygon"
   },
   {
     "project": "Morpho",
@@ -2142,9 +1971,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Morpho Aave App",
@@ -2161,9 +1988,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Motherboard",
@@ -2180,9 +2005,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "mStable",
@@ -2199,47 +2022,41 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Multisight",
-    "description": "An analytics tool for evaluating the response activity of multisignature wallets",
+    "description": "Multisight is a knowledge and tooling platform dedicated to improving the access to and distribution of information about multisigs",
     "project_scope": "Interface",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Dashboard, Governance, Tooling",
     "logo": "/logos/multisight.svg",
     "value_prop": "",
     "project_website": "https://multisight.app",
-    "github_dev_docs": "https://github.com/bartosjiri/multisight",
-    "twitter": "https://twitter.com/bartosjiri_/status/1681306553704673280",
+    "github_dev_docs": "https://github.com/multisightapp",
+    "twitter": "https://twitter.com/multisightapp",
     "primary_integration": "Core Tx Service API",
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon, Polygon zkEVM, zkSync"
   },
   {
     "project": "Mural",
-    "description": "The fastest crypto payouts platform, built for the global workforce",
+    "description": "Instant Global Payments and Invoicing. Eliminate delays and fees with Mural.",
     "project_scope": "Interface",
-    "primary_category": "Infrastructure",
-    "secondary_categories": "",
+    "primary_category": "Payments",
+    "secondary_categories": "Accounting, Institutional, Stablecoin",
     "logo": "/logos/mural.png",
-    "value_prop": "Web3 full stack agency",
-    "project_website": "https://www.mural.xyz/",
+    "value_prop": "Move beyond slow international wires, costly transaction fees, and lack of transaction visibility with Mural. More than just a payment method, Mural is designed to empower your business with an all-in-one platform combining global payments, automated invoicing, flexible account payable flows, and the latest in blockchain technology. Our mission is to make every international transaction fast, scalable, and secure.",
+    "project_website": "https://www.muralpay.com/",
     "github_dev_docs": "",
-    "twitter": "https://twitter.com/mural_xyz/",
-    "primary_integration": "Core Tx Service API, Safe Contracts",
-    "packages": "",
+    "twitter": "https://twitter.com/mural_pay",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK, Safe Deployments, Safe Ethers Lib, Transaction Service API",
     "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "safe_apps_smart": "Mural uses Safe Smart Accounts for core asset account infrastructure on its payments and invoicing platform. Customers benefit from customizable approval policies and flexible signers for payments / transfers",
+    "networks": ""
   },
   {
     "project": "Narval",
@@ -2256,9 +2073,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Nest Wallet",
@@ -2275,9 +2090,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Neutra Finance",
@@ -2294,9 +2107,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum"
   },
   {
     "project": "Nexus Mutual",
@@ -2313,9 +2124,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "NFT.fi",
@@ -2332,9 +2141,7 @@
     "packages": "Safe Core SDK, Safe Ethers Adapter, Safe Service Client",
     "modules_guards": "https://docs.google.com/document/d/1O5fT79Ay3BwKPtvpUHzlUwGM7yyfHiVTJ_hyRdtQkB8/edit",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "NFTMigratooor",
@@ -2351,9 +2158,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "NinDAO",
@@ -2370,9 +2175,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Olas",
@@ -2389,9 +2192,24 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
+  },
+  {
+    "project": "Onit",
+    "description": "Onit lets you manage your Safe from an XMTP group chat & onboard new users into passkey smart accounts",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DAO Tooling",
+    "secondary_categories": "Messaging",
+    "logo": "/logos/onit.png",
+    "value_prop": "• With Onit you can chat with your Safe and make/execute proposals directly from the conversation\n• Natural language transaction building from chat messages make transaction building easy\n• New users are onboarded into a passkey smart account",
+    "project_website": "https://onit.fun",
+    "github_dev_docs": "https://github.com/onit-labs/onit-contracts",
+    "twitter": "https://twitter.com/onit_fun",
+    "primary_integration": "Safe Contracts",
+    "packages": "Safe Deployments, Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "When a new user joins Onit or you invite someone without a wallet to your Safe, we create them a passkey controlled smart account. They can then act as a signer on your Safe, and have a wallet of their own to get started in crypto.\n\nWe will be building out modules for our accounts / Safes.",
+    "networks": "Base, Ethereum, Optimism"
   },
   {
     "project": "Openfort.xyz",
@@ -2408,9 +2226,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "OpenOcean",
@@ -2427,9 +2243,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "OpenZeppelin Defender",
@@ -2446,9 +2260,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Optimism",
@@ -2465,9 +2277,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Origin Dollar",
@@ -2484,9 +2294,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Origin Ether",
@@ -2503,9 +2311,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "oSnap",
@@ -2522,9 +2328,7 @@
     "packages": "safe-apps-sdk",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon"
   },
   {
     "project": "OtoCo",
@@ -2541,9 +2345,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Polygon"
   },
   {
     "project": "Outcome Finance",
@@ -2560,9 +2362,7 @@
     "packages": "",
     "modules_guards": "https://docs.outcome.finance/optimistic-governance/what-is-the-optimistic-governor",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Palmera",
@@ -2579,9 +2379,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "PancakeSwap",
@@ -2598,9 +2396,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "BNB Chain, Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum"
   },
   {
     "project": "Pangolin",
@@ -2617,9 +2413,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Avalanche",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche"
   },
   {
     "project": "ParaSwap",
@@ -2636,9 +2430,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Avalanche, BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Parcel Inc",
@@ -2655,9 +2447,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Partitura",
@@ -2674,9 +2464,7 @@
     "packages": "",
     "modules_guards": "GelatoSafeModule",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Paymagic Labs",
@@ -2693,9 +2481,7 @@
     "packages": "",
     "modules_guards": "https://github.com/PaymagicXYZ/lensmo-contract/tree/466283371166499d88d2b027adcd9ab5fb5e9b74/contracts",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Peaze",
@@ -2712,9 +2498,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Picnic",
@@ -2731,9 +2515,7 @@
     "packages": "",
     "modules_guards": "Safe 4337",
     "safe_apps_smart": "",
-    "networks": "Polygon",
-    "interface_can_you_create_a_safe": "Yes",
-    "interface_can_you_import_an_existing_safe": "No"
+    "networks": "Polygon"
   },
   {
     "project": "Pirex",
@@ -2750,9 +2532,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum"
   },
   {
     "project": "Playground",
@@ -2769,9 +2549,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Pluser",
@@ -2788,9 +2566,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Pods Yield",
@@ -2807,9 +2583,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum, Goerli",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Goerli"
   },
   {
     "project": "Polygon",
@@ -2826,9 +2600,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Polynomial Earn Vaults",
@@ -2845,9 +2617,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Optimism"
   },
   {
     "project": "PoolTogether",
@@ -2864,9 +2634,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Prime Deals",
@@ -2883,9 +2651,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "PWN",
@@ -2902,9 +2668,7 @@
     "packages": "",
     "modules_guards": "https://pwn.mirror.xyz/acXg4DJglQlu61UFZufYUMy3W-lru1wPO9sXbicDSY0",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Quickswap",
@@ -2921,9 +2685,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Polygon"
   },
   {
     "project": "Rabby.io",
@@ -2940,9 +2702,7 @@
     "packages": "Safe Core SDK, Safe Deployments, Safe Service Client",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Radicle",
@@ -2959,9 +2719,7 @@
     "packages": "Safe Core SDK, Safe Service Client",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Raft",
@@ -2978,9 +2736,7 @@
     "packages": "safe-apps-provider",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Ramp",
@@ -2997,9 +2753,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche, BNB Chain, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Range Protocol",
@@ -3016,9 +2770,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, BNB Chain, Base, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, BNB Chain, Base, Ethereum, Polygon"
   },
   {
     "project": "Redefine",
@@ -3035,9 +2787,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "Reflexer",
@@ -3054,9 +2804,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Remox",
@@ -3073,9 +2821,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Celo, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Request Finance",
@@ -3092,9 +2838,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Celo, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Celo, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Revoke.cash",
@@ -3111,9 +2855,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Rocket Pool",
@@ -3130,9 +2872,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Sablier v1",
@@ -3149,9 +2889,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch - approve and deploy",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Sablier v2",
@@ -3168,9 +2906,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Goerli, Optimism, Polygon"
   },
   {
     "project": "Safe{DAO} Governance",
@@ -3187,9 +2923,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Transaction batch: claim and delegate in one tx",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "SekerDAO",
@@ -3206,9 +2940,7 @@
     "packages": "",
     "modules_guards": "https://github.com/SekerDAO/Usul",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "SenseiStake",
@@ -3225,9 +2957,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Silo Finance",
@@ -3244,9 +2974,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Snapshot",
@@ -3263,9 +2991,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Snapshot X",
@@ -3282,9 +3008,7 @@
     "packages": "",
     "modules_guards": "https://github.com/snapshot-labs/sx-core/tree/develop/contracts/ethereum/ZodiacModule",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Solid World Refi",
@@ -3301,9 +3025,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Polygon"
   },
   {
     "project": "Spark Protocol",
@@ -3320,9 +3042,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Ethereum, Gnosis Chain, Goerli",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain, Goerli"
   },
   {
     "project": "Spool App",
@@ -3339,9 +3059,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum"
   },
   {
     "project": "Squid",
@@ -3358,9 +3076,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Polygon"
   },
   {
     "project": "StakeDAO",
@@ -3377,9 +3093,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche, Ethereum, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, Ethereum, Polygon"
   },
   {
     "project": "stakefish",
@@ -3396,9 +3110,7 @@
     "packages": "web3-react",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Goerli",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Goerli"
   },
   {
     "project": "Stakehouse LSD Deployer",
@@ -3415,9 +3127,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Stakehouse LSD Networks dApp",
@@ -3434,9 +3144,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Stakewise",
@@ -3453,9 +3161,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Gnosis Chain",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain"
   },
   {
     "project": "Station X",
@@ -3472,9 +3178,7 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Stripe",
@@ -3491,9 +3195,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Summer.fi",
@@ -3510,9 +3212,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Optimism"
   },
   {
     "project": "Superfluid",
@@ -3529,9 +3229,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Sushi",
@@ -3548,9 +3246,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Symphony Finance",
@@ -3567,9 +3263,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "—",
-    "networks": "Avalanche, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche, Optimism, Polygon"
   },
   {
     "project": "Syndicate",
@@ -3577,7 +3271,7 @@
     "project_scope": "Core SDK Integration",
     "primary_category": "Infrastructure",
     "secondary_categories": "Gaming, Infrastructure, Tooling",
-    "logo": "/logos/syndicate.jpg",
+    "logo": "/logos/syndicate.png",
     "value_prop": "Our modular end-to-end infrastructure abstracts the complexity of sending onchain transactions and decreases development time — making it easier, cheaper and faster for developers to build, launch and grow onchain products at any scale.",
     "project_website": "https://syndicate.io",
     "github_dev_docs": "https://docs.syndicate.io",
@@ -3586,9 +3280,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Polygon",
-    "interface_can_you_create_a_safe": "No",
-    "interface_can_you_import_an_existing_safe": "No"
+    "networks": "Polygon"
   },
   {
     "project": "Synthetix",
@@ -3605,9 +3297,7 @@
     "packages": "web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "SZNS",
@@ -3624,9 +3314,7 @@
     "packages": "Safe Deployments",
     "modules_guards": "https://github.com/SZNS/diamond-sandbox/tree/28049d37f0c00bbec02b7a59693aceb3d13723a9/contracts/guardian",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Tally.xyz",
@@ -3643,9 +3331,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Tellor",
@@ -3662,9 +3348,7 @@
     "packages": "",
     "modules_guards": "https://github.com/tellor-io/snapshot-zodiac-module",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Tenderize",
@@ -3681,9 +3365,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum"
   },
   {
     "project": "Tephra Labs",
@@ -3700,9 +3382,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Base",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Base"
   },
   {
     "project": "Timeless Finance",
@@ -3719,9 +3399,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Token Approval Manager",
@@ -3738,9 +3416,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum, Gnosis Chain",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum, Gnosis Chain"
   },
   {
     "project": "TokenPocket",
@@ -3757,9 +3433,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Toros",
@@ -3776,9 +3450,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Optimism, Polygon"
   },
   {
     "project": "Trader Joe",
@@ -3795,9 +3467,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Avalanche",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Avalanche"
   },
   {
     "project": "Transaction Builder",
@@ -3814,9 +3484,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions and draft transactions",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Tribes",
@@ -3833,9 +3501,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Uniswap",
@@ -3852,9 +3518,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Ethereum, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Velodrome",
@@ -3871,9 +3535,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Optimism"
   },
   {
     "project": "Velvet Finance",
@@ -3890,9 +3552,7 @@
     "packages": "",
     "modules_guards": "Created Guard",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "WalletConnect",
@@ -3909,9 +3569,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Waymont",
@@ -3928,9 +3586,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Web3Auth",
@@ -3947,9 +3603,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "Wombat Exchange",
@@ -3966,9 +3620,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "BNB Chain",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain"
   },
   {
     "project": "Worldcoin",
@@ -3985,9 +3637,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "Optimism",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Optimism"
   },
   {
     "project": "xDai Bridge",
@@ -4004,9 +3654,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
   },
   {
     "project": "Yearn Guard",
@@ -4023,9 +3671,7 @@
     "packages": "Safe Core SDK, Safe Service Client",
     "modules_guards": "https://mirror.xyz/yearn-finance-engineering.eth/9uInM_sCrogPBs5qkFSNF6qe-32-0XLN5bty5wKLVqU",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   },
   {
     "project": "yearn.finance",
@@ -4042,9 +3688,24 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Ethereum"
+  },
+  {
+    "project": "Zeal Wallet",
+    "description": "DeFi Wallet with free bank transfers and complete portfolio. Biometrics and simulations keep you Safe!",
+    "project_scope": "Interface",
+    "primary_category": "DeFi",
+    "secondary_categories": "Wallet",
+    "logo": "/logos/300495183-dfee75ff-6d81-4ae7-960a-254b8dcbe1f7.png",
+    "value_prop": "",
+    "project_website": "https://www.zeal.app/",
+    "github_dev_docs": "https://github.com/zealwallet/Wallet",
+    "twitter": "https://twitter.com/zealwallet",
+    "primary_integration": "Safe Contracts",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Celo, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "ZenGuard",
@@ -4061,9 +3722,7 @@
     "packages": "",
     "modules_guards": "Module Marketplace",
     "safe_apps_smart": "",
-    "networks": "BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Zerion",
@@ -4080,9 +3739,7 @@
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Zodiac",
@@ -4099,9 +3756,7 @@
     "packages": "",
     "modules_guards": "https://github.com/gnosis/zodiac",
     "safe_apps_smart": "Modules, batch transactions, custom UI",
-    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Zodiac Exit App",
@@ -4118,9 +3773,7 @@
     "packages": "",
     "modules_guards": "https://github.com/gnosis/zodiac-module-exit",
     "safe_apps_smart": "No",
-    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
     "project": "Zyield Finance",
@@ -4137,8 +3790,6 @@
     "packages": "Unsure",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": "",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": ""
   }
 ]
