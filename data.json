@@ -456,7 +456,7 @@
     "packages": "",
     "modules_guards": "https://github.com/bulla-network/bulla-contracts/blob/master/contracts/BullaBankerModule.sol",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon, Base",
+    "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon, Base"
   },
   {
     "project": "Bungee Exchange",
