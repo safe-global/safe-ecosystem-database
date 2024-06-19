@@ -1546,7 +1546,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Ethereum"
+    "networks": "Arbitrum, Ethereum"
   },
   {
     "project": "Instadapp",
