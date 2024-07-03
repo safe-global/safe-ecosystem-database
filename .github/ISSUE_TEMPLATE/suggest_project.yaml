@@ -51,6 +51,8 @@ body:
         - "Payments"
         - "Collectibles / NFT"
         - "Infrastructure"
+        - "RaaS"
+        - "Blockchain"
     validations:
       required: true
   - type: dropdown
