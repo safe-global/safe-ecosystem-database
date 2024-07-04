@@ -1856,7 +1856,7 @@
   },
   {
     "project": "Mest",
-    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections. It aims to enrich the blockchain community by allowing users to contribute content that serves the public good. Mest aspires to be a central hub for valuable blockchain insights and a collective effort to navigate the blockchain landscape.",
+    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections.",
     "project_scope": "Core SDK Integration",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Tooling",
@@ -2642,7 +2642,7 @@
     "project_scope": "Network",
     "primary_category": "Infrastructure",
     "secondary_categories": "DeFi, Infrastructure",
-    "logo": "/logos/Protofirelogo192.png",
+    "logo": "/logos/Protofire.png",
     "value_prop": "",
     "project_website": "https://protofire.io/services/safe-deployment",
     "github_dev_docs": "https://github.com/protofire",
