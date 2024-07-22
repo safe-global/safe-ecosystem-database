@@ -2638,10 +2638,10 @@
   },
   {
     "project": "Protofire DAO",
-    "description": "Reliable partner for Safe and DeFi deployment, customization & development, supporting 50+ networks",
+    "description": "Reliable partner for Safe and DeFi deployment & development, supporting 50+ networks",
     "project_scope": "Network",
     "primary_category": "Infrastructure",
-    "secondary_categories": "DeFi, Infrastructure",
+    "secondary_categories": "DeFi",
     "logo": "/logos/Protofire.png",
     "value_prop": "",
     "project_website": "https://protofire.io/services/safe-deployment",
