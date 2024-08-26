@@ -456,7 +456,7 @@
     "packages": "",
     "modules_guards": "https://github.com/bulla-network/bulla-contracts/blob/master/contracts/BullaBankerModule.sol",
     "safe_apps_smart": "No",
-    "networks": "Arbitrum, Aurora, Avalanche, Ethereum, Gnosis Chain, Optimism, Polygon, Base"
+    "networks": "Arbitrum, Aurora, Avalanche, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Bungee Exchange",
@@ -593,23 +593,6 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum"
-  },
-  {
-    "project": "Chamber",
-    "description": "Secures your ETH, USDC and other digital assets with the devices you already own and trust",
-    "project_scope": "Interface",
-    "primary_category": "Payments",
-    "secondary_categories": "Wallet",
-    "logo": "/logos/chamber.svg",
-    "value_prop": "",
-    "project_website": "https://www.withchamber.com/",
-    "github_dev_docs": "",
-    "twitter": "",
-    "primary_integration": "Core SDK, Safe Contracts",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": ""
   },
   {
     "project": "CharmVerse",
@@ -1224,23 +1207,6 @@
     "networks": "Arbitrum, Base, Ethereum, Optimism, Polygon"
   },
   {
-    "project": "Forum DAOs",
-    "description": "DAO tooling platform for chat-based investment DAOs",
-    "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "Wallet",
-    "logo": "/logos/forumdaos.svg",
-    "value_prop": "A dao tooling platform for investment daos on initially on Avalanche.",
-    "project_website": "https://forumdaos.com",
-    "github_dev_docs": "https://github.com/forumdaos",
-    "twitter": "https://twitter.com/forumdaos",
-    "primary_integration": "Safe Contracts",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": ""
-  },
-  {
     "project": "Fractal",
     "description": "DAO governance framework: Unleash the power of human coordination through all DAO lifecycle stages",
     "project_scope": "Safe Apps",
@@ -1636,7 +1602,7 @@
   {
     "project": "Kairos",
     "description": "Get an instant loan using your NFTs as collateral",
-    "project_scope": "Interface",
+    "project_scope": "Safe Apps",
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles / NFT, Lending/Borrowing",
     "logo": "/logos/kairos.jpeg",
@@ -1721,7 +1687,7 @@
   {
     "project": "Linkdrop",
     "description": "Send Ether, ERC20 and ERC721 tokens via shareable links and QR-codes",
-    "project_scope": "Interface",
+    "project_scope": "Safe Apps",
     "primary_category": "Payments",
     "secondary_categories": "DeFi",
     "logo": "/logos/linkdrop.png",
@@ -1793,7 +1759,7 @@
     "primary_category": "DeFi",
     "secondary_categories": "Collectibles / NFT, DAO Tooling, Fundraising, Governance",
     "logo": "/logos/lore.png",
-    "value_prop": "Prysm supercharges your community with the power to pool andmanage capital to turn your mission into a collective movement.Enter SquadsGet Access NFT",
+    "value_prop": "Lore supercharges your community with the power to pool andmanage capital to turn your mission into a collective movement.Enter SquadsGet Access NFT",
     "project_website": "https://lore.xyz/",
     "github_dev_docs": "",
     "twitter": "https://twitter.com/loredotxyz",
@@ -1889,6 +1855,23 @@
     "networks": ""
   },
   {
+    "project": "Mest",
+    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections.",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DAO Tooling",
+    "secondary_categories": "Tooling",
+    "logo": "/logos/mest.png",
+    "value_prop": "Mest's value proposition for Safe revolves around enhancing the visibility and understanding of transactions performed through Gnosis Safe. The core issue addressed by Mest is the difficulty in understanding transaction details due to the way Gnosis Safe executes transactions, often making it hard to discern the actual actions taken and the asset changes involved.\nMest offers a solution by parsing the execTransaction method calls within Gnosis Safe contracts to extract actionable data, counterparties, and even signer information from signatures. This allows for a deeper analysis and transformation of transaction data into human-readable forms, covering a wide range of scenarios like DEX swaps, NFT trades, bridging, lending, and more. Unlike other platforms that may not correctly interpret Safe transactions, leading to a lack of clarity on what was done and which assets were affected, Mest aims to provide a comprehensive breakdown.\nKey improvements Mest brings to the table include:\n• The ability to understand who the counterparties in a transaction are, even when they are Gnosis Safe wallets.\n• Enhanced readability by parsing and displaying the actual method called instead of a generic execTransaction.\n• Deeper transaction analysis that covers various scenarios beyond basic transfers, such as trades, liquidity actions, and more.\n• Richer counterparty metadata, including logos and identities, to better understand transaction contexts.\n• Accurate asset change analysis, as opposed to missing or incorrect information on other platforms.",
+    "project_website": "https://mest.io/",
+    "github_dev_docs": "https://github.com/mest-io",
+    "twitter": "https://x.com/mest_io",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
+  },
+  {
     "project": "Metropolis",
     "description": "On-chain permissions for DAO working groups",
     "project_scope": "Interface",
@@ -1959,7 +1942,7 @@
   {
     "project": "Morpho",
     "description": "A small tool that allows users to sign & submit complex transactions to a Safe contract, without relying on Safe's backend or frontend.\n\nIf the Safe App was down, this set of foundry scripts can act as a fallback.",
-    "project_scope": "Interface",
+    "project_scope": "Safe Apps",
     "primary_category": "Infrastructure",
     "secondary_categories": "Wallet",
     "logo": "/logos/Morpho.jpeg",
@@ -1989,23 +1972,6 @@
     "modules_guards": "",
     "safe_apps_smart": "Batch transactions",
     "networks": "Ethereum"
-  },
-  {
-    "project": "Motherboard",
-    "description": "All-in-one platform that helps you run your DAO. Easily manage contributors, track finances, and engage with your community",
-    "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "Governance, Infrastructure, Payments",
-    "logo": "/logos/motherboard.png",
-    "value_prop": "The premier platform for DAO operations",
-    "project_website": "https://www.motherboard.fi/",
-    "github_dev_docs": "https://github.com/new-order-network",
-    "twitter": "https://twitter.com/motherboard_fi",
-    "primary_integration": "Core Tx Service API, Safe Contracts",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": ""
   },
   {
     "project": "mStable",
@@ -2161,23 +2127,6 @@
     "networks": "Ethereum"
   },
   {
-    "project": "NinDAO",
-    "description": "Convert group chats into DAOs",
-    "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "Governance, Messaging, Mobile App",
-    "logo": "/logos/nindao.jpeg",
-    "value_prop": "Convert group chats into DAOs",
-    "project_website": "https://nindao.xyz/",
-    "github_dev_docs": "https://github.com/nindao",
-    "twitter": "https://twitter.com/nindao_bot",
-    "primary_integration": "Core SDK",
-    "packages": "Unsure",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": ""
-  },
-  {
     "project": "Olas",
     "description": "One single network for all the stuff that makes crypto work, built on cutting edge, autonomous agent technology",
     "project_scope": "Interface",
@@ -2189,6 +2138,23 @@
     "github_dev_docs": "https://github.com/valory-xyz",
     "twitter": "https://twitter.com/autonolas",
     "primary_integration": "Safe Contracts",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": ""
+  },
+  {
+    "project": "Onchainification Labs",
+    "description": "Automating treasury pipelines using smart accounts",
+    "project_scope": "",
+    "primary_category": "",
+    "secondary_categories": "",
+    "logo": "/logos/onchainification_labs.jpg",
+    "value_prop": "Base x Safe Gas Credit Recipient",
+    "project_website": "https://linktr.ee/onchainification",
+    "github_dev_docs": "https://github.com/onchainification",
+    "twitter": "https://twitter.com/onchain_xyz",
+    "primary_integration": "",
     "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
@@ -2366,20 +2332,20 @@
   },
   {
     "project": "Palmera",
-    "description": "Flexibly manage organizations on-chain using a simple framework to create, utilize, and visualize Safe integrations, DAO tools, modules, and hierarchies",
+    "description": "Smart Treasury Management: Multiple Safes, Multiple Chains, One Dashboard.",
     "project_scope": "Interface",
-    "primary_category": "DAO Tooling",
-    "secondary_categories": "",
-    "logo": "/logos/Palmera.jpeg",
-    "value_prop": "",
+    "primary_category": "Payments",
+    "secondary_categories": "Accounting, Aggregator, DAO Tooling, Dashboard",
+    "logo": "/logos/palmera.png",
+    "value_prop": "Palmera aggregates all your Safes across multiple chains to streamline your operations and treasury management, all from a single dashboard.",
     "project_website": "https://www.palmeradao.xyz/",
     "github_dev_docs": "",
     "twitter": "https://twitter.com/palmera_dao",
-    "primary_integration": "Core Tx Service API, Safe Contracts",
-    "packages": "",
+    "primary_integration": "Core SDK, Core Tx Service API, Safe Contracts",
+    "packages": "Safe Core SDK, Safe Deployments, Safe Ethers Adapter, Safe Service Client, Transaction Service API, web3-onboard",
     "modules_guards": "",
     "safe_apps_smart": "",
-    "networks": ""
+    "networks": "Arbitrum, Base, Celo, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "PancakeSwap",
@@ -2518,6 +2484,23 @@
     "networks": "Polygon"
   },
   {
+    "project": "pier wallet",
+    "description": "pier wallet is a Wallet as a Service (WaaS) provider from Switzerland, leveraging account abstraction to offer seamless (up to invisible) wallet experiences. Besides our own infrastructure, we leverage Safe technology for multi-signature wallets.",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Accounting, Dashboard, Governance, Institutional",
+    "logo": "/logos/pier.svg",
+    "value_prop": "",
+    "project_website": "https://www.pierwallet.com/",
+    "github_dev_docs": "https://github.com/pier-wallet",
+    "twitter": "https://twitter.com/pier_wallet",
+    "primary_integration": "Core Tx Service API, Safe Contracts",
+    "packages": "Safe Core SDK, Safe Ethers Adapter, Safe Ethers Lib, web3-react",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": ""
+  },
+  {
     "project": "Pirex",
     "description": "Liquid wrappers that allow for auto-compounding and the tokenization of future yield/vote events",
     "project_scope": "Safe Apps",
@@ -2637,7 +2620,7 @@
     "networks": "Ethereum"
   },
   {
-    "project": "Prime Deals",
+    "project": "Prime DAO",
     "description": "An interface for DAO to DAO interactions, such as token swaps, co-liquidity provision, and joint venture formation",
     "project_scope": "Safe Apps",
     "primary_category": "DAO Tooling",
@@ -2652,6 +2635,23 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum"
+  },
+  {
+    "project": "Protofire DAO",
+    "description": "Reliable partner for Safe and DeFi deployment, customization & development, supporting 50+ networks",
+    "project_scope": "Network",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "DeFi, Infrastructure",
+    "logo": "/logos/Protofire.png",
+    "value_prop": "",
+    "project_website": "https://protofire.io/services/safe-deployment",
+    "github_dev_docs": "https://github.com/protofire",
+    "twitter": "https://twitter.com/protofire",
+    "primary_integration": "Core SDK, Core Tx Service API, Safe Contracts",
+    "packages": "Safe Core SDK, Safe Deployments, Safe Ethers Adapter, Safe Ethers Lib, Safe Service Client, Transaction Service API, safe-apps-wagmi, safe-apps-web3modal, web3-onboard, web3-react",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Blast, Optimism, Scroll"
   },
   {
     "project": "PWN",
@@ -2924,6 +2924,23 @@
     "modules_guards": "",
     "safe_apps_smart": "Transaction batch: claim and delegate in one tx",
     "networks": "Ethereum"
+  },
+  {
+    "project": "Satoshi Safe",
+    "description": "Secure multi-sig crypto wallet for high net-worth users, hedge funds, and institutions.",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DeFi",
+    "secondary_categories": "DAO Tooling, Institutional, Wallet",
+    "logo": "/logos/satoshisafe.png",
+    "value_prop": "Satoshi Safe extends Gnosis Safe by offering a streamlined, intuitive interface that simplifies transaction management for high net-worth individuals, family offices, and hedge funds. Our platform integrates enhanced security features, robust support, and cross-chain capabilities, making it the premier choice for sophisticated investors seeking a reliable and efficient multi-signature wallet solution",
+    "project_website": "https://www.getsatoshisafe.com",
+    "github_dev_docs": "",
+    "twitter": "",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK, Safe Service Client, Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "To leverage the benefits of Smart Accounts effectively, Satoshi Safe offers fund managers robust multisig functionality. Our platform allows for customizable multi-signature settings that require multiple signers to approve transactions, thereby enhancing security and reducing the risk of unauthorized access or fraud. This feature is crucial for high net-worth individuals, family offices, and hedge funds, ensuring that large transactions undergo rigorous scrutiny before execution.",
+    "networks": ""
   },
   {
     "project": "SekerDAO",
@@ -3207,7 +3224,7 @@
     "value_prop": "",
     "project_website": "https://summer.fi",
     "github_dev_docs": "https://github.com/OasisDEX/oasis-borrow/",
-    "twitter": "https://twitter.com/oasisdotapp",
+    "twitter": "summerfinance_",
     "primary_integration": "Safe Apps SDK",
     "packages": "",
     "modules_guards": "",
@@ -3247,23 +3264,6 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
-  },
-  {
-    "project": "Symphony Finance",
-    "description": "Yield-optimized trading protocol to trade crypto at the best price. Use advanced features to earn maximum yield while trading",
-    "project_scope": "Safe Apps",
-    "primary_category": "DeFi",
-    "secondary_categories": "DEX",
-    "logo": "/logos/Sym.png",
-    "value_prop": "",
-    "project_website": "https://www.symphony.finance/",
-    "github_dev_docs": "https://github.com/symphony-finance",
-    "twitter": "https://twitter.com/SymphonyFinance",
-    "primary_integration": "Safe Apps SDK",
-    "packages": "",
-    "modules_guards": "",
-    "safe_apps_smart": "—",
-    "networks": "Avalanche, Optimism, Polygon"
   },
   {
     "project": "Syndicate",
@@ -3325,7 +3325,7 @@
     "logo": "/logos/tally.png",
     "value_prop": "",
     "project_website": "https://www.tally.xyz/",
-    "github_dev_docs": "https://zodiac.wiki/index.php/Category:Governor_Module",
+    "github_dev_docs": "https://github.com/withtally/",
     "twitter": "https://twitter.com/tallyxyz",
     "primary_integration": "Safe Contracts",
     "packages": "",
@@ -3369,7 +3369,7 @@
   },
   {
     "project": "Tephra Labs",
-    "description": "Tephra Labs is building infrastructure for a modern, global way of doing work.",
+    "description": "Tephra Labs  is building infrastructure for a modern, global way of doing work.",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3383,6 +3383,23 @@
     "modules_guards": "",
     "safe_apps_smart": "",
     "networks": "Base"
+  },
+  {
+    "project": "Tezoro",
+    "description": "Make your crypto recoverable",
+    "project_scope": "Safe Apps",
+    "primary_category": "DeFi",
+    "secondary_categories": "Automation, Insurance",
+    "logo": "/logos/tezoro.png",
+    "value_prop": "Create a smart contract that can recover your crypto if something goes wrong.",
+    "project_website": "https://tezoro.io/",
+    "github_dev_docs": "https://gitlab.com/tezoro/tezoro-frontend-2.0",
+    "twitter": "https://twitter.com/tezoroio",
+    "primary_integration": "Safe Apps SDK",
+    "packages": "safe-apps-wagmi",
+    "modules_guards": "To ensure the security of the service, Tezoro uses a long list of technologies and libraries at the smart contract, front-end and back-end levels. For example, Viem and Wagmi. Tezoro was audited by Consensys Diligence and CertiK.",
+    "safe_apps_smart": "Smart Accounts improve the safety of funds and the security of recovery and inheritance transactions.",
+    "networks": "Ethereum"
   },
   {
     "project": "Timeless Finance",
