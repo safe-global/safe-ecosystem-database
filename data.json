@@ -1,5 +1,22 @@
 [
   {
+    "project": "0xCobo Safe",
+    "description": "Cobo Safe is a DeFi-focused custody solution that leverages multi-signature and multi-party computation (MPC) to secure digital assets in decentralized finance applications. It provides fine-grained access controls, automated smart contract interactions, and real-time audit trails to safeguard against unauthorized transactions. Integrated with our integration of SAFE (Arugus), it offers on-chain monitoring and analytics tailored for DeFi, enabling users to track asset movements, liquidity positions, and other critical blockchain events across multiple protocols. Together, Cobo Safe and Argus enhance security and operational transparency, making them ideal for institutional investors and custodians in the DeFi space.",
+    "project_scope": "Safe Apps",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "Automation, DAO Tooling, DeFi, Governance, Institutional, SAFE, Tooling",
+    "logo": "/logos/cobo.png",
+    "value_prop": "Smart Accounts in DeFi are advanced accounts that automate and manage complex transactions and interactions with smart contracts, reducing manual effort and minimizing errors. They allow for programmable control over assets, enabling features like automated trading, yield farming, and conditional transfers directly from the account.\n\nFor us, Smart Accounts streamline operations by automating routine tasks, ensuring consistency, and reducing operational overhead. This leads to faster, more reliable execution of strategies, improved risk management, and better scalability as we manage increasing volumes of assets across multiple DeFi protocols. In short, Smart Accounts simplify complex DeFi operations, making them more efficient and secure.",
+    "project_website": "https://www.cobo.com/",
+    "github_dev_docs": "https://github.com/CoboGlobal/cobosafe",
+    "twitter": "https://twitter.com/Cobo_Global",
+    "primary_integration": "Core SDK, Safe Apps SDK, Safe Contracts",
+    "packages": "",
+    "modules_guards": "https://etherscan.io/address/0x7893405d9d968a4e3637897f4fd734ca59f338f6#code",
+    "safe_apps_smart": "No",
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
+  },
+  {
     "project": "0xNFT by Castle",
     "description": "NFT Marketplace Aggregator: Buy, list and transfer NFTs across OpenSea and all major markets",
     "project_scope": "Safe Apps",
@@ -629,23 +646,6 @@
     "networks": ""
   },
   {
-    "project": "Cobo Safe",
-    "description": "All-in-one custody solutions provider to safeguard and manage all your digital assets",
-    "project_scope": "Safe Apps",
-    "primary_category": "DeFi",
-    "secondary_categories": "CeFi, Institutional",
-    "logo": "/logos/cobo-safe.png",
-    "value_prop": "",
-    "project_website": "https://www.cobo.com/",
-    "github_dev_docs": "",
-    "twitter": "https://twitter.com/Cobo_Global",
-    "primary_integration": "Core SDK, Safe Apps SDK, Safe Contracts",
-    "packages": "",
-    "modules_guards": "https://etherscan.io/address/0x7893405d9d968a4e3637897f4fd734ca59f338f6#code",
-    "safe_apps_smart": "No",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
-  },
-  {
     "project": "Coinshift",
     "description": "Smart treasury management for DAOs and crypto organizations",
     "project_scope": "Interface",
@@ -984,6 +984,23 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum"
+  },
+  {
+    "project": "Enso",
+    "description": "Enso offers a unified API for interacting with DeFi protocols, and the token economy on EVM compatible chains. Building integrations with each protocol is time consuming, challenging, costly and error prone. Enso API allows developers to build once and integrate with all protocols.",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DeFi",
+    "secondary_categories": "Infrastructure",
+    "logo": "/logos/enso.png",
+    "value_prop": "Enso offers a unified API for interacting with DeFi protocols, and the token economy on https://api-docs.enso.finance/concepts/networks. Building integrations with each protocol is time consuming, challenging, costly and error prone. Enso API allows developers to build once and integrate with all protocols.",
+    "project_website": "https://www.enso.finance/",
+    "github_dev_docs": "https://api-docs.enso.finance/",
+    "twitter": "https://x.com/EnsoFinance",
+    "primary_integration": "Core Tx Service API",
+    "packages": "Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "Bundling transactions",
+    "networks": "Arbitrum, Avalanche, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Envelop",
@@ -1856,7 +1873,7 @@
   },
   {
     "project": "Mest",
-    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections.",
+    "description": "Mest is an open, user-friendly platform for sharing and labeling blockchain transactions and wallet collections. It aims to enrich the blockchain community by allowing users to contribute content that serves the public good. Mest aspires to be a central hub for valuable blockchain insights and a collective effort to navigate the blockchain landscape.",
     "project_scope": "Core SDK Integration",
     "primary_category": "DAO Tooling",
     "secondary_categories": "Tooling",
@@ -1989,6 +2006,23 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum"
+  },
+  {
+    "project": "Mu Wallet",
+    "description": "MU Wallet is a non-custodial wallet offering a seamless on-chain stablecoin earning experience, featuring passkey security, automated vaults, and on-chain DCA.",
+    "project_scope": "",
+    "primary_category": "DeFi",
+    "secondary_categories": "Automation, Wallet, Yield",
+    "logo": "/logos/muwallet.png",
+    "value_prop": "Offering best-in-class on-chain earning experience. Non-custodial, simple, mobile-first, and secure.",
+    "project_website": "https://mu-wallet.com",
+    "github_dev_docs": "",
+    "twitter": "https://x.com/muwallet_app",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK",
+    "modules_guards": "@safe-global/safe-apps-sdk\n@safe-global/safe-apps-provider\n(mainly from permissionless.js)",
+    "safe_apps_smart": "Custom authorization for passkey, multi-signer for recovery backup, batch transactions for better UX",
+    "networks": "Arbitrum, Base, Ethereum, Optimism, Polygon"
   },
   {
     "project": "Multisight",
@@ -2496,6 +2530,23 @@
     "twitter": "https://twitter.com/pier_wallet",
     "primary_integration": "Core Tx Service API, Safe Contracts",
     "packages": "Safe Core SDK, Safe Ethers Adapter, Safe Ethers Lib, web3-react",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": ""
+  },
+  {
+    "project": "Pimlico",
+    "description": "Bundler/Paymaster Tooling",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "",
+    "logo": "/logos/pimlico.svg",
+    "value_prop": "",
+    "project_website": "https://pimlico.io/",
+    "github_dev_docs": "https://docs.pimlico.io/",
+    "twitter": "https://x.com/pimlicoHQ",
+    "primary_integration": "Safe Contracts",
+    "packages": "",
     "modules_guards": "",
     "safe_apps_smart": "",
     "networks": ""
@@ -3266,6 +3317,23 @@
     "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
   },
   {
+    "project": "Sygnum Web3 Recovery",
+    "description": "Secure you Safe account. Ensure you never lose access to your Safe account with Sygnum, the leading regulated Swiss bank specializing in digital assets. Trusted by over 60% of the top 50 crypto projects as measured by market cap, we provide recovery with complete peace of mind.",
+    "project_scope": "Service Provider",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "DAO Tooling, Governance, Institutional, Social, Tooling, Wallet",
+    "logo": "/logos/sygnum.jpg",
+    "value_prop": "",
+    "project_website": "https://web3.sygnum.com/safe-recovery",
+    "github_dev_docs": "https://github.com/sygnumbank/syguard-contracts",
+    "twitter": "",
+    "primary_integration": "Core Tx Service API, Safe Apps SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "The concept of Smart Accounts has enabled us to develop a recovery solution where users maintain full ownership and control over the recovery process. When setting up Sygnum Web3 Recovery, the Safe account is enhanced with a recovery module that provides this unique functionality.",
+    "networks": "Arbitrum, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon, Polygon zkEVM"
+  },
+  {
     "project": "Syndicate",
     "description": "Transaction APIs and L3 rollups to to power onchain applications.",
     "project_scope": "Core SDK Integration",
@@ -3315,6 +3383,23 @@
     "modules_guards": "https://github.com/SZNS/diamond-sandbox/tree/28049d37f0c00bbec02b7a59693aceb3d13723a9/contracts/guardian",
     "safe_apps_smart": "",
     "networks": ""
+  },
+  {
+    "project": "Talent Protocol",
+    "description": "Talent Protocol is building the resume for the onchain era of the internet. It unlocks unique reputation data and makes human potential more visible.",
+    "project_scope": "Interface",
+    "primary_category": "Social",
+    "secondary_categories": "",
+    "logo": "/logos/talent.png",
+    "value_prop": "The protocol works with trusted data sources like GitHub, Farcaster or LinkedIn to bring reputation data onchain as verifiable credentials and calculate a Builder Score for every talent.\n\nApp developers can easily integrate with Talent Protocol via an API, and access 700K+ Talent Passport holders.",
+    "project_website": "https://talentprotocol.com",
+    "github_dev_docs": "https://docs.talentprotocol.com/docs/developers/talent-protocol-api",
+    "twitter": "https://x.com/TalentProtocol",
+    "primary_integration": "Core Tx Service API",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Base"
   },
   {
     "project": "Tally.xyz",
@@ -3369,7 +3454,7 @@
   },
   {
     "project": "Tephra Labs",
-    "description": "Tephra Labs  is building infrastructure for a modern, global way of doing work.",
+    "description": "Tephra Labs is building infrastructure for a modern, global way of doing work.",
     "project_scope": "",
     "primary_category": "",
     "secondary_categories": "",
@@ -3791,22 +3876,5 @@
     "modules_guards": "https://github.com/gnosis/zodiac-module-exit",
     "safe_apps_smart": "No",
     "networks": "BNB Chain, Ethereum, Gnosis Chain, Polygon"
-  },
-  {
-    "project": "Zyield Finance",
-    "description": "Makes investing in DeFi simple by abstracting away the complexities associated with managing a smart contract wallet",
-    "project_scope": "Interface",
-    "primary_category": "DeFi",
-    "secondary_categories": "Dashboard",
-    "logo": "/logos/zyield.jpeg",
-    "value_prop": "Zyield is making investing in DeFi simple by abstracting away the complexities associated with managing a smart contract wallet.",
-    "project_website": "https://zyield.fi/",
-    "github_dev_docs": "https://github.com/zyield",
-    "twitter": "https://twitter.com/zyieldfinance",
-    "primary_integration": "Core SDK",
-    "packages": "Unsure",
-    "modules_guards": "",
-    "safe_apps_smart": "",
-    "networks": ""
   }
 ]
