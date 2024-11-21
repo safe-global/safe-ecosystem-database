@@ -456,7 +456,7 @@
     "packages": "",
     "modules_guards": "Guards - Yes\nModules - Yes",
     "safe_apps_smart": "",
-    "networks": ""
+    "networks": "Arbitrum, Base, Blast, Ethereum, Mode, Sei, Scroll"
   },
   {
     "project": "Bulla Banker",
@@ -1187,7 +1187,7 @@
     "packages": "safe-apps-wagmi",
     "modules_guards": "",
     "safe_apps_smart": "No",
-    "networks": "Gnosis Chain"
+    "networks": "Base, Gnosis Chain"
   },
   {
     "project": "Firm",
@@ -2515,7 +2515,7 @@
     "packages": "",
     "modules_guards": "Safe 4337",
     "safe_apps_smart": "",
-    "networks": "Polygon"
+    "networks": "Arbitrum, Avalanche, Base, BSC, Ethereum, Gnosis Chain, Moonbeam, Optimism, Polygon"
   },
   {
     "project": "pier wallet",
