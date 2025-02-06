@@ -1258,23 +1258,38 @@
     "networks": "Ethereum"
   },
   {
+    "project": "Gearbox",
+    "description": "Gearbox is building a permissionless credit layer for all of DeFi, reimagining traditional lending.",
+    "project_scope": "Safe Apps",
+    "primary_category": "DeFi",
+    "secondary_categories": "Lending/Borrowing",
+    "logo": "/logos/gearbox.svg",
+    "value_prop": "",
+    "project_website": "https://gearbox.fi/",
+    "github_dev_docs": "https://dev.gearbox.fi/",
+    "twitter": "https://x.com/GearboxProtocol",
+    "primary_integration": "Core SDK, Safe Apps SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Ethereum, Optimism"
+  },
+  {
     "project": "Gelato",
     "description": "Enables developers to create augmented smart contracts\nthat are automated, gasless & off-chain aware",
     "project_scope": "Core SDK Integration",
     "primary_category": "Infrastructure",
     "secondary_categories": "Automation, Tooling",
     "logo": "/logos/Gelato_brand_mark.png",
-    "value_prop": "Enables developers to create augmented smart contracts\nthat are automated, gasless & off-chain aware",
-    "project_website": "https://www.gelato.network/",
+    "value_prop": "",
+    "project_website": "https://www.gelato.network",
     "github_dev_docs": "https://github.com/gelatodigital",
     "twitter": "https://twitter.com/gelatonetwork",
     "primary_integration": "Core SDK",
     "packages": "",
     "modules_guards": "https://github.com/gelatodigital/gelato-safe-module",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon",
-    "interface_can_you_create_a_safe": "",
-    "interface_can_you_import_an_existing_safe": ""
+    "networks": "Arbitrum, Avalanche, BNB Chain, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Gnosis Auction Starter",
@@ -1581,6 +1596,23 @@
     "modules_guards": "",
     "safe_apps_smart": "—",
     "networks": "Arbitrum, Ethereum"
+  },
+  {
+    "project": "JOIN",
+    "description": "JOIN is the ultimate financial app designed to bridge the gap between TradFi and DeFi for crypto-curious users, reimagining the non-custodial experience.",
+    "project_scope": "Interface",
+    "primary_category": "Infrastructure",
+    "secondary_categories": "DeFi, Mobile App, Payments, Wallet, Yield",
+    "logo": "/logos/join.svg",
+    "value_prop": "",
+    "project_website": "https://getjoin.io/",
+    "github_dev_docs": "",
+    "twitter": "https://x.com/getjoin_io",
+    "primary_integration": "Safe Contracts",
+    "packages": "Safe Deployments, Transaction Service API",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Ethereum, Gnosis Chain, Optimism, Polygon"
   },
   {
     "project": "Juicebox",
@@ -2515,7 +2547,7 @@
     "packages": "",
     "modules_guards": "Safe 4337",
     "safe_apps_smart": "",
-    "networks": "Arbitrum, Avalanche, Base, BSC, Ethereum, Gnosis Chain, Moonbeam, Optimism, Polygon"
+    "networks": "Polygon"
   },
   {
     "project": "pier wallet",
@@ -2824,6 +2856,23 @@
     "networks": "Arbitrum, BNB Chain, Base, Ethereum, Polygon"
   },
   {
+    "project": "Rango Exchange",
+    "description": "Rango is the cross-chain DEX and bridge aggregator that supports interoperability between +50 blockchains, including all EVMs, zk-Rollups, Cosmos-based, etc.",
+    "project_scope": "Safe Apps",
+    "primary_category": "DeFi",
+    "secondary_categories": "Aggregator, Bridge",
+    "logo": "/logos/rango.jpg",
+    "value_prop": "With Rango, users can easily perform cross-chain swaps and bridges not only on EVM chains but also on non-EVMs and UTXOs.",
+    "project_website": "https://app.rango.exchange",
+    "github_dev_docs": "https://github.com/rango-exchange",
+    "twitter": "https://twitter.com/rangoexchange",
+    "primary_integration": "Safe Apps SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Arbitrum, Aurora, Avalanche, BNB Chain, Ethereum, Optimism, Polygon"
+  },
+  {
     "project": "Redefine",
     "description": "Pre-transaction risk assessment tool scrutinizes every transaction before execution with an analysis of transactions and their risks",
     "project_scope": "Interface",
@@ -2926,6 +2975,23 @@
     "networks": "Ethereum"
   },
   {
+    "project": "Rumpel Labs",
+    "description": "Rumpel is a point tokenization protocol. It enables secondary market liquidity and price discovery for offchain loyalty points.",
+    "project_scope": "Guard",
+    "primary_category": "DeFi",
+    "secondary_categories": "Accounting, Wallet, Yield",
+    "logo": "/logos/rumpel.svg",
+    "value_prop": "",
+    "project_website": "https://www.rumpel.xyz/",
+    "github_dev_docs": "https://github.com/sense-finance/rumpel-wallet",
+    "twitter": "https://x.com/RumpelLabs",
+    "primary_integration": "Safe Contracts",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Ethereum"
+  },
+  {
     "project": "Sablier v1",
     "description": "Stream money in real-time with Sablier",
     "project_scope": "Safe Apps",
@@ -2992,6 +3058,23 @@
     "modules_guards": "",
     "safe_apps_smart": "To leverage the benefits of Smart Accounts effectively, Satoshi Safe offers fund managers robust multisig functionality. Our platform allows for customizable multi-signature settings that require multiple signers to approve transactions, thereby enhancing security and reducing the risk of unauthorized access or fraud. This feature is crucial for high net-worth individuals, family offices, and hedge funds, ensuring that large transactions undergo rigorous scrutiny before execution.",
     "networks": ""
+  },
+  {
+    "project": "SeCuWa",
+    "description": "SeCuWa is a permissionless chain-abstracted savings account that leverages OpenFi infrastructures to provide both newbies and crypto natives better user experience with blockchain. SeCuWa is a full self-custody onchain neobank.",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DeFi",
+    "secondary_categories": "Lending/Borrowing, Mobile App, Payments, Wallet",
+    "logo": "/logos/secuwa.png",
+    "value_prop": "SeCuWa leverages new technologies, new standards, and blue-chip DeFi protocols to provide both crypto natives and newcomers with seamless access to DeFi. With a single click, users can access cross-chain yield opportunities, benefit from secure and effortless account abstraction (AA) for signups using gnosis{safe} and passkey, and enjoy simplified DeFi activities such as earning across multiple protocols, etc —all designed to eliminate complexity while maximizing convenience and security.",
+    "project_website": "secuwa.io",
+    "github_dev_docs": "https://github.com/secuwaHQ",
+    "twitter": "https://x.com/secuwaHQ",
+    "primary_integration": "Core SDK, Safe Apps SDK, Safe Contracts",
+    "packages": "Safe Core SDK",
+    "modules_guards": "",
+    "safe_apps_smart": "SeCuWa is a smart savings account built entirely on Safe Smart Account infrastructure, we utilize passkeys as the signer. With this setup, users can sign up effortlessly—no additional requirements are needed. By simply clicking the signup button on mobile or web, a Safe smart account is automatically created, enabling users to immediately access the opportunities and simplicity SeCuWa brings to on-chain savings.",
+    "networks": "Arbitrum, Base, Polygon"
   },
   {
     "project": "SekerDAO",
@@ -3606,6 +3689,23 @@
     "networks": ""
   },
   {
+    "project": "Tropykus",
+    "description": "Tropykus is developing a lending services for developing countries focusing on a familiar UX for non-crypto native users using web3 technologies",
+    "project_scope": "Core SDK Integration",
+    "primary_category": "DeFi",
+    "secondary_categories": "Lending/Borrowing",
+    "logo": "/logos/tropykus.png",
+    "value_prop": "",
+    "project_website": "https://somos.tropykus.com",
+    "github_dev_docs": "https://github.com/Tropykus/tropykus-widget",
+    "twitter": "https://twitter.com/tropykus",
+    "primary_integration": "Core SDK",
+    "packages": "",
+    "modules_guards": "",
+    "safe_apps_smart": "",
+    "networks": "Polygon"
+  },
+  {
     "project": "Uniswap",
     "description": "Swap, earn, and build on the leading decentralized crypto trading protocol",
     "project_scope": "Safe Apps",
@@ -3757,6 +3857,23 @@
     "modules_guards": "",
     "safe_apps_smart": "No",
     "networks": "Ethereum"
+  },
+  {
+    "project": "Yamata",
+    "description": "A next-gen blazing fast self-custodial order book exchange that empowers crypto traders to trade without trade-offs",
+    "project_scope": "Interface",
+    "primary_category": "DeFi",
+    "secondary_categories": "DEX",
+    "logo": "/logos/yamata.png",
+    "value_prop": "Yamata is pioneering a new, dominant design for crypto trading, merging blazing fast order books and advanced order types with a simple, self custodial, on-chain user experience that is made impossibly simple through account abstraction. By utilizing a novel OHX (Optimistic Hybrid Exchange Mechanism), Yamata ensures trustless, transparent trade validation without sacrificing performance.\nOur ultimate goal is to empower crypto traders to trade without trade-offs.",
+    "project_website": "https://yamata.io",
+    "github_dev_docs": "https://docs.yamata.io/",
+    "twitter": "https://x.com/yamataexchange",
+    "primary_integration": "Core SDK",
+    "packages": "Safe Core SDK",
+    "modules_guards": "Safe4337Module",
+    "safe_apps_smart": "All of our users automatically get a Safe Smart Account created upon first login. It is 2-of-2 type of the multisig account, user has one key and Yamata platform has another key. Additionally, the user can nominate recovery accounts and sign the transactions from the Smart Account with only one signature, providing there is a significant delay, i.e., a transaction like this is not valid for another few days.\n\nWith this, Yamata cannot access the users' assets, yet the user can always withdraw them if Yamata is non-cooperative.",
+    "networks": "Arbitrum, Avalanche, BNB Chain, Base, Optimism, Polygon"
   },
   {
     "project": "Yearn Guard",
