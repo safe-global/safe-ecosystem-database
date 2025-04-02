@@ -18,7 +18,7 @@ jobs:
       - name: Create new branch
         run: |
           # Get current date for branch name
-          branch_name="ecosystem-update-$(date +'%Y-%m-%d')"
+          branch_name="ecosystem-update-$(date +'%Y-%m-%d-%H-%M')"
           git checkout -b $branch_name
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
 
