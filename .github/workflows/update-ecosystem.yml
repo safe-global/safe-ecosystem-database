@@ -9,6 +9,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch all history for all branches and tags
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -21,25 +23,34 @@ jobs:
           branch_name="ecosystem-update-$(date +'%Y-%m-%d-%H-%M')"
           git checkout -b $branch_name
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+          echo "Created branch: $branch_name"
 
       - name: Update ecosystem
         env:
           ATTIO_API_TOKEN: ${{ secrets.ATTIO_API_TOKEN }}
         run: node scripts/attio/updateEcosystem.js
 
+      - name: Debug git status
+        run: |
+          echo "Current git status:"
+          git status
+          echo "Changes in data.json:"
+          git diff --unified=20 data.json || true
+          echo "Changes in logos/:"
+          git diff logos/ || true
+
       - name: Commit changes
-        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git diff data.json || true
-          git diff logos/ || true
           git add data.json logos/
+          git status
           git commit -m "chore: update ecosystem data [skip ci]" || echo "No changes to commit"
 
       - name: Push changes
         run: |
-          git push origin ${{ env.BRANCH_NAME }}
+          echo "Pushing to branch: ${{ env.BRANCH_NAME }}"
+          git push origin ${{ env.BRANCH_NAME }} --force
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
