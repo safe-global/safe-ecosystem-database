@@ -8,19 +8,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: "18"
 
       - name: Create new branch
         run: |
           # Get current date for branch name
-          branch_name="ecosystem-update-$(date +'%Y-%m-%d')"
+          branch_name="ecosystem-update-$(date +'%Y-%m-%d-%H-%M')"
           git checkout -b $branch_name
           echo "BRANCH_NAME=$branch_name" >> $GITHUB_ENV
+          echo "Created branch: $branch_name"
 
       - name: Update ecosystem
         env:
@@ -32,27 +33,37 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data.json logos/
-          git commit -m "chore: update ecosystem data [skip ci]" || echo "No changes to commit"
+          git commit -m "chore: update ecosystem data" || echo "No changes to commit"
 
       - name: Push changes
         run: |
           git push origin ${{ env.BRANCH_NAME }}
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
+        uses: actions/github-script@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "chore: update ecosystem data"
-          body: |
-            🤖 This PR was automatically generated to update the ecosystem database.
+          script: |
+            const prBody = `🤖 This PR was automatically generated to update the ecosystem database.
 
             ## Changes
-            - Updated `data.json` with latest ecosystem data
-            - Updated company logos in `logos/` directory
+            - Updated \`data.json\` with latest ecosystem data
+            - Updated company logos in \`logos/\` directory
 
-            Please review the changes and merge if everything looks correct.
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
-          labels: |
-            automated
-            ecosystem-update
+            Please review the changes and merge if everything looks correct.`;
+
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "chore: update ecosystem data",
+              head: "${{ env.BRANCH_NAME }}",
+              base: "main",
+              body: prBody,
+              maintainer_can_modify: true
+            });
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+              labels: ["automated", "ecosystem-update"]
+            });
