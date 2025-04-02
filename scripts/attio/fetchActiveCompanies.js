@@ -147,11 +147,16 @@ function mapCompanyData(activeCompaniesData) {
   return mappedData;
 }
 
-// Save results to file and log summary
+// Order by name, save results to file and log summary
 function saveAndLogResults(mappedCompanies) {
+  // Sort companies by project name
+  const sortedCompanies = mappedCompanies.sort((a, b) =>
+    a.project.localeCompare(b.project)
+  );
+
   require("fs").writeFileSync(
     "data.json",
-    JSON.stringify(mappedCompanies, null, 2)
+    JSON.stringify(sortedCompanies, null, 2)
   );
 
   console.log("\nData has been saved to 'data.json'");
