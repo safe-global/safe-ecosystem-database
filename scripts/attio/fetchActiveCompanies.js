@@ -177,7 +177,7 @@ async function getActiveCompanies() {
   }
 }
 
-// Allow both direct execution and importing
+// Only allow importing
 if (require.main === module) {
   getActiveCompanies();
 }
