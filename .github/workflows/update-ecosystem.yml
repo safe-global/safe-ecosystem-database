@@ -28,9 +28,12 @@ jobs:
         run: node scripts/attio/updateEcosystem.js
 
       - name: Commit changes
+        if: success()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git diff data.json || true
+          git diff logos/ || true
           git add data.json logos/
           git commit -m "chore: update ecosystem data [skip ci]" || echo "No changes to commit"
 
