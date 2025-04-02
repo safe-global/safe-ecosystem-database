@@ -144,10 +144,6 @@ function mapCompanyData(activeCompaniesData) {
     };
   });
 
-  console.log(
-    "First 3 company names",
-    mappedData.slice(0, 3).map((company) => company.project)
-  );
   return mappedData;
 }
 
