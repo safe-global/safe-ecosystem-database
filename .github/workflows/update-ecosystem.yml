@@ -52,21 +52,25 @@ jobs:
           echo "Pushing to branch: ${{ env.BRANCH_NAME }}"
           git push origin ${{ env.BRANCH_NAME }} --force
 
-      # - name: Create Pull Request
-      #   uses: peter-evans/create-pull-request@v5
-      #   with:
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     title: "chore: update ecosystem data"
-      #     body: |
-      #       🤖 This PR was automatically generated to update the ecosystem database.
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          title: "chore: update ecosystem data"
+          body: |
+            🤖 This PR was automatically generated to update the ecosystem database.
 
-      #       ## Changes
-      #       - Updated `data.json` with latest ecosystem data
-      #       - Updated company logos in `logos/` directory
+            ## Changes
+            - Updated `data.json` with latest ecosystem data
+            - Updated company logos in `logos/` directory
 
-      #       Please review the changes and merge if everything looks correct.
-      #     branch: ${{ env.BRANCH_NAME }}
-      #     base: main
-      #     labels: |
-      #       automated
-      #       ecosystem-update
+            Please review the changes and merge if everything looks correct.
+          branch: ${{ env.BRANCH_NAME }}
+          base: main
+          labels: |
+            automated
+            ecosystem-update
+          delete-branch: false
+          commit-message: "chore: update ecosystem data"
+          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
