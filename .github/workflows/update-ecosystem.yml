@@ -53,24 +53,30 @@ jobs:
           git push origin ${{ env.BRANCH_NAME }} --force
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
+        uses: actions/github-script@v6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          title: "chore: update ecosystem data"
-          body: |
-            🤖 This PR was automatically generated to update the ecosystem database.
+          script: |
+            const prBody = `🤖 This PR was automatically generated to update the ecosystem database.
 
             ## Changes
-            - Updated `data.json` with latest ecosystem data
-            - Updated company logos in `logos/` directory
+            - Updated \`data.json\` with latest ecosystem data
+            - Updated company logos in \`logos/\` directory
 
-            Please review the changes and merge if everything looks correct.
-          branch: ${{ env.BRANCH_NAME }}
-          base: main
-          labels: |
-            automated
-            ecosystem-update
-          delete-branch: false
-          commit-message: "chore: update ecosystem data"
-          committer: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
-          author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+            Please review the changes and merge if everything looks correct.`;
+
+            const { data: pr } = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: "chore: update ecosystem data",
+              head: "${{ env.BRANCH_NAME }}",
+              base: "main",
+              body: prBody,
+              maintainer_can_modify: true
+            });
+
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+              labels: ["automated", "ecosystem-update"]
+            });
