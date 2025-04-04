@@ -134,7 +134,9 @@ function mapCompanyData(activeCompaniesData) {
       github_dev_docs: values?.github_5?.[0]?.value || "",
       twitter: values?.twitter?.[0]?.value || "",
       primary_integration:
-        values?.primary_integration?.[0]?.option?.title || "",
+        values?.primary_integration
+          ?.map((int) => int.option?.title)
+          .join(", ") || "",
       packages:
         values?.packages?.map((pkg) => pkg.option?.title).join(", ") || "",
       modules_guards: company.modules_guards || "",
