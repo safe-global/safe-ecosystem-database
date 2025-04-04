@@ -118,6 +118,8 @@ function mapCompanyData(activeCompaniesData) {
     const companyName = values?.name?.[0]?.value || "";
     const sanitizedName = sanitizeFilename(companyName);
 
+    const domain = values?.domains?.[0]?.domain || "";
+
     return {
       project: companyName,
       description: values?.description?.[0]?.value || "",
@@ -130,7 +132,7 @@ function mapCompanyData(activeCompaniesData) {
       logo_url: values?.logo_url?.[0]?.value || "",
       logo_path: companyName ? `/logos/${sanitizedName}` : "",
       value_prop: values?.value_prop?.[0]?.value || "",
-      project_website: values?.domains?.[0]?.domain || "",
+      project_website: domain ? `https://${domain}` : "",
       github_dev_docs: values?.github_5?.[0]?.value || "",
       twitter: values?.twitter?.[0]?.value || "",
       primary_integration:
