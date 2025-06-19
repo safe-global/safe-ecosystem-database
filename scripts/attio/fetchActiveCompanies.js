@@ -117,7 +117,13 @@ function mapCompanyData(activeCompaniesData) {
 
     const companyName = values?.name?.[0]?.value || "";
     const sanitizedName = sanitizeFilename(companyName);
-
+    const logoUrl = values?.logo_url?.[0]?.value || "";
+    // Extract file extension from logoUrl (e.g., ".png", ".jpg")
+    let logoExtension = "";
+    if (logoUrl) {
+      const match = logoUrl.match(/\.[a-zA-Z0-9]+$/);
+      logoExtension = match ? match[0] : "";
+    }
     const domain = values?.domains?.[0]?.domain || "";
 
     return {
@@ -129,8 +135,8 @@ function mapCompanyData(activeCompaniesData) {
         values?.secondary_categories
           ?.map((cat) => cat.option?.title)
           .join(", ") || "",
-      logo_url: values?.logo_url?.[0]?.value || "",
-      logo_path: companyName ? `/logos/${sanitizedName}` : "",
+      logo_url: logoUrl,
+      logo_path: companyName ? `/logos/${sanitizedName}${logoExtension}` : "",
       value_prop: values?.value_prop?.[0]?.value || "",
       project_website: domain ? `https://${domain}/` : "",
       github_dev_docs: values?.github_5?.[0]?.value || "",
