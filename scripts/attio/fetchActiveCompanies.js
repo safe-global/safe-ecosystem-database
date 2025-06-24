@@ -121,7 +121,7 @@ function mapCompanyData(activeCompaniesData) {
     // Extract file extension from logoUrl (e.g., ".png", ".jpg")
     let logoExtension = "";
     if (logoUrl) {
-      const match = logoUrl.match(/\.[a-zA-Z0-9]+$/);
+      const match = logoUrl.match(/\.(png|jpg|jpeg|svg|gif|webp)(?=\?|$)/i);
       logoExtension = match ? match[0] : "";
     }
     const domain = values?.domains?.[0]?.domain || "";
